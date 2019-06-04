@@ -7,7 +7,7 @@ Brought back to the GUI by popular demand, Solarized-Dark - originally created b
 
 In His Own Words:
 
-Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. It has several unique properties. I designed this colorscheme with both precise CIELAB lightness relationships and a refined set of hues based on fixed color wheel relationships. It has been tested extensively in real world use on color calibrated displays (as well as uncalibrated/intentionally miscalibrated displays) and in a variety of lighting conditions. ~ https://ethanschoonover.com/solarized/
+"Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications. It has several unique properties. I designed this colorscheme with both precise CIELAB lightness relationships and a refined set of hues based on fixed color wheel relationships. It has been tested extensively in real world use on color calibrated displays (as well as uncalibrated/intentionally miscalibrated displays) and in a variety of lighting conditions." https://ethanschoonover.com/solarized/
 
 This GTK and GNOME-Shell theme represents a careful blending of modernized Numix elements, in tandem with those of minimalist genus Rafa Capoci, with an overlay of the original standard Solarized-Dark theming created by Ethan Schoonover.
 

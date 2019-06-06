@@ -1,4 +1,4 @@
-# Solarized-Dark 'Returns' for GTK GNOME-Shell xfwm4 openbox-3 
+# Solarized-Dark 'Returns' for GTK GNOME-Shell Xfwm4 Openbox-3 
 A GTK, xfwm4, openbox-3, and GNOME-Shell - Dark Mode Theme - Based on the Official Color Pallet Created by Ethan Schoonover.
 
 Brought back to the GUI by popular demand, Solarized-Dark - originally created by Ethan Schoonover - is the highly valued color scheme for code editors and terminal emulators. Delivering GTK, xfwm4, openbox-3, and GNOME-Shell dark-mode-schemes, this GUI-centric theme strictly adheres to Ethan Schoonover's original color scheme, which has been published for many major applications, with some including the scheme pre-installed. Coders and GUI users, alike, know that - once you try Solarized-Dark - it is hard to go back to anything else.
@@ -9,4 +9,4 @@ In His Own Words:
 
 The GTK, xfwm4, openbox-3, and GNOME-Shell theme represents a careful blending of modernized Numix elements, in tandem with those of minimalist artist Rafa Capoci, with an overlay of the original standard Solarized-Dark theming created by Ethan Schoonover.
 
-The GTK metatheme also provides support for xfwm4, openbox-3. 
+The GTK metatheme also provides support for Xfwm4, Openbox-3. 

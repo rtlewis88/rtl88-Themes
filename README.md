@@ -1,4 +1,4 @@
-# Solarized-Dark-GTK-Theme-Colorpack for GTK, GNOME-Shell, Xfwm4, and Openbox-3 
+# Solarized-Dark-gtk-theme-colorpack 
 A GTK, xfwm4, openbox-3, and GNOME-Shell - Dark Mode Theme - Based on the Official Color Pallet Created by Ethan Schoonover.
 
 Choose from the official Blue, Cyan, Green, Magenta, Orange, Red, and Violet flavors. 
@@ -11,4 +11,12 @@ In His Own Words:
 
 The GTK, xfwm4, openbox-3, and GNOME-Shell theme represents a careful blending of modernized Numix elements, in tandem with those of minimalist artist Rafa Capoci, with an overlay of the original standard Solarized-Dark theming created by Ethan Schoonover.
 
-The GTK metatheme also provides support for Xfwm4, Openbox-3. 
+
+Manual Installation Is Easy: 1) Extract the "tar.xz" file into your  "~/.themes/" folder - to install for current user only - or into the "/usr/share/themes/" folder - for the theme to be applied globally. 2) Use the GNOME Tweak Tool or an equivalent app to enable it for your desktop.
+
+Logging out and then logging back in may be necessary on some operating systems, to fully implement themes. 
+
+If installing manually, make sure to install the dependency: "Murrine theme engine" if you do not already have it; and update your GTK+packages if you have not.
+
+
+Roboto and Roboto-Medium are the UI fonts, and Validus is the icon theme shown in the screenshots.

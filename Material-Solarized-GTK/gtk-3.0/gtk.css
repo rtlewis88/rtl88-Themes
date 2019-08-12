@@ -2499,6 +2499,22 @@ radio:not(:checked):not(:indeterminate):not(:disabled) {
   color: rgba(211, 218, 227, 0.7);
 }
 
+popover modelbutton.flat check:not(:checked):not(:indeterminate):not(:disabled) {
+  -gtk-icon-source: -gtk-icontheme("checkbox-symbolic");
+}
+
+popover modelbutton.flat check:checked:not(:indeterminate):not(:disabled) {
+  -gtk-icon-source: -gtk-icontheme("checkbox-checked-symbolic");
+}
+
+popover modelbutton.flat radio:not(:checked):not(:indeterminate):not(:disabled) {
+  -gtk-icon-source: -gtk-icontheme("radio-symbolic");
+}
+
+popover modelbutton.flat radio:checked:not(:indeterminate):not(:disabled) {
+  -gtk-icon-source: -gtk-icontheme("radio-checked-symbolic");
+}
+
 popover modelbutton.flat check.left:dir(rtl), popover modelbutton.flat
 radio.left:dir(rtl) {
   margin-left: -12px;

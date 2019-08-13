@@ -1,6 +1,8 @@
-COBA is a flat, dark-mode theme with transparent elements, for  GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon desktop environments. COBA also has two varieties of matching Icons and Folders.
+COBA is a flat, dark-mode theme built on the Material Design format for GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon desktop environments. COBA also has two varieties of matching Icons and Folders.
 
-COBA desktop theme consists of a color palette made of shades of cobalt blue, created for a clean and uncluttered design pattern to achieve a optimal focus and readability for code syntax highlighting and UI components. 
+Coba, the name of an ancient Mayan city, means ‘waters stirred by wind’ or ‘ruffled waters’ - as the ruins of this Mayan city is located on the Coba Lagoon.
+
+The COBA desktop theme consists of a color palette made of shades of cobalt blue, created for a clean and uncluttered design pattern to achieve a optimal focus and readability for code syntax highlighting and UI components.
 
 ***Matching Numix as well as matching Suru++ icons are also available for download here.
 

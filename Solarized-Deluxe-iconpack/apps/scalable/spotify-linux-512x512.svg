@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="spotify.svg">
+<defs id="defs21" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1670" inkscape:window-height="989" id="namedview19" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="-28.20339" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+<metadata id="metadata82">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g style="fill:none;stroke:#009688;stroke-linecap:round;stroke-linejoin:round" transform="matrix(1.3467586,0,0,1.7442358,-1250.2924,-1093.7159)" id="g68">
+<path style="stroke-width:40.34999847" inkscape:connector-curvature="0" d="m 960.43,715.23 c 110.72,-39.83 211.92,-40.502 319.27,0.34" id="path70" />
+<g style="stroke-width:26.89900017" id="g72">
+<path inkscape:connector-curvature="0" d="m 979.45,791.98 c 95.35,-37.428 182.33,-41.15 282.95,0.655" id="path74" />
+<path inkscape:connector-curvature="0" d="m 1001.1,861.63 c 67.01,-31.664 158.32,-42.11 238.76,-0.306" id="path76" />
+</g>
+</g>
+</svg>

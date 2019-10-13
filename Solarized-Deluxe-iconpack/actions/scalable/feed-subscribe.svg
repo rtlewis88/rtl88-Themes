@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r"
+   sodipodi:docname="feed-subscribe.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata100">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs98" />
+  <path
+     id="path10"
+     d="m 67.99982,55.99998 0.375,159.46876 L 284.87483,430.21875 443.99984,271.15625 227.46858,56.37498 67.99982,55.99998 Z m 50.90626,33.40625 c 10.07656,0 18.25,8.16629 18.25,18.25001 0,10.0651 -8.16628,18.21875 -18.25,18.21875 -10.07657,0 -18.21875,-8.14935 -18.21875,-18.21875 0,-10.08802 8.13502,-18.25001 18.21875,-18.25001 z m 82.15624,34.34376 147.78126,147.78126 -21,21.03124 -147.78126,-147.8125 21,-21 z m -46.65624,46.625 148.6875,148.71875 -20.96875,21.00001 -148.71875,-148.71876 21,-21 z M 101.59357,277.875 198.28108,456.00001 256.78109,428.1875 101.59357,277.875 Z"
+     style="fill:#009688" />
+</svg>

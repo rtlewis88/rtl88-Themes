@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="preferences-desktop-notification-bell.svg">
+<defs id="defs17" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview15" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="218.0339" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata36">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g id="g20" font-family="Gentium Book Basic" font-size="208.33" word-spacing="0" letter-spacing="0" />
+<path id="path30" d="m 195.53025,70.122142 c 11.44041,-3.065165 23.1992,3.723528 26.26436,15.163931 0.58147,2.170709 0.78653,4.342766 0.69479,6.474351 46.07191,-6.993756 77.42509,12.209396 90.78122,52.442376 16.1137,39.10918 26.34801,80.43359 65.45854,121.19003 16.77745,15.5093 31.28572,31.04289 63.59677,46.40514 6.3192,17.908 -7.99749,27.36657 -14.13457,32.82235 l -97.4323,25.82186 c 0.13356,0.4506 0.27387,0.89445 0.39664,1.3491 7.54823,28.17199 -9.16987,57.13456 -37.34051,64.67605 -28.17199,7.54824 -57.13456,-9.16986 -64.67605,-37.3405 -0.14841,-0.55448 -0.28062,-1.10492 -0.41013,-1.6594 l -98.0394,25.99319 c -10.00226,-1.3626 -21.01769,-1.21824 -27.90352,-20.76136 14.43541,-21.89596 26.01207,-42.34434 31.46785,-66.40291 0.19697,-0.86882 0.57472,-1.70122 0.8351,-2.58219 9.45722,-53.89671 4.55457,-100.49477 -4.25238,-140.67109 -10.58777,-37.21908 10.96957,-73.0405 52.31826,-90.47092 -1.22094,-1.86177 -2.19499,-3.919152 -2.80209,-6.186997 -3.06516,-11.440403 3.72353,-23.199195 15.16393,-26.26436" inkscape:connector-curvature="0" style="fill:#009688;fill-rule:evenodd" />
+</svg>

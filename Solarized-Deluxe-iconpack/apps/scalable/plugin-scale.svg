@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="plugin-scale.svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata72">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path66"
+     fill="#009688"
+     d="m272.44 113.72c-5.48 0-9.875 4.426-9.875 9.906v91.03c0 5.48 4.395 9.875 9.875 9.875h118.09c5.48 0 9.906-4.395 9.906-9.875v-91.03c0-5.48-4.426-9.906-9.906-9.906h-118.09m-166.19 46.531c-5.48 0-9.875 4.395-9.875 9.875v76.66c0 5.48 4.395 9.875 9.875 9.875h91.03c5.48 0 9.875-4.395 9.875-9.875v-76.66c0-5.48-4.395-9.875-9.875-9.875h-91.03m109.31 122.41c-5.48 0-9.906 4.395-9.906 9.875v89.34c0 5.48 4.426 9.875 9.906 9.875h129.94c5.48 0 9.906-4.395 9.906-9.875v-89.34c0-5.48-4.426-9.875-9.906-9.875h-129.94" />
+</svg>

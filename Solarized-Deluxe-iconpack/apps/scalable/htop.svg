@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="htop.svg">
+  <defs
+     id="defs88" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     id="namedview86"
+     showgrid="false"
+     inkscape:zoom="1.528656"
+     inkscape:cx="119.60568"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata162">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     style="font-size:208.33000183px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="-1160.48"
+     y="549.52002"
+     line-height="125%"
+     font-size="208.33"
+     id="text6">
+    <tspan
+       x="-1160.48"
+       y="549.52002"
+       id="tspan8" />
+  </text>
+  <text
+     style="font-size:75.69999695px;font-family:Arial;text-anchor:middle"
+     x="28.533854"
+     y="1642.2427"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="75.7"
+     id="text10" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="729.64001"
+     y="231.35997"
+     line-height="125%"
+     font-size="129.23"
+     id="text28">
+    <tspan
+       x="729.64001"
+       y="231.35997"
+       id="tspan30" />
+  </text>
+  <text
+     style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+     x="378.90805"
+     y="579.25812"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="46.954"
+     id="text32" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="1310.91"
+     y="151.35997"
+     line-height="125%"
+     font-size="129.23"
+     id="text34">
+    <tspan
+       x="1310.91"
+       y="151.35997"
+       id="tspan36" />
+  </text>
+  <text
+     style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+     x="523.75732"
+     y="258.21997"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="46.954"
+     id="text38" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="239.33"
+     y="-29.900009"
+     line-height="125%"
+     font-size="129.23"
+     id="text40">
+    <tspan
+       x="239.33"
+       y="-29.900009"
+       id="tspan42" />
+  </text>
+  <text
+     style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+     x="256.71869"
+     y="-469.1264"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="46.954"
+     id="text44" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="1337.38"
+     y="-246.37001"
+     line-height="125%"
+     font-size="129.23"
+     id="text46">
+    <tspan
+       x="1337.38"
+       y="-246.37001"
+       id="tspan48" />
+  </text>
+  <text
+     style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+     x="530.3573"
+     y="-1337.802"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="46.954"
+     id="text50" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="1918.65"
+     y="-326.37"
+     line-height="125%"
+     font-size="129.23"
+     id="text52">
+    <tspan
+       x="1918.65"
+       y="-326.37"
+       id="tspan54" />
+  </text>
+  <text
+     style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+     x="675.20654"
+     y="-1658.8303"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="46.954"
+     id="text56" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="1529.53"
+     y="-798.77002"
+     line-height="125%"
+     font-size="129.23"
+     id="text58">
+    <tspan
+       x="1529.53"
+       y="-798.77002"
+       id="tspan60" />
+  </text>
+  <text
+     style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+     x="578.237"
+     y="-3554.4807"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="46.954"
+     id="text62" />
+  <text
+     style="font-size:129.22999573px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="2110.79"
+     y="-878.78003"
+     line-height="125%"
+     font-size="129.23"
+     id="text64">
+    <tspan
+       x="2110.79"
+       y="-878.78003"
+       id="tspan66" />
+  </text>
+  <text
+     style="font-size:46.95399857px;font-family:Arial;text-anchor:middle"
+     x="723.0863"
+     y="-3875.519"
+     transform="scale(4.0128205,0.24920128)"
+     font-size="46.954"
+     id="text68" />
+  <text
+     style="font-size:208.33000183px;line-height:125%;font-family:'Gentium Book Basic';letter-spacing:0;word-spacing:0"
+     sodipodi:linespacing="125%"
+     letter-spacing="0"
+     word-spacing="0"
+     x="277.98999"
+     y="535.94006"
+     line-height="125%"
+     font-size="208.33"
+     id="text70">
+    <tspan
+       x="277.98999"
+       y="535.94006"
+       id="tspan72" />
+  </text>
+  <g
+     transform="matrix(1.1084225,0,0,1.1084225,-30.085625,-626.84817)"
+     id="g74"
+     style="fill:#009688">
+    <g
+       transform="matrix(1.2002,0,0,1.2002,-1.786,-164.81)"
+       id="g76"
+       style="fill:#009688">
+      <g
+         transform="translate(-48.19,0)"
+         id="g78"
+         style="fill:#009688">
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 321.36,659.56 18.314,0 0,64.65 -18.31,0 z"
+           id="0" />
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 347.67,659.56 18.314,0 0,64.65 -18.31,0 z"
+           id="1" />
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 321.36,732.21 18.314,0 0,64.65 -18.31,0 z"
+           id="2" />
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 347.67,732.21 18.314,0 0,64.65 -18.31,0 z"
+           id="3" />
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 321.36,804.86 18.314,0 0,64.65 -18.31,0 z"
+           id="4" />
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 347.67,804.86 18.314,0 0,64.65 -18.31,0 z"
+           id="5" />
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 321.36,877.51 18.314,0 0,64.65 -18.31,0 z"
+           id="6" />
+        <path
+           style="fill:#009688;fill-rule:evenodd"
+           inkscape:connector-curvature="0"
+           d="m 347.67,877.51 18.314,0 0,64.65 -18.31,0 z"
+           id="7" />
+      </g>
+      <g
+         transform="translate(-206.07,0)"
+         id="g88"
+         style="fill:#009688">
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#0"
+           id="use90"
+           style="fill:#009688" />
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#1"
+           id="use92"
+           style="fill:#009688" />
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#2"
+           id="use94"
+           style="fill:#009688" />
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#3"
+           id="use96"
+           style="fill:#009688" />
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#4"
+           id="use98"
+           style="fill:#009688" />
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#5"
+           id="use100"
+           style="fill:#009688" />
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#6"
+           id="use102"
+           style="fill:#009688" />
+        <use
+           y="0"
+           x="0"
+           width="1"
+           height="1"
+           xlink:href="#7"
+           id="use104"
+           style="fill:#009688" />
+      </g>
+      <g
+         style="fill:#009688;fill-rule:evenodd"
+         transform="translate(0,27.27)"
+         id="g106">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 167.91,738.35 18.314,0 0,64.65 -18.31,0 z"
+           id="path108"
+           style="fill:#009688" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 194.23,738.35 18.314,0 0,64.65 -18.31,0 z"
+           id="path110"
+           style="fill:#009688" />
+        <g
+           transform="translate(52.628,-72.65)"
+           id="g112"
+           style="fill:#009688">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 167.91,811 18.314,0 0,64.65 -18.31,0 z"
+             id="path114"
+             style="fill:#009688" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 194.23,811 18.314,0 0,64.65 -18.31,0 z"
+             id="path116"
+             style="fill:#009688" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="font-weight:bold;font-size:88.65000153px;line-height:125%;font-family:Sans;letter-spacing:0;word-spacing:0;fill:#009688"
+       letter-spacing="0"
+       word-spacing="0"
+       line-height="125%"
+       font-size="88.65"
+       transform="translate(7.258,-0.039)"
+       font-weight="bold"
+       id="g118">
+      <text
+         x="378.16"
+         y="690.09998"
+         id="text120"
+         style="fill:#009688">
+        <tspan
+           x="378.16"
+           y="690.09998"
+           id="tspan122"
+           style="fill:#009688">]</tspan>
+      </text>
+      <text
+         x="378.16"
+         y="777.47998"
+         id="text124"
+         style="fill:#009688">
+        <tspan
+           x="378.16"
+           y="777.47998"
+           id="tspan126"
+           style="fill:#009688">]</tspan>
+      </text>
+      <g
+         transform="translate(0,176.27)"
+         id="g128"
+         style="fill:#009688">
+        <text
+           x="378.16"
+           y="690.09998"
+           id="text130"
+           style="fill:#009688">
+          <tspan
+             x="378.16"
+             y="690.09998"
+             id="tspan132"
+             style="fill:#009688">]</tspan>
+        </text>
+        <text
+           x="378.16"
+           y="777.47998"
+           id="text134"
+           style="fill:#009688">
+          <tspan
+             x="378.16"
+             y="777.47998"
+             id="tspan136"
+             style="fill:#009688">]</tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       style="font-weight:bold;font-size:88.65000153px;line-height:125%;font-family:Sans;letter-spacing:0;word-spacing:0;fill:#009688"
+       letter-spacing="0"
+       word-spacing="0"
+       line-height="125%"
+       font-size="88.65"
+       transform="matrix(-1,0,0,1,508.95,-0.039)"
+       font-weight="bold"
+       id="g138">
+      <text
+         x="378.16"
+         y="690.09998"
+         id="text140"
+         style="fill:#009688">
+        <tspan
+           x="378.16"
+           y="690.09998"
+           id="tspan142"
+           style="fill:#009688">]</tspan>
+      </text>
+      <text
+         x="378.16"
+         y="777.47998"
+         id="text144"
+         style="fill:#009688">
+        <tspan
+           x="378.16"
+           y="777.47998"
+           id="tspan146"
+           style="fill:#009688">]</tspan>
+      </text>
+      <g
+         transform="translate(0,176.27)"
+         id="g148"
+         style="fill:#009688">
+        <text
+           x="378.16"
+           y="690.09998"
+           id="text150"
+           style="fill:#009688">
+          <tspan
+             x="378.16"
+             y="690.09998"
+             id="tspan152"
+             style="fill:#009688">]</tspan>
+        </text>
+        <text
+           x="378.16"
+           y="777.47998"
+           id="text154"
+           style="fill:#009688">
+          <tspan
+             x="378.16"
+             y="777.47998"
+             id="tspan156"
+             style="fill:#009688">]</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="bespin-logo.svg">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g66"
+     fill="#009688"
+     transform="matrix(.78634 0 0 .78634 1185.5 -377.85)"
+     fill-rule="evenodd">
+    <path
+       id="path68"
+       d="m-1210.3 88.81c-86.05 0-155.81 73.886-155.81 165.03 0 90.97 69.49 164.75 155.31 165.03 0.167 0.001 0.333 0 0.5 0h171.53v-0.75h0.094v-201.47h-71.5l-54.656 75.66h-37.03v-203.25c-2.8-0.159-5.6-0.25-8.437-0.25"
+       transform="translate(0,540.36)" />
+    <path
+       id="path70"
+       d="m-1088.2 145.37c0 24.798-20.1 44.901-44.901 44.901-24.798 0-44.901-20.1-44.901-44.901 0-24.798 20.1-44.901 44.901-44.901 24.798 0 44.901 20.1 44.901 44.901"
+       transform="matrix(1.0787 0 0 1.0787 98.77 534.93)" />
+  </g>
+</svg>

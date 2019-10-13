@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="search.svg">
+<defs id="defs17" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1680" inkscape:window-height="994" id="namedview15" showgrid="false" inkscape:zoom="1.3037281" inkscape:cx="40.167185" inkscape:cy="244.919" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+<metadata id="metadata28">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g style="fill:#009688" id="g66" transform="matrix(-0.74359781,0,0,0.74359781,448.46636,53.55549)">
+<path inkscape:connector-curvature="0" id="path68" d="M 501.25,414.85 379.81,313.63 c -17.188,26.438 -39.75,49 -66.16,66.19 l 101.19,121.44 c 11.25,13.5 30.656,14.406 43.09,1.969 l 45.28,-45.28 c 12.437,-12.439 11.531,-31.845 -1.969,-43.1" />
+<path inkscape:connector-curvature="0" id="path70" d="M 384,192 C 384,85.97 298.03,0 192,0 85.97,0 0,85.969 0,192 0,298.031 85.969,384 192,384 298.031,384 384,298.03 384,192 M 192,336 C 112.59,336 48,271.41 48,192 48,112.59 112.59,48 192,48 c 79.41,0 144,64.59 144,144 10e-4,79.41 -64.59,144 -144,144" />
+</g>
+</svg>

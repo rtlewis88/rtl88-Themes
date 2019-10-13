@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="trillian.svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata72">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path66"
+     d="m118.34 341.29c10.02 37.413 48.48 59.61 85.89 49.589 36.59-9.804 58.63-46.795 50.2-83.42l-9.735-49.28 44.24-15.15c0.129-0.034 0.258-0.069 0.387-0.104 3.318-0.889 6.522-2.01 9.589-3.327l0.404-0.133-0.052-0.011c31.29-13.628 48.75-48.45 39.648-82.42-10.02-37.413-48.48-59.64-85.9-49.612-36.59 9.804-58.62 46.818-50.2 83.44l8.978 48.19-43.27 16.188c-0.197 0.053-0.395 0.106-0.593 0.159-37.413 10.02-59.61 48.48-49.589 85.89m27.306-7.316c-5.337-19.916 4.64-40.32 22.705-48.737 49.619-17.432 0-0.265 49.754-17.533l0.145 0.45c9.272 49.659-0.137-0.225 9.436 50.53 2.18 20.16-10.575 39.477-30.772 44.889-22.324 5.982-45.29-7.276-51.27-29.6m93.72-102.72-2.979-15.13-0.029-0.017c-3.405-18.342 1.3 6.534-6.681-35.782-2.18-20.16 10.581-39.454 30.778-44.866 22.324-5.982 45.28 7.253 51.26 29.577 5.337 19.916-4.64 40.32-22.705 48.737-42.815 15.04-15.13 5.496-37.753 13.365-0.744 0.259-1.846 0.639-2.481 0.86-3.282 1.141-4.077 1.403-9.412 3.255"
+     fill-rule="evenodd"
+     fill="#009688" />
+</svg>

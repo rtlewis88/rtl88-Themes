@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r"
+   sodipodi:docname="arrow-left-double.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs100" />
+  <path
+     d="m 439.08783,67.91623 c 1.76995,-0.19546 2.86454,0.26287 3.68008,0.73737 13.03799,7.52461 13.2321,172.43784 13.2321,187.49515 0,15.05462 -0.19546,179.97325 -13.2321,187.49517 -13.04337,7.53 -156.08646,-74.81474 -169.12175,-82.35014 -9.85802,-5.69265 -94.08189,-53.94748 -134.55869,-83.81946 l 0,111.03586 c 0,22.87983 -19.03394,41.90972 -41.90972,41.90972 -22.88522,0 -41.17776,-19.03395 -41.17776,-41.90972 l 0,-264.70935 c 0,-22.87984 18.29254,-41.90974 41.17776,-41.90974 22.87983,0 41.90972,19.03395 41.90972,41.90974 l 0,111.03584 C 179.55483,204.96469 263.7787,156.70448 273.64616,151.0172 285.87265,143.96171 412.58588,70.83738 439.08783,67.92567"
+     id="path10"
+     style="fill:#009688;fill-rule:evenodd" />
+</svg>

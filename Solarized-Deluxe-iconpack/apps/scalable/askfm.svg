@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="askfm.svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path3088"
+     fill="#009688"
+     d="m309 120.03c-92.441-0.0284-158.46 49.228-180.23 134.52-6.2639 24.533-6.8501 59.043-1.4215 80.597 4.8246 19.159 24.549 42.636 43.197 51.396 17.99 8.451 50.405 6.8663 70.319-3.3901 13.737-7.0758 29.889-22.284 41.67-39.259 5.9319-8.5508 5.9514-8.175 3.6093 16.623l-2.4062 25.369h70.757v-16.623c0.0487-27.99 6.4507-76.067 21.106-158.03 7.7074-43.099 13.418-78.884 12.686-79.614-4.3067-4.3067-53.994-11.585-79.29-11.593m-26.246 57.192c3.9056-0.18428 7.8137 0.0974 11.701 0.87514 6.035 1.2072 11.046 4.3594 11.046 6.9994 0 10.532-17.081 84.445-22.529 97.547-17.766 42.702-49.258 62.948-68.355 43.854-9.5209-9.5209-11.758-20.885-9.8392-50.197 3.4218-52.362 40.223-97.296 77.975-99.082" />
+</svg>

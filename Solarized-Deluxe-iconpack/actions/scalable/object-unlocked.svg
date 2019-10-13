@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="object-unlocked.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata100">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs98" />
+  <path
+     d="M 254.43842,56 C 202.09382,56 148.9672,91.25207 148.9672,144.28415 l 0,96.08995 -39.05757,0 0,215.62591 292.1799,0 0,-215.62591 c -69.98997,-1.19736 -144.6577,-0.0903 -205.4569,0 l 0,-85.93527 c 0,-32.51646 32.78002,-49.87109 57.02664,-49.99426 25.93814,-0.13464 53.48039,16.17444 57.80579,42.18418 44.41422,-2.89316 41.40649,-2.57376 50.78345,-5.47121 0,-39.85104 -41.43513,-85.14752 -107.8058,-85.14752 m 0.77772,232.02522 c 16.13006,0 28.9029,12.77857 28.9029,28.90288 0,9.6176 -4.54311,18.11516 -11.72158,23.43599 l 11.72158,64.83816 -57.80579,0 11.71584,-64.83816 c -7.41908,-5.29791 -12.49928,-13.62933 -12.49928,-23.43599 0,-16.13004 13.56201,-28.90288 29.68633,-28.90288"
+     id="path10"
+     style="fill:#009688;fill-rule:evenodd" />
+</svg>

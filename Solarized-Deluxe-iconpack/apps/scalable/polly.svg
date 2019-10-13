@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="polly.svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata80">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g66"
+     fill="#009688">
+    <path
+       id="path68"
+       d="m248.56 103.75c-12.546 0.069-24.296 6.804-29.904 18.415-8.157 16.889-0.292 37.807 17.505 46.86 17.796 9.05 38.814 2.816 46.971-14.07 8.157-16.889 0.437-37.957-17.359-47.01-5.561-2.83-11.51-4.223-17.213-4.192m-8.606 17.816c3.976-0.402 8.168 0.392 12.11 2.394 10.505 5.344 15.172 17.727 10.357 27.697s-17.211 13.728-27.716 8.384-15.172-17.727-10.357-27.697c3.01-6.231 8.982-10.11 15.608-10.779z" />
+    <path
+       id="path70"
+       d="m205.55 245.79c-37.854 19.779-82.13 49.653-68.982 76.65 17.741 36.437 103.8 47.551 147.9 28.894-21.657-23.473-87.02-57.16-80.955-96.57 0.475-3.087 1.192-6.03 2.041-8.983" />
+    <path
+       id="path72"
+       d="m297.44 185.78c-29.768-7.923-78.57 23.1-85.73 66.42-7.153 43.32 78.48 79.84 92.37 103.35 13.893 23.503 6.676 52.703 6.676 52.703s60.43-49.09 66.56-114.06c6.134-64.971-49.24-100.26-79.885-108.41" />
+  </g>
+</svg>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="colorhug-flash.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview50"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs68">
+    <linearGradient
+       id="ButtonShadow"
+       gradientUnits="userSpaceOnUse"
+       y1="92.54"
+       gradientTransform="scale(1.0059 .99417)"
+       x2="0"
+       y2="7.02">
+      <stop
+         id="stop3750-1" />
+      <stop
+         id="stop3752-6"
+         stop-opacity="0.588"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter3174"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3176"
+         stdDeviation="1.71" />
+    </filter>
+    <radialGradient
+       id="radialGradient21305"
+       gradientUnits="userSpaceOnUse"
+       cy="64"
+       cx="64"
+       r="64">
+      <stop
+         id="stop4218-0"
+         stop-color="#fff" />
+      <stop
+         id="stop4220-2"
+         stop-color="#e8e8e8"
+         offset="0.688" />
+      <stop
+         id="stop4222-6"
+         stop-color="#686868"
+         offset="0.875" />
+      <stop
+         id="stop4224-6"
+         offset="1" />
+    </radialGradient>
+    <filter
+       id="filter3657"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3659"
+         stdDeviation="1.14" />
+    </filter>
+    <clipPath
+       id="clipPath3649">
+      <rect
+         id="rect3651"
+         rx="4"
+         height="76"
+         width="76"
+         y="10"
+         x="10"
+         fill="#009688" />
+    </clipPath>
+    <clipPath
+       id="clipPath3625">
+      <path
+         id="path3627"
+         d="m0 0v96h96v-96h-96zm12 6h72c3.324 0 6 2.676 6 6v72c0 3.324-2.676 6-6 6h-72c-3.324 0-6-2.676-6-6v-72c0-3.324 2.676-6 6-6z" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient3737">
+      <stop
+         id="stop3739"
+         stop-color="#fff" />
+      <stop
+         id="stop3741"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient31361"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="matrix(5.5614 0 0 5.5614 -68.443 384.26)"
+       y1="90"
+       y2="5.988">
+      <stop
+         id="stop3702"
+         stop-color="#2276c5" />
+      <stop
+         id="stop3704"
+         stop-color="#68baf4"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient31364"
+       cx="48"
+       xlink:href="#linearGradient3737"
+       gradientUnits="userSpaceOnUse"
+       cy="90.17"
+       r="42"
+       gradientTransform="matrix(6.4363 0 0 5.5387 -110.44 -170.79)" />
+    <linearGradient
+       id="linearGradient31367"
+       xlink:href="#linearGradient3737"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="matrix(5.5614 0 0 5.5614 -68.443 -171.89)"
+       y1="6"
+       y2="63.893" />
+    <linearGradient
+       id="linearGradient31370"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       gradientTransform="matrix(5.5614 0 0 5.5614 -68.443 -171.89)"
+       y1="6"
+       y2="90.02">
+      <stop
+         id="stop3639"
+         stop-color="#f0f0f0" />
+      <stop
+         id="stop3641"
+         stop-color="#dcdcdc"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter3794"
+       width="1.384"
+       y="-0.192"
+       x="-0.192"
+       height="1.384"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3796"
+         stdDeviation="5.28" />
+    </filter>
+    <linearGradient
+       id="linearGradient3613"
+       y2="138.66"
+       gradientUnits="userSpaceOnUse"
+       y1="20.221"
+       x2="0">
+      <stop
+         id="stop3739-0"
+         stop-color="#fff" />
+      <stop
+         id="stop3741-6"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <clipPath
+       id="clipPath3613">
+      <rect
+         id="rect3615"
+         rx="6"
+         height="84"
+         width="84"
+         y="6"
+         x="6"
+         fill="#009688" />
+    </clipPath>
+  </defs>
+  <path
+     id="path10884"
+     fill="#009688"
+     d="m256 68.969c-52.388 0-94.844 42.324-94.844 94.531 0 2.9191 0.11516 5.7734 0.375 8.625 12.075-5.5513 25.517-8.625 39.688-8.625 6.6357 0 13.156 0.67702 19.406 1.9688-0.0367-0.65509-0.0937-1.3046-0.0937-1.9688 0-19.519 15.883-35.375 35.469-35.375s35.469 15.856 35.469 35.375c0 0.66419-0.0571 1.3136-0.0937 1.9688 6.2511-1.2917 12.739-1.9688 19.375-1.9688 14.171 0 27.644 3.0737 39.719 8.625 0.25984-2.8516 0.375-5.7059 0.375-8.625 0-52.207-42.456-94.531-94.844-94.531zm-4.84 106.78c-49.283-0.38262-89.909 54.119-74.812 101.25 11.602 45.531 67.82 73.445 110.56 52 7.5808-3.5743 16.261-8.7228 20.938-15.094-15.456-14.282 0.0294 0.0942-15.719-14.219-30.517 28.07-88.108 10.402-94.75-31.375-6.8344-30.688 14.371-65.305 46.406-69.281 17.582-3.1229 36.51 2.0825 49.438 14.469-6.2992 6.354-12.64 12.606-19.031 18.875 21.334 4.3946 40.467 8.0142 64.156 12.406-12.985-63.067-9.659-45.469-13.469-63.469-6.0132 5.1783-5.1633 3.8195-17.438 16.094-14.29-15.4-35.76-22.14-56.28-21.66zm121.34 47.75c-1.8922 20.784-10.558 39.641-23.75 54.344 11.561 5.8234 19.5 17.74 19.5 31.531 0 19.519-15.851 35.344-35.438 35.344-7.1661 0-13.86-2.1077-19.438-5.75-6.4082 19.41-18.916 36.051-35.312 47.625 15.467 10.913 34.356 17.312 54.75 17.312 52.388 0 94.844-42.324 94.844-94.531 0-38.08-22.599-70.901-55.156-85.875zm-234.22 7.3438c-32.558 14.974-55.156 47.795-55.156 85.875 0 52.207 42.456 94.531 94.844 94.531 20.394 0 39.283-6.399 54.75-17.312-16.396-11.574-28.904-28.215-35.312-47.625-5.5772 3.6423-12.271 5.75-19.438 5.75-19.586 0-35.438-15.825-35.438-35.344 0-13.791 7.9394-25.708 19.5-31.531-13.192-14.702-21.858-33.56-23.75-54.344z" />
+</svg>

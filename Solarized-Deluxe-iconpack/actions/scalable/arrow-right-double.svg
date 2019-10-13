@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r"
+   sodipodi:docname="arrow-right-double.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs100" />
+  <path
+     d="m 72.911816,67.91601 c -1.76995,-0.19546 -2.86454,0.26286 -3.68008,0.73736 -13.03799,7.52461 -13.2321,172.43785 -13.2321,187.49515 0,15.05463 0.19546,179.97325 13.2321,187.49517 13.04337,7.53 156.086464,-74.81473 169.121754,-82.35013 9.85802,-5.69266 94.08189,-53.94749 134.55869,-83.81946 l 0,111.03586 c 0,22.87982 19.03393,41.90972 41.90972,41.90972 22.88523,0 41.17776,-19.03395 41.17776,-41.90972 l 0,-264.70936 c 0,-22.87984 -18.29253,-41.90974 -41.17776,-41.90974 -22.87983,0 -41.90972,19.03395 -41.90972,41.90974 l 0,111.03584 C 332.44482,204.96447 248.22095,156.70425 238.35349,151.01697 226.127,143.96148 99.413756,70.83715 72.911816,67.92544"
+     id="path10"
+     style="fill:#009688;fill-rule:evenodd" />
+</svg>

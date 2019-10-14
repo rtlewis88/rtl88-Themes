@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="distributor-logo-kubuntu.svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g66"
+     fill="#009688"
+     transform="matrix(1.1305 0 0 1.1305 -1013.6 .136)"
+     fill-rule="evenodd">
+    <path
+       id="path68"
+       d="m1114.4 86.41c-0.136 0.01-0.27 0.028-0.406 0.063l-25.16 6.125c-1.057 0.259-1.813 1.217-1.813 2.313l11.09 51.19 0.438 0.25c8.454-2.831 17.468-4.375 26.875-4.375 42.46 0 77.63 31.25 83.75 72l51.75-11.344c1.015-0.485 1.551-1.597 1.281-2.688l-6.125-25.16c-0.26-1.059-1.219-1.812-2.313-1.813l-41.31-0.031c-3.487-6.572-7.794-12.766-12.875-18.406l13.469-37.906c0.375-1.054-0.04-2.228-1-2.813l-22.16-13.438c-0.936-0.57-2.108-0.425-2.875 0.344l-27.844 27.781c-8.255-2.636-16.718-4.097-25.16-4.344l-17.2-36.408c-0.363-0.763-1.105-1.264-1.906-1.344-0.134-0.017-0.27-0.01-0.406 0" />
+    <path
+       id="path70"
+       d="m1032.8 123.47c-0.527 0.055-1.042 0.289-1.438 0.688l-18.313 18.313c-0.77 0.772-0.911 1.971-0.344 2.906l21.469 35.31c-3.803 6.394-6.853 13.29-9.03 20.563l-39.38 8.188c-1.095 0.227-1.875 1.188-1.875 2.313v25.906c0 1.095 0.726 2.057 1.781 2.313l38.22 9.313c2.037 8.423 5.202 16.412 9.375 23.75l-22.12 33.75c-0.617 0.942-0.485 2.175 0.312 2.969l18.313 18.313c0.77 0.768 1.968 0.909 2.906 0.344l35.38-39.12v-0.563c-16.712-15.468-27.22-37.528-27.22-62.09 0-27.25 12.914-51.42 32.906-66.906l-39.37-35.875c-0.471-0.308-1.036-0.432-1.563-0.375" />
+    <path
+       id="path72"
+       d="m1208.1 244.88c-8.351 37.985-42.19 66.44-82.69 66.44-10.667 0-20.849-1.993-30.25-5.594l-0.25 0.156-13.531 51.19c-0.063 1.124 0.664 2.118 1.75 2.406l25 6.719c1.054 0.281 2.193-0.166 2.719-1.125l19.875-36.22c7.439 0.103 14.924-0.695 22.313-2.438l26.75 30.03c0.744 0.836 1.995 1.03 2.969 0.469l22.438-12.938c0.949-0.547 1.399-1.676 1.094-2.719l-11-37.75c6.281-5.97 11.631-12.689 15.906-19.969l40.25 2.313c1.124 0.064 2.147-0.663 2.437-1.75l6.719-25c0.281-1.051-0.167-2.187-1.125-2.719l-51.37-11.5" />
+  </g>
+</svg>

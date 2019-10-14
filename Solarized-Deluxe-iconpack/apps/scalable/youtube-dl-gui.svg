@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="youtube-dl.svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata72">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path66"
+     fill="#009688"
+     d="m257.62 162.65c-31.497 0-77.8 1.814-91.73 2.269-15.13 1.332-20.886 2.09-29.17 9.08-12.626 11.06-15.559 32.883-15.559 66.12v31.766c0 37.942 5.188 57.13 13.614 64.18 9.726 8.216 16.213 8.739 22.69 9.724 2.514 0.367 20.223 3.566 99.19 3.566 49.24 0 91.57-2.36 95.94-2.917 7.03-0.881 17-2.02 24.634-10.372 11.296-12.641 13.614-33.775 13.614-64.18v-36.628c0-19.68-1.184-47.672-13.614-59.32-9.416-7.849-12.929-10.06-32.414-11.02-5.51-0.249-53.605-2.269-87.19-2.269m-32.738 31.12h62.23v72.61h25.607l-56.71 58.34-56.72-58.34h25.607v-72.61" />
+</svg>

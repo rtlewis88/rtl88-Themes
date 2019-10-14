@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="ktimetracker.svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="647"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="263.59322"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g66"
+     transform="translate(-5.455,5.829)"
+     fill="#009688">
+    <path
+       id="path68"
+       d="m266.77 99.19c-80.67 0-146.57 63.27-150.78 142.89h-34.834l55.26 54.734 52.23-54.734h-41.742c4.165-62.58 56.23-112.07 119.86-112.07 66.36 0 120.16 53.802 120.16 120.16 0 66.36-53.802 120.13-120.16 120.13-31.25 0-59.709-11.932-81.08-31.479l-22.828 20.92c27.07 25.68 63.65 41.41 103.91 41.41 83.39 0 150.98-67.59 150.98-150.98s-67.59-150.98-150.98-150.98" />
+    <path
+       id="path70"
+       d="m269.44 162.63-8.906 0.5a3.3503 3.3503 0 0 0 -3.1875 3.1875l-4.438 95.06a3.3503 3.3503 0 0 0 1.125 2.6875l52.5 46.03a3.3503 3.3503 0 0 0 4.375 0.0312l6.938-5.938a3.3503 3.3503 0 0 0 0.25 -4.875l-41.22-43.12-3.906-90.34a3.3503 3.3503 0 0 0 -3.5312 -3.2188" />
+  </g>
+</svg>

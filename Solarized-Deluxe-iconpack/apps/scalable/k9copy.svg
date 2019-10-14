@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="k9copy.svg">
+  <metadata
+     id="metadata3424">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview3422"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="20.610169"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <filter
+       id="3"
+       y="-0.305"
+       width="1.254"
+       height="1.609"
+       x="-0.127">
+      <feGaussianBlur
+         stdDeviation="20.1495"
+         id="feGaussianBlur7" />
+    </filter>
+    <linearGradient
+       id="2"
+       x2="0"
+       y1="546.2"
+       y2="-1.09"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f27420"
+         id="stop10" />
+      <stop
+         stop-color="#e63c36"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m252.75 114.22c-10.762 0.139-21.258 1.222-29.938 3.25-58.54 13.679-101.5 57.987-114.06 117.66-2.921 13.872-3.246 40.881-0.625 54.5 4.133 21.48 13.262 43.32 25.313 60.63 8.382 12.03 25.777 29.1 37.906 37.16 18.496 12.278 40.32 20.997 60.47 24.19 11.673 1.849 36.39 1.884 47.5 0.063 33.11-5.425 58.662-18.557 82.56-42.469 13.803-13.81 20.18-22.483 27.719-37.563 10.831-21.663 15.13-38.469 15.938-62.5 0.62-18.364-0.892-31.451-5.375-46.969-14.757-51.08-56.06-90.85-107.87-103.87-11.432-2.874-25.695-4.242-39.531-4.063m10.688 28.938c0.648 0.038 1.755 0.629 2.969 1.719 1.072 0.963 4.193 3.526 6.938 5.688 8.377 6.597 20.314 19.602 26.563 28.906 10.1 15.05 16.406 30.21 20.625 49.781 2.421 11.229 2.476 45.83 0.094 56.38-0.87 3.85-1.43 7.182-1.25 7.375s2.535-1.742 5.25-4.281c9.638-9.02 13.778-23.296 12.781-44.09-0.343-7.15-0.849-14.575-1.125-16.5-0.46-3.204-0.28-3.044 2 1.813 4.217 8.982 9.554 26.921 11.188 37.563 2.866 18.668 0.396 38.783-6.688 54.41-8.88 19.584-28.04 39.478-47.844 49.688-3.173 1.636-2.999 1.312 2.656-5.406 7.116-8.454 11.581-16.507 13.688-24.594 1.556-5.973 2.052-13.636 0.938-14.75-0.337-0.337-2.292 1.511-4.344 4.094-7.988 10.06-18.03 17.407-25.563 18.75l-4 0.719 4.625-4.375c6.03-5.736 11.211-13.831 14.03-21.906 1.948-5.579 2.285-8.554 2.313-21 0.021-9.665-0.446-16-1.375-19l-1.406-4.5-1.313 6.25c-6.926 32.946-43.31 66.773-78.34 72.813-33.96 5.854-50.16-15.192-43.47-56.47 3.367-20.76 10.303-35.31 23.75-49.719 22.415-24.01 33.552-41.18 36.19-55.75l1.094-5.969 3.094 4.688c4.128 6.232 6.79 16.16 6.03 22.563-0.764 6.448-3.26 11.145-10.09 19-6.256 7.192-7.175 9.163-5.656 12 1.598 2.985 4.485 3.409 10.813 1.594 15.583-4.471 24.526-14.319 29.438-32.34 4.04-14.811 2.649-43.21-3.25-66.31-1.077-4.22-1.969-7.929-1.969-8.25 0-0.416 0.236-0.586 0.625-0.563"
+     fill="#009688"
+     id="path3420" />
+</svg>

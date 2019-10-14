@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Solarized-Dark-Blue-GTK
+Comment=Brought back to the GUI by popular demand, Solarized-Dark - originally created by Ethan Schoonover - is the highly valued color scheme for code editors and terminal emulators. This GTK and GNOME-Shell dark-mode-scheme Strictly Adheres to Ethan Schoonover's original color scheme, which has been published for many major applications, with some including the scheme pre-installed.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Solarized-Dark-Blue-GTK
+GtkTheme=Solarized-Dark-Blue-GTK
+IconTheme=Solarized-Dark-Blue-GTK
+MetacityTheme=Solarized-Dark-Blue-GTK

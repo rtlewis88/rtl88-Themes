@@ -1,0 +1,91 @@
+stage {
+    font-family: roboto-regular;
+    font-size: 11pt;
+    color: white;
+}
+
+#panel {
+    background-color: rgba(7, 54, 66, 1.0);
+    font-weight: medium;
+    height: 25px;
+}
+
+#panel .panel-corner {
+    -panel-corner-radius: 0;
+}
+
+#panel .panel-button {
+    font-weight: medium;
+}
+
+#dash {
+    background-color: rgba(7, 54, 66, 1.0);
+    border: 0;
+}
+
+StEntry {
+  border-width: 0;
+  background-color: rgba(38, 139, 210, 1.0);
+  padding: 5px;
+  min-height: 20px;
+  font-size: 11pt;
+  border-radius: 4px;
+}
+
+.workspace-thumbnail-indicator {
+  border: 0 solid #0000;
+  border-left-width: 2px;
+  padding: 2px;
+  border-radius: 0;
+}
+
+.workspace-thumbnails {
+  color: #b58900;
+  background-color: rgba(7, 54, 66, 1.0);
+  border: none;
+}
+
+
+
+/* Edição de transpencia e tamanho dos menus*/
+
+.popup-menu .popup-sub-menu {
+    padding: 10px 0;
+    background: rgba(255, 255, 255, 0.1);
+    }
+      
+.popup-menu .popup-menu-item:checked {
+      font-weight: normal;
+      background: rgba(38, 139, 210, 1.0);
+      box-shadow: none; }   
+
+.popup-menu-boxpointer,
+.candidate-popup-boxpointer {
+  -arrow-background-color: rgba(7, 54, 66, 1.0);
+  -arrow-border-width: 0;
+  -arrow-border-color: rgba(38, 139, 210, 1.0);
+  -arrow-base: 0px;
+  -arrow-rise: 0;
+  -arrow-box-shadow: none;
+  margin: 0.1em 0.3em 0.5em;
+  border-radius: 2px;
+  background-color: rgba(7, 54, 66, 1.0);
+  }
+
+.popup-separator-menu-item {
+  height: 0;
+  margin: 0px 0px;
+  background-color: rgba(38, 139, 210, 1.0);
+  border-color: rgba(181, 137, 0, 1.0);
+  border-bottom-width: 0px;
+  border-bottom-style: solid; }
+
+
+.slider {
+  -slider-height: 3px;
+  -slider-handle-radius: 5px; 
+}
+
+.aggregate-menu {
+  min-width: 360px; }
+

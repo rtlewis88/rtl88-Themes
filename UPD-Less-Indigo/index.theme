@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=UPD-Less-Indigo
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=UPD-Less-Indigo
+MetacityTheme=UPD-Less-Indigo
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #ececec; } .ColorScheme-Highlight { color: #1AD6AB; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#dd9b44"/>
+   <stop offset="100%" stop-color="#ad6c16"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color="#09D4DF"/>
+   <stop offset="100%" stop-color="#9269F4"/>
+  </linearGradient>
+  <linearGradient id="cyberblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#07B3FF"/>
+   <stop offset="100%" stop-color="#007DE8"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#0abdc6"/>
+   <stop offset="100%" stop-color="#ea00d9"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#1AD6AB"/>
+   <stop offset="100%" stop-color="#329DB6"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#efefe7"/>
+   <stop offset="100%" stop-color="#8f8f8b"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#00F260"/>
+   <stop offset="100%" stop-color="#0575E6"/>
+  </linearGradient>
+  <linearGradient id="redcarbon" x1="0%" x2="100%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#FF6D57"/>
+   <stop offset="50%"  stop-color="#FF5160"/>
+   <stop offset="100%" stop-color="#F50F22"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#FF8501"/>
+   <stop offset="100%" stop-color="#FFCB01"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#b2ced6"/>
+   <stop offset="100%" stop-color="#6da5b7"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#df5940"/>
+   <stop offset="25%"  stop-color="#d8d15f"/>
+   <stop offset="50%"  stop-color="#e9882a"/>
+   <stop offset="100%" stop-color="#279362"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"   stop-color="#f618c7"/>
+   <stop offset="20%"  stop-color="#94ffab"/>
+   <stop offset="50%"  stop-color="#fbfd54"/>
+   <stop offset="100%" stop-color="#0f83ae"/>
+  </linearGradient>
+  <linearGradient id="pause" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(4,0,0,12,14,5.734)" gradientUnits="userSpaceOnUse">
+   <stop offset="0%"   stop-color="#f06"/>
+   <stop offset="100%" stop-color="#dc1499"/>
+  </linearGradient>
+  <linearGradient id="squircle" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(24,0,0,22.401,0,0.533)" gradientUnits="userSpaceOnUse">
+   <stop offset="0%"   stop-color="#4c5561"/>
+   <stop offset="100%" stop-color="#2e3842"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#squircle)" d="m29 23.75v-15.5c0-0.6925-0.5798-1.25-1.3-1.25h-23.4c-0.7202 0-1.3 0.5575-1.3 1.25v15.5c0 0.6925 0.5798 1.25 1.3 1.25h23.4c0.7202 0 1.3-0.5575 1.3-1.25z"/>
+ <path fill="#1e1e1e" opacity="0.5" d="m27 23v-14h-22v14z"/>
+ <path fill="#efefef" opacity="0.2" d="m4.3009 7c-0.7202 0-1.3008 0.5575-1.3008 1.25v1c0-0.6925 0.5806-1.25 1.3008-1.25h23.398c0.72 0 1.301 0.5575 1.301 1.25v-1c0-0.6925-0.581-1.25-1.301-1.25z"/>
+ <path fill="#1e1e1e" opacity="0.2" d="m3.0001 23.75v1c0 0.692 0.5806 1.25 1.3008 1.25h23.398c0.72 0 1.301-0.558 1.301-1.25v-1c0 0.692-0.581 1.25-1.301 1.25h-23.398c-0.7204 0-1.301-0.558-1.301-1.25z"/>
+ <circle fill="url(#redcarbon)" cx="24" cy="24" r="7"/>
+ <path opacity="0.2" d="m30.977 24.459a7 7 0 0 1 -6.977 6.541 7 7 0 0 1 -6.977 -6.459 7 7 0 0 0 -0.023 0.459 7 7 0 0 0 7 7 7 7 0 0 0 7 -7 7 7 0 0 0 -0.02344 -0.54102z"/>
+ <g fill="#efefef" transform="matrix(.70711 -.70711 .70711 .70711 -9.9411 24)">
+  <rect width="8" height="2" x="20" y="23"/>
+  <rect width="8" height="2" x="20" y="-25" transform="rotate(90)"/>
+ </g>
+</svg>

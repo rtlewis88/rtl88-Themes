@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Punk-Ozone
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Punk-Ozone
+MetacityTheme=Punk-Ozone
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

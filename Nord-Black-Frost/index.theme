@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Nord-Black-Frost
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Nord-Black-Frost
+MetacityTheme=Nord-Black-Frost
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

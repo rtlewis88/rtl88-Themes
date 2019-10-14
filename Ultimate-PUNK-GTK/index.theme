@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ultimate-PUNK-GTK
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Ultimate-PUNK
+MetacityTheme=Ultimate-PUNK
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

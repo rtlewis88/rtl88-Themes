@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Abyss-DEEP
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Abyss-DEEP
+MetacityTheme=Abyss-DEEP
+CursorTheme=Adwaita
+CursorSize=24

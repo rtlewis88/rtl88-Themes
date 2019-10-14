@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+<defs>
+  <linearGradient id="carbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #525c66; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #36424e; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="cyberblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop stop-color="#07B3FF"/>
+   <stop offset="1" stop-color="#007DE8"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color: #0abdc6; stop-opacity: 1"/>
+    <stop offset="1" style="stop-color: #ea00d9; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="cyberorange" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%"   style="stop-color: #FF9757; stop-opacity: 1"/>
+    <stop offset="50%"  style="stop-color: #FF6E51; stop-opacity: 1"/>
+    <stop offset="100%" style="stop-color: #F5350F; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="cyberturquoise"  x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop stop-color="#037164"/>
+   <stop offset="1" stop-color="#00AC98"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #1ad6ab; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #329db6; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="goldcarbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="1e-07" stop-color="#EDC268"/>
+   <stop offset="1" stop-color="#9B7424"/>
+  </linearGradient>
+  <linearGradient id="lemon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0.1" stop-color="#6DDB0A"/>
+   <stop offset="0.2" stop-color="#61D915"/>
+   <stop offset="0.3" stop-color="#55D620"/>
+   <stop offset="0.4" stop-color="#49D42B"/>
+   <stop offset="0.5" stop-color="#3CD235"/>
+   <stop offset="0.6" stop-color="#30CF40"/>
+   <stop offset="0.7" stop-color="#24CD4B"/>
+   <stop offset="0.8" stop-color="#18CA56"/>
+   <stop offset="0.9" stop-color="#0CC861"/>
+   <stop offset="1.0" stop-color="#00C66B"/>
+  </linearGradient>
+  <linearGradient id="purplecarbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="1e-07" stop-color="#EC57FF"/>
+   <stop offset="0.5" stop-color="#C551FF"/>
+   <stop offset="1" stop-color="#A90FF5"/>
+  </linearGradient>
+  <linearGradient id="redcarbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF6D57; stop-opacity: 1"/>
+   <stop offset="50%" style="stop-color: #FF5160; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #F50F22; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="silvercarbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" stop-color="#DFDFDF"/>
+   <stop offset="100%" stop-color="#A0A0A0"/>
+  </linearGradient>
+  <linearGradient id="ubuntu" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="1e-07" stop-color="#AD4F8D"/>
+   <stop offset="1" stop-color="#6B8CCB"/>
+  </linearGradient>
+</defs>
+ <circle fill="url(#carbon)" cx="24" cy="24" r="20"/>
+ <path fill="#ececec" d="m 24.026,11.002844 c 2.735,0.006 5.5083,0.85839 7.6746,2.5456 1.5229,1.7544 -1.3789,3.6333 -2.6858,1.9226 -3.9343,-2.3806 -9.4829,-1.5424 -12.443,2.0167 -1.5749,1.7662 -2.4622,4.1231 -2.4518,6.4891 l 2.6,0 -4.16,6.24 -4.16,-6.24 2.6,0 c -0.083,-5.649 3.98,-11.023 9.435,-12.486 1.17,-0.321 2.376,-0.5006 3.591,-0.488 z m 11.414,6.76 4.16,6.24 -2.6,0 c 0.0737,5.7169 -4.093,11.151 -9.6433,12.537 -3.7452,1.0459 -7.9801,0.2827 -11.058,-2.1101 -1.5705,-1.7837 1.3716,-3.6445 2.6907,-1.9181 3.8119,2.3127 9.1499,1.5792 12.159,-1.724 1.742,-1.795 2.744,-4.283 2.731,-6.785 l -2.6,0 4.16,-6.24 z"/>
+</svg>

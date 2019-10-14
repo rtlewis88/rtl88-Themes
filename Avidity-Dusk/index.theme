@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Avidity-Dusk
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Avidity-Dusk
+MetacityTheme=Avidity-Dusk
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

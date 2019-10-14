@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<defs>
+  <linearGradient id="carbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #525c66; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #36424e; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color: #0abdc6; stop-opacity: 1"/>
+    <stop offset="1" style="stop-color: #ea00d9; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #1ad6ab; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #329db6; stop-opacity: 1"/>
+  </linearGradient>
+</defs>
+ <circle fill="url(#carbon)" cx="8" cy="8" r="7"/>
+ <g transform="translate(0,-1)">
+  <path fill="#ececec" d="M 6.5,6 A 2.5,2.5 0 0 0 4,8.5 2.5,2.5 0 0 0 6.5,11 2.5,2.5 0 0 0 9,8.5 2.5,2.5 0 0 0 6.5,6 Z m 0,1 A 1.5,1.5 0 0 1 8,8.5 1.5,1.5 0 0 1 6.5,10 1.5,1.5 0 0 1 5,8.5 1.5,1.5 0 0 1 6.5,7 Z"/>
+  <rect fill="#ececec" width="5" height="1" x="8" y="8"/>
+  <rect fill="#ececec" width="1" height="1" x="11" y="9"/>
+ </g>
+</svg>

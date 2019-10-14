@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ultimate-Plata-Light
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Ultimate-Plata-Light
+MetacityTheme=Ultimate-Plata-Light
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

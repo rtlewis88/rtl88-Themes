@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="musique.svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata75">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g66"
+     transform="matrix(1.5966057,0,0,1.4337893,-136.24393,-881.10552)"
+     style="fill:#009688">
+    <path
+       id="0"
+       d="m 425.66,22.531 c -81.89,12.02 -164.29,20.778 -246.06,33.438 -12.563,6.481 -12.221,22.737 -10.844,34.844 -0.503,84.56 -0.089,169.12 -0.219,253.69 -40.453,-3.432 -84.64,17.502 -100.56,56.16 -10.08,25.25 4.72,57.04 30.844,64.969 32.435,12.47 70.52,1.197 95.22,-22 17.412,-17.1 25.282,-42.05 23.5,-66.16 0.263,-62.61 -0.071,-125.23 0.156,-187.84 l 0,-35.906 180.19,-26.906 c -0.139,56.861 0.251,113.73 -0.219,170.59 -40.64,-3.331 -85.11,17.891 -100.66,56.969 -9.478,25.15 5.39,56.49 31.31,64.25 33.08,12.492 71.67,0.757 96.28,-23.313 16.632,-16.913 23.795,-41.21 22.25,-64.59 0.506,-56.5 -0.385,-113 0.25,-169.5 0.082,-42.567 0.657,-85.26 -1.531,-127.75 -3.354,-7.504 -11.959,-11.48 -19.906,-10.938"
+       transform="matrix(0.62419,0,0,0.62419,89.13,635.35)"
+       inkscape:connector-curvature="0"
+       style="fill:#009688" />
+    <use
+       id="use69"
+       xlink:href="#0"
+       height="1"
+       width="1"
+       x="0"
+       y="0" />
+  </g>
+</svg>

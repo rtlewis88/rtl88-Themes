@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.1"
+   width="512"
+   height="512"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="mintupload.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview288"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-438.23729"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata557">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="0"
+       y2="299.13"
+       gradientUnits="userSpaceOnUse"
+       x2="454.54"
+       y1="280.65"
+       x1="-10.11">
+      <stop
+         stop-color="#2bad28"
+         id="stop7" />
+      <stop
+         stop-color="#cdbf1d"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <filter
+       id="filter4309"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4311"
+         flood-opacity="0.5"
+         flood-color="#000000"
+         result="flood" />
+      <feComposite
+         id="feComposite4313"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4315"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4317"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4319"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <path
+     d="m 236.39,116.38204 -120.72,22.625 26.625,27.13 -0.063,0.063 -0.031,0.031 c -32.04,34.19 -38.36,82.6 -27.687,124.47 10.681,41.858 38.47,77.64 75.62,86.06 0.01,0.002 0.021,-0.002 0.031,0 l 5.188,1.188 1.375,0.313 -0.875,-1.125 -3.313,-4.25 c -42.19,-54.09 -46.915,-124.61 -8.469,-164.28 l 28.28,28.813 24.03,-121.03 m 78.875,0 0.875,1.125 3.313,4.219 c 42.19,54.09 46.915,124.61 8.469,164.28 l -28.28,-28.813 -24.03,121.06 120.72,-22.656 -26.625,-27.12 0.063,-0.063 0.031,0 c 32.04,-34.19 38.36,-82.6 27.688,-124.47 -10.681,-41.858 -38.47,-77.64 -75.62,-86.06 -0.01,-0.002 -0.022,0.002 -0.031,0 l -5.188,-1.188 -1.375,-0.313"
+     id="path553"
+     inkscape:connector-curvature="0"
+     style="fill:#009688" />
+</svg>

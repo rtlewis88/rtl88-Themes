@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drumstick.svg">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="0.74551393"
+     inkscape:cx="139.57894"
+     inkscape:cy="176.35343"
+     inkscape:window-x="0"
+     inkscape:window-y="13"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(1.0287418,0,0,1.0287418,97.08404,84.929029)"
+     id="g3"
+     style="fill:#009688">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 12.759,275.147 c -7.18,7.177 -7.858,18.139 -1.517,24.482 6.34,6.338 17.303,5.659 24.482,-1.518 l 112.357,-118.33 131.061,-61.335 c 4.557,1.931 10.937,1.76 17.146,-0.948 9.683,-4.233 15.213,-12.976 12.35,-19.534 -2.863,-6.561 -13.038,-8.445 -22.722,-4.215 -6.38,2.788 -10.895,7.539 -12.453,12.326 L 183.42,142.573 282.654,38.068 c 4.949,0.138 10.822,-2.356 15.611,-7.143 7.473,-7.472 9.43,-17.629 4.37,-22.693 -5.059,-5.064 -15.218,-3.107 -22.695,4.367 -4.925,4.927 -7.39,10.993 -7.094,16.024 L 129.629,164.372 0,216.909 0.197,248.982 79.51,211.865 12.759,275.147 Z"
+       id="path5"
+       style="fill:#009688" />
+  </g>
+</svg>

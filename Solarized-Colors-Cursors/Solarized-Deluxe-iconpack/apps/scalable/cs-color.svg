@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="512" height="512" viewBox="0 0 135.46666 135.46667" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="preferences-color.svg">
+<defs id="defs28" />
+<sodipodi:namedview pagecolor="#686868" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview26" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="218.0339" inkscape:cy="256" inkscape:window-x="533" inkscape:window-y="228" inkscape:window-maximized="0" inkscape:current-layer="layer1" />
+<metadata id="metadata5754">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title></dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(0,-161.53332)">
+<path style="color:#000000;fill:#009688" d="M 219.11914 104.08984 L 219.11914 386.17578 C 240.81388 386.09128 262.50892 385.96683 284.20312 386.09375 L 284.20312 104.20898 C 262.5091 104.18363 240.81276 104.10307 219.11914 104.08984 z M 362.13086 104.20898 C 361.46784 104.21491 360.80243 104.23928 360.13477 104.27344 L 360.13477 385.71875 C 364.3611 385.54016 368.58328 385.32115 372.79688 385 C 402.81687 378.08902 422.15747 347.00046 421.52148 317.06445 C 422.31647 275.74447 421.29009 234.41377 421.91602 193.09375 C 421.59513 175.15177 422.77481 156.19459 414.04883 139.93359 C 404.67614 120.14397 384.81612 104.0064 362.13086 104.20898 z M 136.67773 104.96875 C 108.04312 110.40297 87.950447 138.69335 86.421875 166.93555 C 84.785869 197.66454 86.666724 228.45482 85.882812 259.21484 C 85.983726 283.53183 84.81487 308.02186 87.421875 332.21484 C 92.347035 357.04048 110.91954 380.6197 136.67773 385.33789 L 136.67773 104.96875 z " transform="matrix(0.26458334,0,0,0.26458336,-8.0744428e-6,161.53332)" id="path4855" />
+</g>
+</svg>

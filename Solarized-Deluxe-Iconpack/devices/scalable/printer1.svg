@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+<defs>
+<defs
+     id="defs2385" />
+  <g
+     id="layer1">
+    <path
+       d="M 11,3 L 11,33 L 37,33 L 37,14.71875 L 26.6875,3 L 11,3 z M 4,35 L 4,45 L 44,45 L 44,35 L 4,35 z M 36.34375,40.21875 L 41.03125,40.21875 L 41.03125,42.40625 L 36.34375,42.40625 L 36.34375,40.21875 z"
+       id="path-main"
+        />
+  </g>
+</defs>
+
+<use id="1" style="fill:#00756A" xlink:href="#path-main" />
+
+
+
+</svg>

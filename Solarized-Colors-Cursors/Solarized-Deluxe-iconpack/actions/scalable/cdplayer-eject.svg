@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="media-eject.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="711"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs100" />
+  <path
+     id="path12"
+     d="m 255.99969,55.99963 c -12.7758,0 -82.86355,121.45734 -89.25287,132.52874 -6.38933,11.0714 -76.53302,132.49182 -70.14369,143.56324 6.3879,11.07288 146.61216,11.06321 159.39656,11.06321 12.77579,0 153.00722,0.008 159.39656,-11.06321 C 421.78558,321.02019 351.6419,199.59977 345.25256,188.52837 338.86896,177.45697 268.78408,55.99963 255.99969,55.99963 Z M 140.08014,380.13758 c -24.23678,0 -43.87931,16.97843 -43.87931,37.93103 0,20.9526 19.64253,37.93104 43.87931,37.93104 l 231.83909,0 c 24.23678,0 43.87932,-16.97844 43.87932,-37.93104 0,-20.9526 -19.64254,-37.93103 -43.87932,-37.93103 l -231.83909,0 z"
+     style="fill:#009688;fill-rule:evenodd" />
+</svg>

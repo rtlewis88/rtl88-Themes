@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="amor.svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata80">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 261.0293 30.992188 A 223.57 223.57 0 0 0 32.429688 256 A 223.57 223.57 0 0 0 479.56055 256 A 223.57 223.57 0 0 0 261.0293 30.992188 z M 192.03711 123.99609 C 209.82011 123.99609 224.36914 149.86258 224.36914 182.19531 C 224.36914 214.52804 209.82011 240.39453 192.03711 240.39453 C 174.25411 240.39453 159.70314 214.52804 159.70312 182.19531 C 159.70312 149.86258 174.25411 123.99609 192.03711 123.99609 z M 312.19727 123.99609 C 329.98027 123.99609 344.53125 149.86258 344.53125 182.19531 C 344.53125 214.52804 329.98027 240.39453 312.19727 240.39453 C 294.41427 240.39453 279.86523 214.52804 279.86523 182.19531 C 279.86523 149.86258 294.41427 123.99609 312.19727 123.99609 z M 86.765625 269.43359 C 164.10637 314.0863 254.33781 311.19336 256.02344 311.19336 C 268.33351 311.19336 361.82173 308.365 425.28906 271.7207 L 425.29688 271.72266 C 386.27945 339.29666 340.66092 387.99023 259.45312 387.99023 C 180.55895 387.99023 122.81666 331.8598 86.765625 269.43359 z "
+     id="path4"
+     style="fill:#009688;fill-opacity:1" />
+</svg>

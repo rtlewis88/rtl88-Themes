@@ -1,4 +1,4 @@
-These 8 icon themes match the GTK, xfwm4, openbox-3, and GNOME-Shell theme: Ultimate-Plata. Plata is a new Gtk+ theme based on the latest Material Design refresh.
+These 11 icon themes match the GTK, xfwm4, openbox-3, and GNOME-Shell theme: Ultimate-Plata. Plata is a new Gtk+ theme based on the latest Material Design refresh.
 
 Ultimate-Plata mixes Dark-Chocolate, indigo, and shades of gray with bits of red, royal-blue, and violet - these icons and folders correspond to the constructs and hues presented in Plata
 

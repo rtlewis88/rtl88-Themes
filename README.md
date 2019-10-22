@@ -4,7 +4,7 @@ All sounds have been re-engineered and remixed for quality and uniformity. Optim
 
 Enchanted-Complete-System-Sounds has been well-tested for GTK.
 
-A hardy thanks to the folks at Hamster Republic: "https://rpg.hamsterrepublic.com/ohrrpgce/Free_Sound_Effects" for some great effects, the people at Big Soundbank: "bigsoundbankhttps://bigsoundbank.com/" for the bulk of what you hear here, and the contributors at: "https://notificationsounds.com/sound-effects" who round out the theme with a couple of truly enchanted sounds. Also, a special thank you to clipart.email at: [URL=https://www.clipart.email/download/674762.html][IMG]https://cdn.clipart.email/84ad05aae18a6a2f1896773e4889ce3c_enchanted-forest-stock-illustrations-847-enchanted-forest-stock-_160-160.jpeg[/IMG][/URL], for the cool pic!
+A hardy thanks to the folks at Hamster Republic: "https://rpg.hamsterrepublic.com/ohrrpgce/Free_Sound_Effects" for some great effects, the people at Big Soundbank: "bigsoundbankhttps://bigsoundbank.com/" for the bulk of what you hear here, and the contributors at: "https://notificationsounds.com/sound-effects" who round out the theme with a couple of truly enchanted sounds. Also, a special thank you to clipart.email at: "<a href="https://www.clipart.email/">clipart.email</a>" for the cool pic!
 
 
 Install Sound Theme: Extract the zip files. Copy or mover the entire folder to below directory: /usr/share/sounds
@@ -17,4 +17,4 @@ Enter Enchanted-Complete-System-Sounds as the folder name of your sound theme wh
 Close the dconf-editor and logout/login.
 
 
-Enjoy your new Enchanted sounds!
+Enjoy your new Enchanted sounds

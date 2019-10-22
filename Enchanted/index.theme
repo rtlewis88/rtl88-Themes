@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Enchanted
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo

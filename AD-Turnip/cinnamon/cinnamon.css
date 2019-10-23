@@ -130,7 +130,7 @@ stage {
     box-shadow: inset 0 2px 4px rgba(40, 43, 52, 0.05); }
   .menu #notification StEntry StIcon.capslock-warning, .popup-menu #notification StEntry StIcon.capslock-warning, #menu-search-entry StIcon.capslock-warning {
     icon-size: 16px;
-    warning-color: #ba9340;
+    warning-color: #b18c55;
     padding: 0 4px; }
 
 .notification StEntry {
@@ -386,7 +386,7 @@ StScrollBar {
   width: 32px; }
   #panel:highlight {
     border-image: none;
-    background-color: rgba(223, 128, 87, 0.5); }
+    background-color: rgba(191, 75, 56, 0.5); }
   #panelLeft {
     spacing: 4px; }
     #panelLeft:dnd {
@@ -444,9 +444,9 @@ StScrollBar {
   border-image: url("common-assets/panel/panel-right.svg") 1 1 1 1; }
 
 .panel-dummy {
-  background-color: rgba(223, 128, 87, 0.5); }
+  background-color: rgba(191, 75, 56, 0.5); }
   .panel-dummy:entered {
-    background-color: rgba(223, 128, 87, 0.6); }
+    background-color: rgba(191, 75, 56, 0.6); }
 
 .panel-status-button {
   border-width: 0;
@@ -852,7 +852,7 @@ StScrollBar {
     color: #d3dae3;
     padding-bottom: 0; }
   .run-dialog-error-label {
-    color: #df8057; }
+    color: #BF4B38; }
   .run-dialog-error-box {
     padding-top: 15px;
     spacing: 5px; }
@@ -887,7 +887,7 @@ StScrollBar {
   icon-size: 48px; }
 
 .mount-password-reask {
-  color: #ba9340; }
+  color: #b18c55; }
 
 .show-processes-dialog,
 .mount-question-dialog {
@@ -1127,7 +1127,7 @@ StScrollBar {
     spacing: 4px;
     padding: 10px 0; }
   .window-list-box:highlight {
-    background-color: rgba(223, 128, 87, 0.5); }
+    background-color: rgba(191, 75, 56, 0.5); }
 
 .window-list-preview {
   spacing: 8px;
@@ -1178,8 +1178,8 @@ StScrollBar {
     padding-right: 0px; }
 
 .window-list-item-demands-attention {
-  background-gradient-start: #ba9340;
-  background-gradient-end: #ba9340; }
+  background-gradient-start: #b18c55;
+  background-gradient-end: #b18c55; }
 
 .grouped-window-list-thumbnail-label {
   padding-left: 3px; }
@@ -1196,7 +1196,7 @@ StScrollBar {
   background-color: rgba(19, 21, 25, 0.95); }
 
 .grouped-window-list-thumbnail-alert {
-  background-color: #ba9340; }
+  background-color: #b18c55; }
 
 .grouped-window-list-item-box {
   transition-duration: 100;
@@ -1249,8 +1249,8 @@ StScrollBar {
     background-color: #b47fff; }
 
 .grouped-window-list-item-demands-attention {
-  background-gradient-start: #ba9340;
-  background-gradient-end: #ba9340; }
+  background-gradient-start: #b18c55;
+  background-gradient-end: #b18c55; }
 
 .grouped-window-list-thumbnail-menu {
   color: #d3dae3;
@@ -1474,7 +1474,7 @@ StScrollBar {
   .applet-box:highlight {
     background-image: none;
     border-image: none;
-    background-color: rgba(223, 128, 87, 0.5); }
+    background-color: rgba(191, 75, 56, 0.5); }
 
 .applet-label {
   font-weight: bold;
@@ -1506,14 +1506,14 @@ StScrollBar {
 .desklet {
   color: #d3dae3; }
   .desklet:highlight {
-    background-color: rgba(223, 128, 87, 0.5); }
+    background-color: rgba(191, 75, 56, 0.5); }
   .desklet-with-borders {
     border-image: url("common-assets/misc/bg.svg") 9 9 9 9;
     color: #d3dae3;
     padding: 12px;
     padding-bottom: 16px; }
     .desklet-with-borders:highlight {
-      background-color: rgba(223, 128, 87, 0.5); }
+      background-color: rgba(191, 75, 56, 0.5); }
   .desklet-with-borders-and-header {
     border-image: url("common-assets/misc/desklet.svg") 9 9 9 9;
     color: #d3dae3;
@@ -1523,7 +1523,7 @@ StScrollBar {
     padding: 12px;
     padding-bottom: 17px; }
     .desklet-with-borders-and-header:highlight {
-      background-color: rgba(223, 128, 87, 0.5); }
+      background-color: rgba(191, 75, 56, 0.5); }
   .desklet-header {
     border-image: url("common-assets/misc/desklet-header.svg") 9 9 9 9;
     color: #d3dae3;

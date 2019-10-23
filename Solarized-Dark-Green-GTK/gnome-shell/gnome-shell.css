@@ -6,8 +6,10 @@ stage {
 
 #panel {
     background-color: rgba(7, 54, 66, 1.0);
+    font-size: 10pt;
     font-weight: medium;
-    height: 25px;
+    color: F7FAFF;
+    height: 24px;
 }
 
 #panel .panel-corner {
@@ -47,7 +49,7 @@ StEntry {
 
 
 
-/* Edição de transpencia e tamanho dos menus*/
+/* Menu editing for size and transparencies*/
 
 .popup-menu .popup-sub-menu {
     padding: 10px 0;

@@ -1,7 +1,7 @@
 stage {
     font-family: roboto-regular;
     font-size: 11pt;
-    color: white;
+    color: F7FAFF;
 }
 
 #panel {
@@ -51,7 +51,7 @@ StEntry {
 
 .popup-menu .popup-sub-menu {
     padding: 10px 0;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(247, 250, 255, 0.1);
     }
       
 .popup-menu .popup-menu-item:checked {

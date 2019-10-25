@@ -104,8 +104,8 @@ stage {
 }
 
 .modal-dialog-linked-button:hover {
-  color: #eceff4;
-  background-color: rgba(236, 239, 244, 0.08);
+  color: #000000;
+  background-color: rgba(105, 172, 191, 0.8);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -113,8 +113,8 @@ stage {
 }
 
 .modal-dialog-linked-button:active {
-  color: #eceff4;
-  background-color: rgba(236, 239, 244, 0.2);
+  color: #BF4B38;
+  background-color: rgba(105, 172, 191, 1.0);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;

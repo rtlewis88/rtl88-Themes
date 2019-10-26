@@ -689,11 +689,11 @@ StScrollView StScrollBar {
 }
 
 .system-status-icon.warning {
-  color: #bda94a;
+  color: #b38169;
 }
 
 .system-status-icon.error {
-  color: #ff744a;
+  color: #ff4c69;
 }
 
 #overview {
@@ -1092,7 +1092,7 @@ StScrollView StScrollBar {
 }
 
 .run-dialog-error-label {
-  color: #ff744a;
+  color: #ff4c69;
 }
 
 .run-dialog-error-box {
@@ -1118,7 +1118,7 @@ StScrollView StScrollBar {
 }
 
 .mount-password-reask {
-  color: #bda94a;
+  color: #b38169;
 }
 
 .show-processes-dialog {
@@ -1352,7 +1352,7 @@ StScrollView StScrollBar {
 }
 
 .window-list-item-box .progress {
-  background-color: #44c384;
+  background-color: #3a9ba3;
 }
 
 .window-list-item-box.top StLabel, .window-list-item-box.bottom StLabel {
@@ -1394,7 +1394,7 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-thumbnail-alert {
-  background: #bda94a;
+  background: #b38169;
 }
 
 .grouped-window-list-item-box {
@@ -1424,7 +1424,7 @@ StScrollView StScrollBar {
 }
 
 .grouped-window-list-item-box .progress {
-  background-color: #44c384;
+  background-color: #3a9ba3;
 }
 
 .grouped-window-list-item-demands-attention {
@@ -1749,7 +1749,7 @@ StScrollView StScrollBar {
 }
 
 .expo-workspaces-name-entry {
-  font-size: 10.5pt;
+  font-size: 11.25pt;
   font-weight: 400;
   background-color: rgba(255, 255, 255, 0.04);
   color: white;

@@ -1,7 +1,7 @@
 # Based on Bridge by ScionicSpectre and Adwaita by GNOME
 # vim:set ts=2 sw=2 sts=2 ai et:
 #
-# This is the GTK 2 version of PUNK-Pain. It's whole purpose is to look as the
+# This is the GTK 2 version of Punk-Pain. It's whole purpose is to look as the
 # GTK 3 version as much as possible until GTK 2 dies completely.
 #
 # Note: comments for explaining styles are on the bottom of each file beside the
@@ -16,13 +16,15 @@ gtk-color-scheme = "text_color:#07bee9\nbase_color:#091833"
 # Foreground/background
 gtk-color-scheme = "fg_color:#07bee9\nbg_color:#000b1e"
 # Selected foreground/background
-gtk-color-scheme = "selected_fg_color:#07bee9\nselected_bg_color:#b800ff"
+gtk-color-scheme = "selected_fg_color:#07bee9\nselected_bg_color:#8AB4F8"
 # Titlebar foreground/background
 gtk-color-scheme = "titlebar_fg_color:#07bee9\ntitlebar_bg_color:#091833"
+# Menus
+gtk-color-scheme = "menu_color:#012150"
 # Tooltips foreground/background
 gtk-color-scheme = "tooltip_fg_color:#07bee9\ntooltip_bg_color:#616161"
 # Links
-gtk-color-scheme = "link_color:#b800ff\nvisited_link_color:#E040FB"
+gtk-color-scheme = "link_color:#8AB4F8\nvisited_link_color:#CE93D8"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1

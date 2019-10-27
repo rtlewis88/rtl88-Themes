@@ -11,19 +11,19 @@
 
 <!-- meaningful constants -->
 
-<constant name="C_titlebar_focused" value="#353535"/>
-<constant name="C_titlebar_unfocused" value="#39474b"/>
-<constant name="C_highlight" value="blend/#353535/#d3dae3/0.1"/>
+<constant name="C_titlebar_focused" value="#293336"/>
+<constant name="C_titlebar_unfocused" value="#3f4d51"/>
+<constant name="C_highlight" value="blend/#293336/#d3dae3/0.1"/>
 <constant name="C_title_focused" value="#d3dae3"/>
-<constant name="C_title_unfocused" value="blend/#39474b/#d3dae3/0.7"/>
+<constant name="C_title_unfocused" value="blend/#3f4d51/#d3dae3/0.7"/>
 
 
 <!-- geometries -->
 
 <frame_geometry name="normal" title_scale="medium" rounded_top_left="4" rounded_top_right="4">
-  <distance name="left_width" value="1"/>
-  <distance name="right_width" value="1"/>
-  <distance name="bottom_height" value="1"/>
+  <distance name="left_width" value="2"/>
+  <distance name="right_width" value="2"/>
+  <distance name="bottom_height" value="2"/>
   <distance name="left_titlebar_edge" value="0"/>
   <distance name="right_titlebar_edge" value="0"/>
   <distance name="title_vertical_pad" value="13"/>
@@ -57,10 +57,10 @@
 </frame_geometry>
 
 <frame_geometry name="border" has_title="false" rounded_top_left="false" rounded_top_right="false" parent="normal">
-  <distance name="left_width" value="1"/>
-  <distance name="right_width" value="1"/>
-  <distance name="bottom_height" value="1"/>
-  <distance name="title_vertical_pad" value="1"/>
+  <distance name="left_width" value="2"/>
+  <distance name="right_width" value="2"/>
+  <distance name="bottom_height" value="2"/>
+  <distance name="title_vertical_pad" value="2"/>
   <border name="title_border" left="10" right="10" top="0" bottom="0"/>
   <border name="button_border" left="0" right="0" top="0" bottom="0"/>
 </frame_geometry>

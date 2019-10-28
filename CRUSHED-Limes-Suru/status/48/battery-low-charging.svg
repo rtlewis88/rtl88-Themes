@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #ececec; } .ColorScheme-Highlight { color: #1AD6AB; }
+  </style>
+  <linearGradient id="arrongin" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop3" offset="0%" stop-color="#dd9b44"/>
+   <stop id="stop5" offset="100%" stop-color="#ad6c16"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop8" offset="0%" stop-color="#09D4DF"/>
+   <stop id="stop10" offset="100%" stop-color="#9269F4"/>
+  </linearGradient>
+  <linearGradient id="cyberblue" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop13" offset="0%" stop-color="#07B3FF"/>
+   <stop id="stop15" offset="100%" stop-color="#007DE8"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop18" offset="0%" stop-color="#0abdc6"/>
+   <stop id="stop20" offset="100%" stop-color="#ea00d9"/>
+  </linearGradient>
+  <linearGradient id="cyberorange" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%"   style="stop-color: #FF9757; stop-opacity: 1"/>
+    <stop offset="50%"  style="stop-color: #FF6E51; stop-opacity: 1"/>
+    <stop offset="100%" style="stop-color: #F5350F; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop23" offset="0%" stop-color="#1AD6AB"/>
+   <stop id="stop25" offset="100%" stop-color="#329DB6"/>
+  </linearGradient>
+  <linearGradient id="lemon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0.1" stop-color="#6DDB0A"/>
+   <stop offset="0.2" stop-color="#61D915"/>
+   <stop offset="0.3" stop-color="#55D620"/>
+   <stop offset="0.4" stop-color="#49D42B"/>
+   <stop offset="0.5" stop-color="#3CD235"/>
+   <stop offset="0.6" stop-color="#30CF40"/>
+   <stop offset="0.7" stop-color="#24CD4B"/>
+   <stop offset="0.8" stop-color="#18CA56"/>
+   <stop offset="0.9" stop-color="#0CC861"/>
+   <stop offset="1.0" stop-color="#00C66B"/>
+  </linearGradient>
+  <linearGradient id="purplecarbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="1e-07" stop-color="#EC57FF"/>
+   <stop offset="0.5" stop-color="#C551FF"/>
+   <stop offset="1" stop-color="#A90FF5"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop28" offset="0%" stop-color="#efefe7"/>
+   <stop id="stop30" offset="100%" stop-color="#8f8f8b"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop33" offset="0%" stop-color="#00F260"/>
+   <stop id="stop35" offset="100%" stop-color="#0575E6"/>
+  </linearGradient>
+  <linearGradient id="redcarbon" x1="0" x2="1" y1="0" y2="1">
+   <stop id="stop38" offset="0%" stop-color="#FF6D57"/>
+   <stop id="stop40" offset="50%" stop-color="#FF5160"/>
+   <stop id="stop42" offset="100%" stop-color="#F50F22"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop45" offset="0%" stop-color="#FF8501"/>
+   <stop id="stop47" offset="100%" stop-color="#FFCB01"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop50" offset="0%" stop-color="#b2ced6"/>
+   <stop id="stop52" offset="100%" stop-color="#6da5b7"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop55" offset="0%" stop-color="#df5940"/>
+   <stop id="stop57" offset="25%" stop-color="#d8d15f"/>
+   <stop id="stop59" offset="50%" stop-color="#e9882a"/>
+   <stop id="stop61" offset="100%" stop-color="#279362"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop64" offset="0%" stop-color="#f618c7"/>
+   <stop id="stop66" offset="20%" stop-color="#94ffab"/>
+   <stop id="stop68" offset="50%" stop-color="#fbfd54"/>
+   <stop id="stop70" offset="100%" stop-color="#0f83ae"/>
+  </linearGradient>
+  <linearGradient id="pause" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(4,0,0,12,14,5.734)" gradientUnits="userSpaceOnUse">
+   <stop id="stop73" offset="0%" stop-color="#f06"/>
+   <stop id="stop75" offset="100%" stop-color="#dc1499"/>
+  </linearGradient>
+  <linearGradient id="squircle" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(24,0,0,22.401,0,0.533)" gradientUnits="userSpaceOnUse">
+   <stop id="stop78" offset="0%" stop-color="#4c5561"/>
+   <stop id="stop80" offset="100%" stop-color="#2e3842"/>
+  </linearGradient>
+ </defs>
+ <rect opacity="0.2" width="32" height="36" x="8" y="9" rx="2" ry="2"/>
+ <rect fill="url(#squircle)" width="32" height="36" x="8" y="8" rx="2" ry="2"/>
+ <rect fill="url(#oomox)" width="20" height="4" x="14" y="4"/>
+ <path fill="#1e1e1e" opacity="0.20" d="m 11,33 v 8 h 26 v -8 z"/>
+ <path fill="#1e1e1e" opacity="0.35" d="m 11,12 v 8 h 26 v -8 z"/>
+ <path fill="#1e1e1e" opacity="0.35" d="m 11,22 v 8 h 26 v -8 z"/>
+ <path fill="url(#lemon)" d="m 11,32 v 8 h 26 v -8 z"/>
+ <path fill="#efefef" opacity="0.20" d="M 14,4 V 5 H 34 V 4 Z"/>
+ <path fill="#efefef" opacity="0.20" d="m 11,32 v 1 h 26 v -1 z"/>
+ <path fill="#1e1e1e" opacity="0.20" d="M 35.999,27 C 30.46,27 26,31.46 26,37 c 0,5.54 4.4596,10 9.9991,10 5.5395,0 9.9991,-4.46 9.9991,-10 0,-5.54 -4.459,-10 -9.999,-10 z"/>
+ <path fill="url(#sunrise)" d="M 35.999,26 C 30.46,26 26,30.46 26,36 c 0,5.54 4.4596,10 9.9991,10 5.5395,0 9.9991,-4.46 9.9991,-10 0,-5.54 -4.459,-10 -9.999,-10 z"/>
+ <path fill="url(#squircle)" d="m 35.999,30 v 4 h 4 l -5,8 v -4 h -4 z"/>
+</svg>

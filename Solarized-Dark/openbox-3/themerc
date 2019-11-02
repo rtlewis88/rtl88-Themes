@@ -69,7 +69,7 @@ window.active.button.hover.image.color: #cb4b16
 #window.active.button.toggled.image.color: #FDF6E3
 
 # Inactive window
-window.inactive.border.color: #cb4b16
+window.inactive.border.color: #8c553f
 
 window.inactive.title.bg: flat solid
 window.inactive.title.bg.color: #002b36

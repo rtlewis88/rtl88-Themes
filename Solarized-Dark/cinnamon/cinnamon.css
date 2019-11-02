@@ -661,7 +661,7 @@ StScrollView StScrollBar {
   .window-list-item-box.top StLabel, .window-list-item-box.bottom StLabel {
     padding-left: 3px; }
   .window-list-item-box .progress {
-    background-color: #859900;
+    background-color: #00998c;
     border: 1px solid #a6451c;
     border-radius: 2px;
     color: #002b36; }
@@ -706,7 +706,7 @@ StScrollView StScrollBar {
   .grouped-window-list-item-box:focus {
     font-weight: bold; }
   .grouped-window-list-item-box .progress {
-    background-color: #859900; }
+    background-color: #00998c; }
 
 .grouped-window-list-demands-attention {
   background-color: #268bd2;
@@ -1252,7 +1252,7 @@ StScrollView StScrollBar {
   .workspace-add-button:active {
     background-image: url(assets/add-workspace.png);
     border-color: #a6451c;
-    background-color: #859900; }
+    background-color: #00998c; }
 
 .workspace-close-button {
   background-image: url(assets/close-window.svg);

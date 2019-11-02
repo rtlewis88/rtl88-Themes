@@ -27,7 +27,7 @@
 @define-color error_fg_color #002b36;
 @define-color error_bg_color #dc322f;
 @define-color link_color #268bd2;
-@define-color success_color #859900;
+@define-color success_color #00998c;
 @define-color warning_color #b58900;
 @define-color error_color #dc322f;
 /* widget colors */
@@ -54,7 +54,7 @@
 @define-color wm_bg_focused #002b36;
 @define-color wm_bg_unfocused #eee8d5;
 @define-color wm_border_focused #cb4b16;
-@define-color wm_border_unfocused #cb4b16;
+@define-color wm_border_unfocused #8c553f;
 @define-color wm_title_focused #93a1a1;
 @define-color wm_title_unfocused mix(#073642,#eee8d5,0.4);
 @define-color wm_icons_focused #93a1a1;
@@ -976,7 +976,7 @@ GtkComboBox .separator {
  ! Action buttons *
 *******************/
 .suggested-action.button, .selection-mode.header-bar .button.suggested-action, .selection-mode.toolbar .button.suggested-action {
-  background-color: #859900;
+  background-color: #00998c;
   background-image: none;
   border-color: rgba(247, 217, 137, 0.32);
   color: #FDF6E3;
@@ -990,13 +990,13 @@ GtkComboBox .separator {
   .suggested-action.button:active:insensitive, .suggested-action.button:checked:insensitive {
     border-color: rgba(247, 217, 137, 0.32); }
   .suggested-action.button.flat, .selection-mode.header-bar .flat.button.suggested-action, .selection-mode.toolbar .flat.button.suggested-action {
-    border-color: rgba(133, 153, 0, 0);
+    border-color: rgba(0, 153, 140, 0);
     color: #FDF6E3;
-    background-color: rgba(133, 153, 0, 0);
+    background-color: rgba(0, 153, 140, 0);
     background-image: none;
     box-shadow: none; }
   .suggested-action.button:hover, .selection-mode.header-bar .button.suggested-action:hover, .selection-mode.toolbar .button.suggested-action:hover, .suggested-action.button.flat:hover {
-    background-color: #8ca100;
+    background-color: #00a193;
     background-image: none;
     border-color: rgba(247, 217, 137, 0.4);
     color: #FDF6E3;
@@ -1010,13 +1010,13 @@ GtkComboBox .separator {
     .suggested-action.button:hover:active:insensitive, .suggested-action.button:hover:checked:insensitive, .suggested-action.button.flat:hover:active:insensitive, .suggested-action.button.flat:hover:checked:insensitive {
       border-color: rgba(247, 217, 137, 0.4); }
   .suggested-action.button:focus, .selection-mode.header-bar .button.suggested-action:focus, .selection-mode.toolbar .button.suggested-action:focus, .suggested-action.button.flat:focus {
-    background-color: #8ca100;
+    background-color: #00a193;
     background-image: none;
     border-color: rgba(253, 246, 227, 0.32);
     color: #FDF6E3;
     box-shadow: 0 1px 2px -1px rgba(1, 11, 13, 0.42); }
     .suggested-action.button:focus:hover, .suggested-action.button.flat:focus:hover {
-      background-color: #92a800;
+      background-color: #00a89a;
       background-image: none;
       border-color: rgba(247, 217, 137, 0.4);
       box-shadow: 0 1px 2px -1px rgba(1, 11, 13, 0.48); }
@@ -1049,13 +1049,13 @@ GtkComboBox .separator {
   .suggested-action.button:focus, .selection-mode.header-bar .button.suggested-action:focus, .selection-mode.toolbar .button.suggested-action:focus, .suggested-action.button:hover, .selection-mode.header-bar .button.suggested-action:hover, .selection-mode.toolbar .button.suggested-action:hover, .suggested-action.button.flat:focus, .suggested-action.button.flat:hover {
     color: #FDF6E3; }
   .suggested-action.button:insensitive:insensitive, .suggested-action.button.flat:insensitive:insensitive {
-    background-color: alpha(mix(#859900,#FDF6E3,0.2),0.4);
+    background-color: alpha(mix(#00998c,#FDF6E3,0.2),0.4);
     background-image: none;
     opacity: .6;
-    color: mix(#859900,#FDF6E3,0.6);
+    color: mix(#00998c,#FDF6E3,0.6);
     box-shadow: none; }
     .suggested-action.button:insensitive:insensitive :insensitive, .suggested-action.button.flat:insensitive:insensitive :insensitive {
-      color: mix(#859900,#FDF6E3,0.6); }
+      color: mix(#00998c,#FDF6E3,0.6); }
   .suggested-action.button:active:insensitive, .suggested-action.button:checked:insensitive {
     background-color: rgba(203, 75, 22, 0.6);
     background-image: none;
@@ -1065,9 +1065,9 @@ GtkComboBox .separator {
       color: rgba(253, 246, 227, 0.85); }
   .suggested-action.button.separator, .selection-mode.header-bar .separator.button.suggested-action, .selection-mode.toolbar .separator.button.suggested-action, .suggested-action.button .separator, .selection-mode.header-bar .button.suggested-action .separator, .selection-mode.toolbar .button.suggested-action .separator {
     border: 1px solid currentColor;
-    color: rgba(133, 153, 0, 0.9); }
+    color: rgba(0, 153, 140, 0.9); }
     .suggested-action.button.separator:insensitive, .suggested-action.button .separator:insensitive {
-      color: rgba(133, 153, 0, 0.85); }
+      color: rgba(0, 153, 140, 0.85); }
 
 .destructive-action.button {
   background-color: #dc322f;
@@ -3487,7 +3487,7 @@ GtkLevelBar {
   .level-bar.fill-block.indicator-discrete.vertical {
     margin-bottom: 1px; }
   .level-bar.fill-block.level-high {
-    background-color: #859900;
+    background-color: #00998c;
     border-color: transparent; }
   .level-bar.fill-block.level-low {
     background-color: #b58900;
@@ -4034,7 +4034,7 @@ column-header .button:last-child .button {
 .window-frame, .window-frame.csd.popup, .window-frame.csd.message-dialog {
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22), 0 0 0 1px #cb4b16; }
   .window-frame:backdrop, .window-frame.csd.popup:backdrop, .window-frame.csd.message-dialog:backdrop {
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23), 0 0 0 1px #cb4b16; }
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23), 0 0 0 1px #8c553f; }
 
 .window-frame {
   border: 0;

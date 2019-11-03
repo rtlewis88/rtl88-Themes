@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r"
+   sodipodi:docname="mixer-line.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata100">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs98" />
+  <path
+     id="path94"
+     d="m 427.74874,70.69752 -25.625,25.1875 c 0,0 -3.36818,-3.39344 -7.5,-7.59375 -4.15465,-4.21552 -14.07523,-1.18564 -22.15625,6.78125 l -45.78125,45 c 0,0 -4.11213,-4.16864 -9.1875,-9.3125 -5.06015,-5.15907 -15.70022,-2.86553 -23.78125,5.09375 l -89.78125,88.21875 18.40625,18.71875 -58,58.96875 43.5625,43.53125 57.59375,-58.59375 19.4375,19.75 89.78125,-88.21875 c 8.08102,-7.96688 8.18563,-20.97386 0.21875,-29.0625 l -3.875,-3.96875 45.8125,-45 c 8.08103,-7.96689 11.25683,-17.81573 7.125,-22.03125 l -7.5,-7.625 25.65625,-25.1875 -14.40625,-14.65625 z m -277.78125,245.625 -44.8125,45.59375 43.53125,43.59375 44.84375,-45.5625 -43.5625,-43.625 z m -59.1875,60.25 -12.09375,12.28125 c -11.93892,12.14436 -11.76176,31.67766 0.375,43.59375 12.12153,11.91609 31.6388,11.80822 43.5625,-0.34375 l 11.71875,-11.9375 -43.5625,-43.59375 z"
+     style="fill:#009688" />
+</svg>

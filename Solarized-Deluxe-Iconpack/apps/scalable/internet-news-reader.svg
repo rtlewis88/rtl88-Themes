@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+<defs>
+<defs
+     id="defs3306">
+  </defs>
+  <path
+     id="path-main"
+     d="M 46,24 A 22,22 0 0 1 2,24 22,22 0 1 1 46,24 z" />
+</defs>
+
+<use id="1" style="fill:#009688" xlink:href="#path-main" />
+
+
+
+</svg>

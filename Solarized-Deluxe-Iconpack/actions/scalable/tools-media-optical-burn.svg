@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r"
+   sodipodi:docname="iso-image-burn.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs100" />
+  <path
+     id="path10"
+     d="M 256.03126,55.99999 C 145.54318,55.99999 56,145.52366 56,255.96875 c 0,110.47372 89.55752,200.03126 200.03126,200.03126 110.44508,0 199.96875,-89.57186 199.96875,-200.03126 0,-110.44509 -89.52367,-199.96876 -199.96875,-199.96876 z m 0,132.40626 c 37.2829,0 67.56249,30.26526 67.56249,67.5625 0,37.32588 -30.29391,67.59375 -67.56249,67.59375 -37.31158,0 -67.59377,-30.26787 -67.59377,-67.59375 0,-37.29724 30.28219,-67.5625 67.59377,-67.5625 z m -0.0313,47.625 c -10.98865,0 -20.03125,8.96696 -20.03125,20 0,10.98864 9.0426,19.9375 20.03125,19.9375 11.03304,0 20,-8.94886 20,-19.9375 0,-11.03304 -8.96696,-20 -20,-20 z"
+     style="fill:#009688" />
+</svg>

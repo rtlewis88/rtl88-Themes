@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="go-left.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="753"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="5.8961589"
+     inkscape:cx="5.5981891"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#009688;fill-opacity:1"
+     d="M 12 23.992188 C 12 24.605469 12.261719 25.1875 12.6875 25.617188 L 20.125 33.304688 C 20.527344 33.730469 21.101562 33.976562 21.6875 33.992188 C 22.617188 34.023438 23.449219 33.496094 23.8125 32.617188 C 24.175781 31.742188 23.980469 30.714844 23.3125 30.054688 L 19.375 25.992188 L 36 25.992188 L 36 21.992188 L 19.375 21.992188 L 23.3125 17.929688 C 24.1875 17.03125 24.1875 15.582031 23.3125 14.679688 C 22.4375 13.78125 21 13.78125 20.125 14.679688 L 12.6875 22.367188 C 12.261719 22.800781 12 23.382812 12 23.992188 Z "
+     id="path6" />
+</svg>

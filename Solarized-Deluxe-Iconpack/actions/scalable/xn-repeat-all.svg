@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r"
+   sodipodi:docname="media-playlist-repeat.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs100" />
+  <path
+     style="fill:#009688"
+     id="path8"
+     d="m 124.21247,80.2894 c -40.55755,0 -73.21249,32.65367 -73.21249,73.21247 l 0,146.42499 c 0,40.55756 32.65368,73.21249 73.21249,73.21249 l 44.84485,0 c -0.30956,-2.27137 -0.91484,-4.03058 -0.91484,-6.40514 l 0,-52.16359 -14.64375,0 c -24.33705,0 -43.93001,-19.59296 -43.93001,-43.93002 l 0,-87.86002 c 0,-24.33201 19.59296,-43.92497 43.93001,-43.92497 l 205.00252,0 c 24.33706,0 43.93002,19.59296 43.93002,43.92497 l 0,87.86002 c 0,24.33706 -19.59296,43.93002 -43.93002,43.93002 l -14.64375,0 0,-58.57377 -117.14251,87.85499 117.14251,87.86002 0,-58.57376 43.93001,0 C 428.34507,373.1381 461,340.48442 461,299.9256 l 0,-146.42498 c 0,-40.55755 -32.65368,-73.21248 -73.21249,-73.21248" />
+</svg>

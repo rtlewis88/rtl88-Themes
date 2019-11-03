@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100%"
+   width="100%"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 512 512"
+   inkscape:version="0.91 r"
+   sodipodi:docname="love-amarok.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs100" />
+  <path
+     d="m 255.94425,138.68153 c 19.66049,-34.55423 54.08982,-68.0024 103.29652,-68.0024 28.73522,0 55.22523,10.91397 79.43588,32.73523 23.05818,20.70189 34.63422,41.51039 34.63422,62.4588 0,31.28937 -11.00407,64.04459 -32.9183,98.31897 -18.92631,29.51035 -46.15903,60.63981 -81.71523,93.41502 -26.8571,24.79962 -61.45716,52.98404 -103.8002,84.57324 -36.71722,-27.46482 -69.60137,-54.74307 -98.72075,-81.91471 -35.58181,-33.38154 -63.17308,-64.511 -82.85064,-93.41502 -23.04963,-34.22774 -34.61714,-64.9241 -34.61714,-92.06909 0,-25.98563 10.2016,-49.45266 30.66456,-70.40107 22.31546,-23.06058 49.52257,-34.56089 81.69816,-34.56089 50.6409,0 85.62513,33.76133 104.92707,68.89524"
+     id="path92"
+     style="fill:#009688" />
+</svg>

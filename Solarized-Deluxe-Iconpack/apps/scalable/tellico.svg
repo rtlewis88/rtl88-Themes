@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="tellico.svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g66"
+     transform="matrix(1.0188 0 0 1.0188 -700.34 49.938)"
+     fill="#009688">
+    <path
+       id="path68"
+       d="m1051.6 82.906c-36.34 2.769-72.53 3.671-111.47 38.844l0.75 181.34c31.707-28.788 69.69-38.783 110.72-39.594zm-241.31 20.03v177.13c60.5 0.89 100.76 12.895 127.75 32.19 0.551 0.176 0.923 0.031 1.344 0 26.995-19.292 67.25-31.3 127.75-32.19v-177.12h-7.03v169.59c-33.04 2.945-58.965-2.711-121.41 35.875-62.43-38.571-88.37-32.93-121.41-35.875v-169.59zm-16.03 21.813v173.84c44.703 3.426 97.01 0.922 125.13 17.25 8.126 4.692 11.06 5.968 18.875 5.688h0.031c8.519 0.41 11.311-0.815 19.75-5.688 28.12-16.328 80.42-13.824 125.13-17.25v-173.84h-7.781v165.81c-40.454 1.766-80.88 3.619-118.72 17.781-7.284 6.859-10.02 7-17.594 7.156-8.394-0.173-10.71 0.003-18.313-7.156-37.844-14.162-78.3-16.01-118.75-17.781v-165.81z" />
+    <path
+       id="path70"
+       d="m936.5 303.09c-31.71-28.79-69.68-38.77-110.72-39.58v-180.6c36.34 2.769 72.53 3.653 111.47 38.826z" />
+  </g>
+</svg>

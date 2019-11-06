@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=UPL-Material-Flat
+Name=Ult-Plata-Lt-Flat
 Inherits=breeze,ubuntu-mono-dark,gnome,oxygen,hicolor
 Comment=Android Lollipop's material design icons for Linux.
 Directories=actions/scalable,animations/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,mimetypes/scalable,places/scalable,status/scalable,stock/scalable

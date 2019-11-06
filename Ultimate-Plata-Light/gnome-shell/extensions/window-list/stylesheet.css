@@ -1,0 +1,38 @@
+/* This file is part of plata-theme Copyright (C) 2018-2019 Tista <tista.gma500@gmail.com> This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. */
+.bottom-panel { min-height: 30px; height: 2.2em; }
+
+.window-list { font-size: 10pt; spacing: 2px; }
+
+.window-button { padding: 1px; }
+
+.window-button:first-child:ltr { padding-left: 2px; }
+
+.window-button:last-child:rtl { padding-right: 2px; }
+
+.window-button-box { spacing: 4px; }
+
+.window-button > StWidget { -st-natural-width: 18.75em; max-width: 18.75em; padding: 3px 6px 1px; border-radius: 0; background-color: rgba(224, 224, 224, 0.01); background-gradient-drection: vertical; background-gradient-start: rgba(224, 224, 224, 0.01); background-gradient-end: rgba(224, 224, 224, 0.01); color: rgba(17, 17, 17, 0.87); box-shadow: none; text-shadow: none; }
+
+.window-button:hover > StWidget { background-gradient-drection: vertical; background-gradient-start: rgba(17, 17, 17, 0.12); background-gradient-end: rgba(17, 17, 17, 0.12); color: #111111; box-shadow: inset 0 -2px rgba(17, 17, 17, 0.2); }
+
+.window-button:active > StWidget, .window-button:focus > StWidget { background-gradient-drection: vertical; background-gradient-start: rgba(17, 17, 17, 0.12); background-gradient-end: rgba(17, 17, 17, 0.12); color: #111111; box-shadow: inset 0 -2px #3f51b5; }
+
+.window-button.focused > StWidget, .window-button.focused:active > StWidget { color: #111111; box-shadow: inset 0 -2px #3f51b5; }
+
+.window-button.minimized > StWidget { color: rgba(17, 17, 17, 0.54); box-shadow: none; }
+
+.window-button.minimized:hover > StWidget { background-gradient-drection: vertical; background-gradient-start: rgba(17, 17, 17, 0.12); background-gradient-end: rgba(17, 17, 17, 0.12); box-shadow: inset 0 -2px rgba(17, 17, 17, 0.2); color: #111111; }
+
+.window-button.minimized:active > StWidget { background-gradient-drection: vertical; background-gradient-start: rgba(17, 17, 17, 0.12); background-gradient-end: rgba(17, 17, 17, 0.12); box-shadow: inset 0 -2px #3f51b5; color: #111111; }
+
+.window-button-icon { width: 24px; height: 24px; }
+
+.window-list-workspace-indicator { padding: 3px; }
+
+.window-list-workspace-indicator > StWidget { border: 1px solid rgba(17, 17, 17, 0.2); background-color: rgba(224, 224, 224, 0.01); background-gradient-drection: vertical; background-gradient-start: rgba(224, 224, 224, 0.01); background-gradient-end: rgba(224, 224, 224, 0.01); color: rgba(17, 17, 17, 0.87); font-weight: 700; }
+
+.window-list-workspace-indicator:hover > StWidget { background-gradient-drection: vertical; background-gradient-start: rgba(17, 17, 17, 0.12); background-gradient-end: rgba(17, 17, 17, 0.12); color: #111111; }
+
+.window-list-workspace-indicator:active > StWidget, .window-list-workspace-indicator:checked > StWidget, .window-list-workspace-indicator:focus > StWidget { border: 1px solid #3f51b5; background-gradient-drection: vertical; background-gradient-start: rgba(63, 81, 181, 0.2); background-gradient-end: rgba(63, 81, 181, 0.2); color: #111111; }
+
+.notification { font-weight: 500; }

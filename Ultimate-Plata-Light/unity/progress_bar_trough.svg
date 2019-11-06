@@ -17,6 +17,6 @@
       <feComposite in="fbSourceGraphic" in2="offset" result="composite2"/>
     </filter>
   </defs>
-  <rect x="4" y="23" width="46" height="8" rx="2" ry="2" fill="#fafafa" filter="url(#a)"/>
+  <rect x="4" y="23" width="46" height="8" rx="2" ry="2" fill="#d8d8d8" filter="url(#a)"/>
   <rect x="6" y="25" width="42" height="4" fill="#212121" opacity="0.12"/>
 </svg>

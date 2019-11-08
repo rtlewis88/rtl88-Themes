@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Material-Solarized
+Name=Material-Solarized-GTK
 Comment=A Material Design theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Material-Solarized
-MetacityTheme=Material-Solarized
+GtkTheme=Material-Solarized-GTK
+MetacityTheme=Material-Solarized-GTK
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24

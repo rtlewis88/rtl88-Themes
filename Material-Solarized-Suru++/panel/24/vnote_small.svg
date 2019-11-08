@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color: #e9ecf2; } .ColorScheme-Highlight { color: #1AD6AB; }
+   .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color: #1AD6AB; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#dd9b44"/>
@@ -48,5 +48,5 @@
    <stop offset="100%" style="stop-color:#0f83ae"/>
   </linearGradient>
  </defs>
- <path fill="#e9ecf2" d="M4 6.34493H7.41089C7.92343 6.34493 8.37995 6.66893 8.54912 7.15274L12.9044 19.6087L11.6986 15.4812L17.4957 7.87536L20 10.2406L15.3159 5H19.258C19.6678 5 20 5.33222 20 5.74203V10.2406L12.9044 19.6087H9.4714C8.99956 19.6087 8.579 19.3112 8.42188 18.8663L4 6.34493Z"/>
+ <path fill="#d3dae3" d="M4 6.34493H7.41089C7.92343 6.34493 8.37995 6.66893 8.54912 7.15274L12.9044 19.6087L11.6986 15.4812L17.4957 7.87536L20 10.2406L15.3159 5H19.258C19.6678 5 20 5.33222 20 5.74203V10.2406L12.9044 19.6087H9.4714C8.99956 19.6087 8.579 19.3112 8.42188 18.8663L4 6.34493Z"/>
 </svg>

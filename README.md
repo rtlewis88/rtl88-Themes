@@ -1,4 +1,4 @@
-material-black MAGIC is a new GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon- Dark Mode Theme with many transparent elements.
+material-black MAGIC is a new GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon- dark mode theme with many transparent elements.
 
 The material-black MAGIC theme is based on Material Design standards and aims to bring a warm, colorful, and elegant experience to your desktop. Black-on-black-on-black with one additional color just where you need it. Even more semi-transparent elements on the shells. Have some fun!
 

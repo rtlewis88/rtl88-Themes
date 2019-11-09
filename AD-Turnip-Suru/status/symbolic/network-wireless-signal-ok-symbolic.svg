@@ -20,7 +20,7 @@
    <stop offset="100%"  stop-color= "#329DB6" stop-opacity="1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%"    stop-color= "#a566ff" stop-opacity="1"/>
+   <stop offset="0%"    stop-color= "#ac72ff" stop-opacity="1"/>
    <stop offset="100%"  stop-color= "#7f26ff" stop-opacity="1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">

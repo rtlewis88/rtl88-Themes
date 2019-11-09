@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Abyss-BLOOD
+Name=Abyss-Blood
 Comment=A Material Design theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Abyss-BLOOD
-MetacityTheme=Abyss-BLOOD
-IconTheme=Adwaita
+GtkTheme=Abyss-Blood
+MetacityTheme=Abyss-Blood
+IconTheme=Abyss-Blood
 CursorTheme=Adwaita
 CursorSize=24

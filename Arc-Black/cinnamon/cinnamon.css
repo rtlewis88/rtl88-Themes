@@ -130,7 +130,7 @@ stage {
     box-shadow: inset 0 2px 4px rgba(30, 33, 39, 0.05); }
   .menu #notification StEntry StIcon.capslock-warning, .popup-menu #notification StEntry StIcon.capslock-warning, #menu-search-entry StIcon.capslock-warning {
     icon-size: 16px;
-    warning-color: #8eac33;
+    warning-color: #ac9132;
     padding: 0 4px; }
 
 .notification StEntry {
@@ -887,7 +887,7 @@ StScrollBar {
   icon-size: 48px; }
 
 .mount-password-reask {
-  color: #8eac33; }
+  color: #ac9132; }
 
 .show-processes-dialog,
 .mount-question-dialog {
@@ -1178,8 +1178,8 @@ StScrollBar {
     padding-right: 0px; }
 
 .window-list-item-demands-attention {
-  background-gradient-start: #8eac33;
-  background-gradient-end: #8eac33; }
+  background-gradient-start: #ac9132;
+  background-gradient-end: #ac9132; }
 
 .grouped-window-list-thumbnail-label {
   padding-left: 3px; }
@@ -1196,7 +1196,7 @@ StScrollBar {
   background-color: rgba(9, 10, 12, 0.95); }
 
 .grouped-window-list-thumbnail-alert {
-  background-color: #8eac33; }
+  background-color: #ac9132; }
 
 .grouped-window-list-item-box {
   transition-duration: 100;
@@ -1249,8 +1249,8 @@ StScrollBar {
     background-color: #5294e2; }
 
 .grouped-window-list-item-demands-attention {
-  background-gradient-start: #8eac33;
-  background-gradient-end: #8eac33; }
+  background-gradient-start: #ac9132;
+  background-gradient-end: #ac9132; }
 
 .grouped-window-list-thumbnail-menu {
   color: #d3dae3;

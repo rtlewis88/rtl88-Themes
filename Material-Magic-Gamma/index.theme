@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Magic-Gamma
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Magic-Gamma
+MetacityTheme=Material-Magic-Gamma
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

@@ -16,8 +16,8 @@ style "notify-button" {
   bg[PRELIGHT] = "#5C6070"
   bg[ACTIVE] = @selected_bg_color
 
-  fg[NORMAL] = "#d3dae3"
-  fg[PRELIGHT] = "#d3dae3"
+  fg[NORMAL] = "#dae1ea"
+  fg[PRELIGHT] = "#dae1ea"
   fg[ACTIVE] = @selected_fg_color
 
   engine "murrine" {
@@ -31,9 +31,9 @@ style "notify-button" {
 style "notify-text" {
   GtkWidget::link-color = @selected_bg_color
 
-  fg[NORMAL] = "#d3dae3"
-  fg[PRELIGHT] = "#d3dae3"
-  fg[ACTIVE] = "#d3dae3"
+  fg[NORMAL] = "#dae1ea"
+  fg[PRELIGHT] = "#dae1ea"
+  fg[ACTIVE] = "#dae1ea"
 
   engine "murrine" {
     textstyle = 0

@@ -8,15 +8,15 @@ style "theme-panel" {
   bg[PRELIGHT] = "#3f4453"
   bg[SELECTED] = @selected_bg_color
 
-  fg[NORMAL] = "#d3dae3"
+  fg[NORMAL] = "#dae1ea"
   fg[PRELIGHT] = @selected_fg_color
   fg[ACTIVE] = @selected_fg_color
   fg[SELECTED] = @selected_fg_color
 
-  text[NORMAL] = "#d3dae3"
-  text[PRELIGHT] = "#d3dae3"
-  text[ACTIVE] = "#d3dae3"
-  text[SELECTED] = "#d3dae3"
+  text[NORMAL] = "#dae1ea"
+  text[PRELIGHT] = "#dae1ea"
+  text[ACTIVE] = "#dae1ea"
+  text[SELECTED] = "#dae1ea"
 
   engine "murrine" {
     reliefstyle = 0

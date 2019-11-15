@@ -431,7 +431,7 @@
 }
 
 .workspacestodock-caption-windowapps-button-active > .workspacestodock-caption-windowapps-button-icon {
-    box-shadow: inset 0 -2px #d3dae3;
+    box-shadow: inset 0 -2px #dae1ea;
 }
 
 /* caption workspace number */
@@ -440,7 +440,7 @@
     padding: 0 10px;
     border-radius: 0;
     background-color: rgba(255, 255, 255, 0.3);
-    color: #d3dae3;
+    color: #dae1ea;
     font-size: 9pt;
     font-weight: bold;
     text-align: center;
@@ -459,7 +459,7 @@
     /* min-width: 16px; */
     margin: 0px 4px;
     padding: 0px 4px;
-    color: #d3dae3;
+    color: #dae1ea;
     font-size: 9pt;
     font-weight: bold;
     text-align: center;
@@ -472,7 +472,7 @@
     margin: 1px;
     border-radius: 0;
     background-color: #FF4081;
-    color: #d3dae3;
+    color: #dae1ea;
     font-size: 9pt;
     font-weight: bold;
     text-align: center;

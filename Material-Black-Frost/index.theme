@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Black-Frost
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Black-Frost
+MetacityTheme=Material-Black-Frost
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

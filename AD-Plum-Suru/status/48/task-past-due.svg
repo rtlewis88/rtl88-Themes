@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
+ <defs>
+  <linearGradient id="redcarbon" x1="36.74" x2="41.639" y1="4.899" y2="9.799" gradientTransform="matrix(0.4082789079,0,0,2.449306052,39.87408412,-24.18819539)" gradientUnits="userSpaceOnUse">
+   <stop id="stop38" offset="0%" stop-color="#FF6D57"/>
+   <stop id="stop40" offset="50%" stop-color="#FF5160"/>
+   <stop id="stop42" offset="100%" stop-color="#F50F22"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop28" offset="0%" stop-color="#efefe7"/>
+   <stop id="stop30" offset="100%" stop-color="#8f8f8b"/>
+  </linearGradient>
+  <linearGradient id="arrongin" x1="0" x2="0" y1="0" y2="1">
+   <stop id="stop3" offset="0%" stop-color="#dd9b44"/>
+   <stop id="stop5" offset="100%" stop-color="#ad6c16"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1747" x1="16" x2="32" y1="8" y2="8" gradientUnits="userSpaceOnUse" xlink:href="#oomox"/>
+  <linearGradient id="linearGradient1755" x1="22.738" x2="22.794" y1="11.566" y2="13.717" gradientUnits="userSpaceOnUse" xlink:href="#oomox"/>
+ </defs>
+ <rect   fill="#1e1e1e"                  opacity="0.2" width="37" height="36" x="-45" y="-42" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <rect   fill="url(#arrongin)"           opacity="1.0" width="37" height="36" x="-44" y="-42" rx="3" ry="3" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path   fill="#ffffff"                  opacity="0.2" d="m 9,7 c -1.662,0 -3,1.338 -3,3 v 1 c 0,-1.662 1.338,-3 3,-3 h 30 c 1.662,0 3,1.338 3,3 v -1 c 0,-1.662 -1.338,-3 -3,-3 z"/>
+ <g transform="translate(0,-284.3)">
+  <path fill="#1e1e1e" opacity="0.2" d="M 38,296.3 H 10 v 5.60014 l 3,2.39986 3,-2 4,1 4,-2 4,2 6,-2 4,0.60014 z"/>
+  <path fill="#efefef" d="M 38,295.3 H 10 v 5.60014 l 3,2.39986 3,-2 4,1 4,-2 4,2 6,-2 4,0.60014 z"/>
+ </g>
+ <path   fill="url(#linearGradient1747)" opacity="1.0" d="m 24,2 c -2.216,0 -4,1.784 -4,4 v 2 h -2 c -1.108,0 -2,0.892 -2,2 v 1 3 h 8 8 v -3 -1 c 0,-1.108 -0.892,-2 -2,-2 h -2 v -2 c 0,-2.216 -1.784,-4 -4,-4 z"/>
+ <circle fill="#1e1e1e"                  opacity="0.2" cx="24" cy="7" r="2"/>
+ <circle fill="#ffffff"                  opacity="1.0" cx="24" cy="6" r="2"/>
+ <path   fill="#ffffff"                  opacity="1.0" d="m 24,2 c -2.216,0 -4,1.784 -4,4 v 1 c 0,-2.216 1.784,-4 4,-4 2.216,0 4,1.784 4,4 v -1 c 0,-2.216 -1.784,-4 -4,-4 z m -6,6 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 2 v -1 z m 10,0 v 1 h 2 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z"/>
+ <path   fill="url(#linearGradient1755)" opacity="1.0" d="m 16,12 v 2 h 8 8 v -2 z"/>
+</svg>

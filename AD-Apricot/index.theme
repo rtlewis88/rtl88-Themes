@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=oomox-Arc-Darkest-Peach-Darker
+Name=AD-Apricot
 Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Darker
-MetacityTheme=Arc-Darker
+GtkTheme=AD-Apricot
+MetacityTheme=AD-Apricot
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close

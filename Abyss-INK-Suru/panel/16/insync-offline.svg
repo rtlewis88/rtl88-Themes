@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
    <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color: #e9ecf2; } .ColorScheme-Highlight { color: #1AD6AB; }
+   .ColorScheme-Text { color: #a6a6a6; } .ColorScheme-Highlight { color: #1AD6AB; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color: #dd9b44; stop-opacity: 1"/>
@@ -20,8 +20,8 @@
    <stop offset="100%" style="stop-color: #329DB6; stop-opacity: 1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color: #a4a4d8; stop-opacity: 1"/>
-   <stop offset="100%" style="stop-color: #4f4fe5; stop-opacity: 1"/>
+   <stop offset="0%" style="stop-color: #9595e5; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #4747f2; stop-opacity: 1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color: #00F260; stop-opacity: 1"/>
@@ -50,7 +50,7 @@
  </defs>
  <defs>
   <style id="style2" type="text/css">
-   .ColorScheme-Text { color:#e9ecf2; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#a6a6a6; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
  </defs>
  <rect fill="url(#oomox)" class="ColorScheme-Text" opacity="0.3" width="3" height="4" x="11" y="12"/>

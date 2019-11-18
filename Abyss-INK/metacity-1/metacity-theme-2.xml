@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>Abyss-INK</name>
+  <name>Abyss-Ink</name>
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2018</date>
-  <description>Abyss-INK Metacity theme</description>
+  <description>Abyss-Ink Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
-<constant name="C_titlebar_focused" value="#353535"/>
-<constant name="C_titlebar_unfocused" value="#00000e"/>
-<constant name="C_highlight" value="blend/#353535/#999999/0.1"/>
+<constant name="C_titlebar_focused" value="#000000"/>
+<constant name="C_titlebar_unfocused" value="#000011"/>
+<constant name="C_highlight" value="blend/#000000/#999999/0.1"/>
 <constant name="C_title_focused" value="#999999"/>
-<constant name="C_title_unfocused" value="blend/#00000e/#999999/0.7"/>
+<constant name="C_title_unfocused" value="blend/#000011/#999999/0.7"/>
 
 
 <!-- geometries -->
 
 <frame_geometry name="normal" title_scale="medium" rounded_top_left="4" rounded_top_right="4">
-  <distance name="left_width" value="1"/>
-  <distance name="right_width" value="1"/>
-  <distance name="bottom_height" value="1"/>
+  <distance name="left_width" value="2"/>
+  <distance name="right_width" value="2"/>
+  <distance name="bottom_height" value="2"/>
   <distance name="left_titlebar_edge" value="0"/>
   <distance name="right_titlebar_edge" value="0"/>
   <distance name="title_vertical_pad" value="13"/>
@@ -57,10 +57,10 @@
 </frame_geometry>
 
 <frame_geometry name="border" has_title="false" rounded_top_left="false" rounded_top_right="false" parent="normal">
-  <distance name="left_width" value="1"/>
-  <distance name="right_width" value="1"/>
-  <distance name="bottom_height" value="1"/>
-  <distance name="title_vertical_pad" value="1"/>
+  <distance name="left_width" value="2"/>
+  <distance name="right_width" value="2"/>
+  <distance name="bottom_height" value="2"/>
+  <distance name="title_vertical_pad" value="2"/>
   <border name="title_border" left="10" right="10" top="0" bottom="0"/>
   <border name="button_border" left="0" right="0" top="0" bottom="0"/>
 </frame_geometry>

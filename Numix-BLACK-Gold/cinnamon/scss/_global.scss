@@ -7,7 +7,7 @@ $button_fg_color: #fffbed;
 $selected_bg_color: #776d4b;
 $selected_fg_color: #ffffff;
 $tooltip_bg_color: #121212;
-$tooltip_fg_color: #999999;
+$tooltip_fg_color: #b2b2b2;
 $dark_bg_color: fade-out(#191919, 1 - 1.0);
 $dark_fg_color: #fffbed;
 
@@ -68,12 +68,12 @@ $scrollbar_slider_hover_color: mix($dark_bg_color, $selected_bg_color, 20%);
 $primary_caret_color: #c1c1c1;
 
 // other colors used in the theme
-$link_color: #116bdc;
-$success_color: #0f8123;
-$warning_color: #a06119;
-$error_color: #c33f45;
+$link_color: #0569bf;
+$success_color: #037f06;
+$warning_color: #945f00;
+$error_color: #b73d28;
 $info_fg_color: #c1c1c1;
-$info_bg_color: #5f55fa;
+$info_bg_color: #5353dd;
 
 // used for border-radius throughout theme
 $roundness: 15px;

@@ -122,7 +122,7 @@
 #menu-search-entry, #notification StEntry, .run-dialog-entry {
   padding: 5px;
   border-radius: 15px;
-  color: #999999;
+  color: #b2b2b2;
   border: 1px solid rgba(255, 251, 237, 0.22);
   selection-background-color: #776d4b;
   selected-color: #ffffff;
@@ -233,7 +233,7 @@ stage {
   font-size: 1em; }
 
 .cinnamon-link {
-  color: #116bdc;
+  color: #0569bf;
   font-style: italic; }
   .cinnamon-link:hover {
     color: #ffffff; }
@@ -297,7 +297,7 @@ StScrollView StScrollBar {
 
 #Tooltip {
   padding: 5px 8px;
-  color: #999999;
+  color: #b2b2b2;
   text-align: center;
   border-radius: 15px; }
 
@@ -446,7 +446,7 @@ StScrollView StScrollBar {
 
 .menu-search-entry-icon {
   icon-size: 1em;
-  color: #999999; }
+  color: #b2b2b2; }
 
 .menu-top-box {
   spacing: 10px; }
@@ -616,9 +616,9 @@ StScrollView StScrollBar {
   padding: 0;
   spacing: 0; }
   .system-status-icon.warning {
-    color: #a06119; }
+    color: #945f00; }
   .system-status-icon.error {
-    color: #c33f45; }
+    color: #b73d28; }
 
 .panel-status-button {
   -natural-hpadding: 4px;
@@ -661,7 +661,7 @@ StScrollView StScrollBar {
   .window-list-item-box.top StLabel, .window-list-item-box.bottom StLabel {
     padding-left: 3px; }
   .window-list-item-box .progress {
-    background-color: #0f8123;
+    background-color: #037f06;
     border: 1px solid #665e42;
     border-radius: 15px;
     color: #c1c1c1; }
@@ -669,7 +669,7 @@ StScrollView StScrollBar {
     padding-right: 0.2em; }
 
 .window-list-item-demands-attention {
-  background-color: #5f55fa;
+  background-color: #5353dd;
   color: #c1c1c1; }
 
 .window-list-preview {
@@ -695,7 +695,7 @@ StScrollView StScrollBar {
   background-color: #191919; }
 
 .grouped-window-list-thumbnail-alert {
-  background: #a06119; }
+  background: #945f00; }
 
 .grouped-window-list-item-box {
   transition-duration: 150;
@@ -706,10 +706,10 @@ StScrollView StScrollBar {
   .grouped-window-list-item-box:focus {
     font-weight: bold; }
   .grouped-window-list-item-box .progress {
-    background-color: #0f8123; }
+    background-color: #037f06; }
 
 .grouped-window-list-demands-attention {
-  background-color: #5f55fa;
+  background-color: #5353dd;
   color: #c1c1c1; }
 
 .grouped-window-list-thumbnail-menu {
@@ -950,7 +950,7 @@ StScrollView StScrollBar {
   #notification StEntry:focus {
     border: 1px solid #665e42; }
   #notification .url-highlighter {
-    link-color: #116bdc; }
+    link-color: #0569bf; }
 
 .notification-with-image {
   min-height: 159px;
@@ -1034,7 +1034,7 @@ StScrollView StScrollBar {
   icon-size: 4.8em; }
 
 .mount-password-reask {
-  color: #a06119; }
+  color: #945f00; }
 
 .show-processes-dialog {
   spacing: 24px; }
@@ -1241,7 +1241,7 @@ StScrollView StScrollBar {
   border-radius-topleft: 10px;
   border-radius-bottomleft: 10px;
   transition-duration: 150;
-  background-color: #5f55fa;
+  background-color: #5353dd;
   border-top: 1px solid;
   border-left: 1px solid;
   border-bottom: 1px solid;
@@ -1252,7 +1252,7 @@ StScrollView StScrollBar {
   .workspace-add-button:active {
     background-image: url(assets/add-workspace.png);
     border-color: #665e42;
-    background-color: #0f8123; }
+    background-color: #037f06; }
 
 .workspace-close-button {
   background-image: url(assets/close-window.svg);

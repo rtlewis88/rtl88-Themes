@@ -1251,20 +1251,20 @@ searchbar > revealer > box {
   border-radius: 2px 2px 0 0;
   box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.3), 0 1px 2px -1px rgba(0, 0, 0, 0.24), 0 1px 2px -0.6px rgba(0, 0, 0, 0.17), inset 0 1px rgba(255, 255, 255, 0.1);
   background-color: #002b36;
-  color: #7b8787;
+  color: #8b9999;
 }
 
 .titlebar:disabled {
-  color: rgba(123, 135, 135, 0.5);
+  color: rgba(139, 153, 153, 0.5);
 }
 
 .titlebar:backdrop {
   background-color: #001b26;
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .titlebar:backdrop:disabled {
-  color: rgba(123, 135, 135, 0.3);
+  color: rgba(139, 153, 153, 0.3);
 }
 
 .titlebar .title {
@@ -1280,12 +1280,12 @@ searchbar > revealer > box {
 .titlebar .subtitle,
 .titlebar .dim-label {
   transition: color 75ms cubic-bezier(0, 0, 0.2, 1);
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .titlebar .subtitle:backdrop,
 .titlebar .dim-label:backdrop {
-  color: rgba(123, 135, 135, 0.5);
+  color: rgba(139, 153, 153, 0.5);
 }
 
 .titlebar .titlebar {
@@ -1294,31 +1294,31 @@ searchbar > revealer > box {
 }
 
 .titlebar headerbar + separator {
-  background-color: rgba(123, 135, 135, 0.12);
+  background-color: rgba(139, 153, 153, 0.12);
 }
 
 .titlebar entry {
-  box-shadow: inset 0 -1px rgba(123, 135, 135, 0.3);
-  background-color: rgba(123, 135, 135, 0.04);
-  color: #7b8787;
+  box-shadow: inset 0 -1px rgba(139, 153, 153, 0.3);
+  background-color: rgba(139, 153, 153, 0.04);
+  color: #8b9999;
 }
 
 .titlebar entry:disabled {
-  box-shadow: inset 0 -1px rgba(123, 135, 135, 0.12);
-  background-color: rgba(123, 135, 135, 0.04);
-  color: rgba(123, 135, 135, 0.5);
+  box-shadow: inset 0 -1px rgba(139, 153, 153, 0.12);
+  background-color: rgba(139, 153, 153, 0.04);
+  color: rgba(139, 153, 153, 0.5);
 }
 
 .titlebar entry image {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .titlebar entry image:hover, .titlebar entry image:active {
-  color: #7b8787;
+  color: #8b9999;
 }
 
 .titlebar entry image:disabled {
-  color: rgba(123, 135, 135, 0.5);
+  color: rgba(139, 153, 153, 0.5);
 }
 
 .titlebar .linked:not(.vertical) > entry:not(:only-child) {
@@ -1327,53 +1327,53 @@ searchbar > revealer > box {
 
 .titlebar button:not(.suggested-action):not(.destructive-action) {
   border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), currentColor 0%, transparent 0%) 0 0 0/0 0 0px;
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .titlebar button:not(.suggested-action):not(.destructive-action):focus, .titlebar button:not(.suggested-action):not(.destructive-action):hover,
 .titlebar button:not(.suggested-action):not(.destructive-action):drop(active), .titlebar button:not(.suggested-action):not(.destructive-action):active {
-  color: #7b8787;
+  color: #8b9999;
 }
 
 .titlebar button:not(.suggested-action):not(.destructive-action):disabled {
-  color: rgba(123, 135, 135, 0.3);
+  color: rgba(139, 153, 153, 0.3);
 }
 
 .path-bar-box .nautilus-path-bar button:not(.suggested-action):not(.destructive-action):last-child:dir(ltr), .path-bar-box .nautilus-path-bar button:not(.suggested-action):not(.destructive-action):first-child:dir(rtl), .titlebar button:not(.suggested-action):not(.destructive-action):checked {
   border-image: radial-gradient(circle closest-corner at center calc(100% - 1px), currentColor 100%, transparent 0%) 0 0 2/0 0 2px;
   background-color: transparent;
-  color: #7b8787;
+  color: #8b9999;
 }
 
 .path-bar-box .nautilus-path-bar button:disabled:not(.suggested-action):not(.destructive-action):last-child:dir(ltr), .path-bar-box .nautilus-path-bar button:disabled:not(.suggested-action):not(.destructive-action):first-child:dir(rtl), .titlebar button:not(.suggested-action):not(.destructive-action):checked:disabled {
   background-color: transparent;
-  color: rgba(123, 135, 135, 0.5);
+  color: rgba(139, 153, 153, 0.5);
 }
 
 .titlebar button:not(.suggested-action):not(.destructive-action):backdrop {
-  color: rgba(123, 135, 135, 0.5);
+  color: rgba(139, 153, 153, 0.5);
 }
 
 .titlebar button:not(.suggested-action):not(.destructive-action):backdrop:focus, .titlebar button:not(.suggested-action):not(.destructive-action):backdrop:hover,
 .titlebar button:not(.suggested-action):not(.destructive-action):backdrop:drop(active), .titlebar button:not(.suggested-action):not(.destructive-action):backdrop:active {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .titlebar button:not(.suggested-action):not(.destructive-action):backdrop:disabled {
-  color: rgba(123, 135, 135, 0.3);
+  color: rgba(139, 153, 153, 0.3);
 }
 
 .path-bar-box .nautilus-path-bar button:backdrop:not(.suggested-action):not(.destructive-action):last-child:dir(ltr), .path-bar-box .nautilus-path-bar button:backdrop:not(.suggested-action):not(.destructive-action):first-child:dir(rtl), .titlebar button:not(.suggested-action):not(.destructive-action):backdrop:checked {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .path-bar-box .nautilus-path-bar button:backdrop:disabled:not(.suggested-action):not(.destructive-action):last-child:dir(ltr), .path-bar-box .nautilus-path-bar button:backdrop:disabled:not(.suggested-action):not(.destructive-action):first-child:dir(rtl), .titlebar button:not(.suggested-action):not(.destructive-action):backdrop:checked:disabled {
-  color: rgba(123, 135, 135, 0.3);
+  color: rgba(139, 153, 153, 0.3);
 }
 
 .titlebar button.suggested-action:disabled, .titlebar button.destructive-action:disabled {
-  background-color: rgba(123, 135, 135, 0.04);
-  color: rgba(123, 135, 135, 0.5);
+  background-color: rgba(139, 153, 153, 0.04);
+  color: rgba(139, 153, 153, 0.5);
 }
 
 .titlebar stackswitcher button:not(.suggested-action):not(.destructive-action).text-button {
@@ -1510,7 +1510,7 @@ headerbar button {
 headerbar separator.titlebutton {
   margin-top: 10px;
   margin-bottom: 10px;
-  background-color: rgba(123, 135, 135, 0.12);
+  background-color: rgba(139, 153, 153, 0.12);
 }
 
 headerbar switch {
@@ -1706,13 +1706,13 @@ menubar,
   -GtkWidget-window-dragging: true;
   padding: 0;
   background-color: #002b36;
-  color: #7b8787;
+  color: #8b9999;
 }
 
 menubar:backdrop,
 .menubar:backdrop {
   background-color: #001b26;
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .csd menubar, .csd
@@ -1725,19 +1725,19 @@ menubar > menuitem,
   transition: all 75ms cubic-bezier(0, 0, 0.2, 1);
   min-height: 20px;
   padding: 4px 8px;
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 menubar > menuitem:hover,
 .menubar > menuitem:hover {
   transition: none;
   background-color: alpha(currentColor, 0.12);
-  color: #7b8787;
+  color: #8b9999;
 }
 
 menubar > menuitem:disabled,
 .menubar > menuitem:disabled {
-  color: rgba(123, 135, 135, 0.3);
+  color: rgba(139, 153, 153, 0.3);
 }
 
 menubar > menuitem label:disabled,
@@ -3894,12 +3894,12 @@ popover.emoji-completion .emoji:hover {
 }
 
 .path-bar-box.width-maximized {
-  background-color: rgba(123, 135, 135, 0.04);
+  background-color: rgba(139, 153, 153, 0.04);
 }
 
 .path-bar-box.background.frame {
   border-style: none;
-  background-color: rgba(123, 135, 135, 0.04);
+  background-color: rgba(139, 153, 153, 0.04);
 }
 
 .path-bar-box .path-bar button label:not(:only-child):first-child {
@@ -4834,7 +4834,7 @@ button.flat.tilix-small-button {
  *************/
 #live_installer .menubar progressbar trough {
   border-radius: 4px;
-  background-color: rgba(123, 135, 135, 0.12);
+  background-color: rgba(139, 153, 153, 0.12);
 }
 
 /***********
@@ -4875,7 +4875,7 @@ window.background.chromium > button:disabled {
 
 window.background.chromium menubar,
 window.background.chromium headerbar {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 window.background.chromium headerbar button:active {
@@ -4991,15 +4991,15 @@ tooltip.background.chromium {
 }
 
 #MozillaGtkWidget > widget > menubar {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 #MozillaGtkWidget > widget > menubar:hover {
-  color: #7b8787;
+  color: #8b9999;
 }
 
 #MozillaGtkWidget > widget > menubar:disabled {
-  color: rgba(123, 135, 135, 0.3);
+  color: rgba(139, 153, 153, 0.3);
 }
 
 #MozillaGtkWidget > widget > frame {
@@ -5114,22 +5114,22 @@ UnityDecoration .top {
   border-radius: 2px 2px 0 0;
   box-shadow: inset 0 1px rgba(255, 255, 255, 0.1);
   background-color: #002b36;
-  color: #7b8787;
+  color: #8b9999;
 }
 
 UnityDecoration .top:backdrop {
   background-color: #001b26;
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 UnityDecoration .menuitem {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 UnityDecoration .menuitem:hover {
   box-shadow: inset 0 -2px currentColor;
   background-color: transparent;
-  color: #7b8787;
+  color: #8b9999;
 }
 
 .background:not(.csd) headerbar:not(.titlebar) {
@@ -5144,24 +5144,24 @@ UnityDecoration .menuitem:hover {
 UnityPanelWidget,
 .unity-panel {
   background-color: #000b16;
-  color: #7b8787;
+  color: #8b9999;
 }
 
 UnityPanelWidget:backdrop,
 .unity-panel:backdrop {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .unity-panel.menuitem,
 .unity-panel .menuitem {
-  color: rgba(123, 135, 135, 0.7);
+  color: rgba(139, 153, 153, 0.7);
 }
 
 .unity-panel.menubar.menuitem:hover,
 .unity-panel.menubar .menuitem *:hover {
   box-shadow: inset 0 -2px currentColor;
   background-color: transparent;
-  color: #7b8787;
+  color: #8b9999;
 }
 
 .menu IdoPlaybackMenuItem.menuitem:active {
@@ -6433,8 +6433,8 @@ these are pretty self explicative */
 /*
 these colors are exported for the window manager and shouldn't be used in applications,
 read if you used those and something break with a version upgrade you're on your own... */
-@define-color wm_title #7b8787;
-@define-color wm_unfocused_title rgba(123, 135, 135, 0.7);
+@define-color wm_title #8b9999;
+@define-color wm_unfocused_title rgba(139, 153, 153, 0.7);
 @define-color wm_highlight rgba(255, 255, 255, 0.1);
 @define-color wm_bg #002b36;
 @define-color wm_unfocused_bg #001b26;

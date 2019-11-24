@@ -15,7 +15,7 @@ stage {
   text-shadow: 0 1px rgba(49, 58, 68, 0);
   color: #eceff4;
   background-color: #2c343e;
-  border: 1px solid #5b616c;
+  border: 1px solid #4b5059;
   box-shadow: inset 0 2px 4px rgba(44, 52, 62, 0.05); }
   .menu #notification .notification-button, .menu #notification .notification-icon-button,
   .popup-menu #notification .notification-button,
@@ -47,7 +47,7 @@ stage {
     text-shadow: 0 1px rgba(49, 58, 68, 0);
     color: #eceff4;
     background-color: #37404d;
-    border: 1px solid #5b616c;
+    border: 1px solid #4b5059;
     box-shadow: inset 0 2px 4px rgba(55, 64, 77, 0.05); }
   .menu #notification .notification-button:hover:focus, .menu #notification .notification-icon-button:hover:focus,
   .popup-menu #notification .notification-button:hover:focus,
@@ -72,7 +72,7 @@ stage {
   .popup-menu #notification .notification-icon-button:insensitive, .sound-button:insensitive {
     text-shadow: 0 1px rgba(49, 58, 68, 0);
     color: rgba(236, 239, 244, 0.55);
-    border: 1px solid rgba(91, 97, 108, 0.55);
+    border: 1px solid rgba(75, 80, 89, 0.55);
     background-color: rgba(44, 52, 62, 0.55);
     box-shadow: inset 0 2px 4px rgba(44, 52, 62, 0.05); }
 
@@ -113,7 +113,7 @@ stage {
   border-radius: 3px;
   color: #eceff4;
   background-color: #313a44;
-  border: 1px solid #5b616c;
+  border: 1px solid #4b5059;
   box-shadow: inset 0 2px 4px rgba(49, 58, 68, 0.05); }
   .menu #notification StEntry:focus,
   .popup-menu #notification StEntry:focus, #menu-search-entry:focus, .menu #notification StEntry:hover,
@@ -126,7 +126,7 @@ stage {
   .popup-menu #notification StEntry:insensitive, #menu-search-entry:insensitive {
     color: rgba(236, 239, 244, 0.55);
     background-color: #2d353f;
-    border-color: 1px solid #444b55;
+    border-color: 1px solid #3b414a;
     box-shadow: inset 0 2px 4px rgba(45, 53, 63, 0.05); }
   .menu #notification StEntry StIcon.capslock-warning, .popup-menu #notification StEntry StIcon.capslock-warning, #menu-search-entry StIcon.capslock-warning {
     icon-size: 16px;
@@ -190,7 +190,7 @@ StScrollBar {
 .popup-slider-menu-item,
 .slider {
   -slider-height: 4px;
-  -slider-background-color: #5b616c;
+  -slider-background-color: #4b5059;
   -slider-border-color: transparent;
   -slider-active-background-color: #69acbf;
   -slider-active-border-color: transparent;
@@ -1378,7 +1378,7 @@ StScrollBar {
     padding: 0;
     border: none;
     -slider-height: 0.5em;
-    -slider-background-color: #5b616c;
+    -slider-background-color: #4b5059;
     -slider-border-color: transparent;
     -slider-active-background-color: #69acbf;
     -slider-active-border-color: transparent;

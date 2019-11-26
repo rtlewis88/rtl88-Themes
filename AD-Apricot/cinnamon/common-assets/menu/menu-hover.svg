@@ -24,7 +24,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#e28651;stop-opacity:1;"
+         style="stop-color:#cc7746;stop-opacity:1;"
          offset="0"
          id="stop4138" />
     </linearGradient>

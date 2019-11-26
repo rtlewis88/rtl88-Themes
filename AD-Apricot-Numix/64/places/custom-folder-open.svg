@@ -5,7 +5,7 @@
    <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
   </radialGradient>
  </defs>
- <rect width="50" height="36" x="7" y="-0.002" rx="2" style="fill:#b55824;fill-opacity:1;stroke:none"/>
+ <rect width="50" height="36" x="7" y="-0.002" rx="2" style="fill:#A65121;fill-opacity:1;stroke:none"/>
  <path d="m 32 5.998 l -10 9 l 5 0 l 0 21.01 l 10 0 l 0 -21.01 l 5 0 l -10 -9 z" style="fill:#fff1ed;opacity:0.6;fill-opacity:1;stroke:none"/>
  <path d="m 70 56 c 0 2.209 -17.01 4 -38 4 -20.987 0 -38 -1.791 -38 -4 0 -2.209 17.01 -4 38 -4 20.987 0 38 1.791 38 4 z" style="fill:url(#radialGradient3964);opacity:0.6;fill-opacity:1;stroke:none"/>
  <path d="m 64 23.18 0 34.824 -64 0 0 -32 30 0 3 -6 27.952 0.118 c 1.524 0 3.048 1.529 3.048 3.059 z" style="fill:#e28651;fill-opacity:1;stroke:none"/>

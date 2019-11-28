@@ -54,7 +54,7 @@
 @define-color borders mix(#121212,#b2b2b2,0.18);
 @define-color unfocused_borders mix(#121212,mix(#121212,#b2b2b2,0.18),0.9);
 @define-color button_bg_color #000000;
-@define-color button_fg_color #ddcdce;
+@define-color button_fg_color #e2d2d3;
 @define-color header_button_bg_color #121212;
 @define-color header_button_fg_color #ddcdce;
 @define-color insensitive_bg_color mix(#121212,#222222,0.6);
@@ -323,17 +323,17 @@ infobar.info button.close, infobar.warning button.close, infobar.question button
 button {
   background-color: #000000;
   background-image: none;
-  border-color: rgba(187, 154, 156, 0.22);
-  color: #ddcdce;
+  border-color: rgba(192, 157, 159, 0.22);
+  color: #e2d2d3;
   box-shadow: 0 1px 2px -1px rgba(36, 36, 36, 0.22); }
   button:focus, button:hover {
-    border-color: mix(#912127,rgba(221, 205, 206, 0.22),0.3); }
+    border-color: mix(#912127,rgba(226, 210, 211, 0.22),0.3); }
   button:active, button:active:hover, button:active:focus, button:active:hover:focus, button:checked, button:checked:hover, button:checked:focus, button:checked:hover:focus {
-    border-color: rgba(169, 129, 131, 0.22); }
+    border-color: rgba(175, 130, 133, 0.22); }
   button:disabled {
-    border-color: rgba(195, 167, 169, 0.22); }
+    border-color: rgba(200, 170, 172, 0.22); }
   button:active:disabled, button:checked:disabled {
-    border-color: rgba(187, 154, 156, 0.22); }
+    border-color: rgba(192, 157, 159, 0.22); }
   .linked:not(.vertical) > button:not(:last-child):not(:only-child),
   .linked:not(.vertical) > :not(:last-child):not(:only-child) button,
   stackswitcher:not(.vertical) > button:not(:last-child):not(:only-child) {
@@ -341,9 +341,9 @@ button {
     .linked:not(.vertical) > button:not(:last-child):not(:only-child):hover,
     .linked:not(.vertical) > :not(:last-child):not(:only-child) button:hover,
     stackswitcher:not(.vertical) > button:not(:last-child):not(:only-child):hover {
-      border-color: mix(#912127,rgba(221, 205, 206, 0.36),0.3);
+      border-color: mix(#912127,rgba(226, 210, 211, 0.36),0.3);
       border-right-style: none;
-      box-shadow: inset-1px 0 0 mix(#912127,rgba(221, 205, 206, 0.36),0.3); }
+      box-shadow: inset-1px 0 0 mix(#912127,rgba(226, 210, 211, 0.36),0.3); }
   .linked:not(.vertical) > button:not(:last-child):not(:only-child):checked,
   .linked:not(.vertical) > :not(:last-child):not(:only-child) button:checked,
   stackswitcher:not(.vertical) > button:not(:last-child):not(:only-child):checked {
@@ -361,9 +361,9 @@ button {
     .linked.vertical > button:not(:last-child):not(:only-child):hover,
     .linked.vertical > :not(:last-child):not(:only-child) button:hover,
     stackswitcher.vertical > button:not(:last-child):not(:only-child):hover {
-      border-color: mix(#912127,rgba(221, 205, 206, 0.36),0.3);
+      border-color: mix(#912127,rgba(226, 210, 211, 0.36),0.3);
       border-bottom-style: none;
-      box-shadow: inset 0 -1px mix(#912127,rgba(221, 205, 206, 0.36),0.3); }
+      box-shadow: inset 0 -1px mix(#912127,rgba(226, 210, 211, 0.36),0.3); }
   .linked.vertical > button:not(:last-child):not(:only-child):checked,
   .linked.vertical > :not(:last-child):not(:only-child) button:checked,
   stackswitcher.vertical > button:not(:last-child):not(:only-child):checked {
@@ -375,7 +375,7 @@ button {
       border-bottom-style: none;
       box-shadow: inset 0 -1px mix(#912127,rgba(145, 33, 39, 0.36),0.3); }
   button.flat {
-    color: #ddcdce;
+    color: #e2d2d3;
     border-color: transparent;
     background-color: transparent;
     background-image: none;
@@ -383,71 +383,71 @@ button {
   button:hover, button.flat:hover {
     background-color: black;
     background-image: none;
-    border-color: rgba(187, 154, 156, 0.3);
-    color: #ddcdce;
+    border-color: rgba(192, 157, 159, 0.3);
+    color: #e2d2d3;
     box-shadow: 0 1px 2px -1px rgba(36, 36, 36, 0.32); }
     button:hover:focus, button:hover:hover, button.flat:hover:focus, button.flat:hover:hover {
-      border-color: mix(#912127,rgba(221, 205, 206, 0.3),0.3); }
+      border-color: mix(#912127,rgba(226, 210, 211, 0.3),0.3); }
     button:hover:active, button:hover:active:hover, button:hover:active:focus, button:hover:active:hover:focus, button:hover:checked, button:hover:checked:hover, button:hover:checked:focus, button:hover:checked:hover:focus, button.flat:hover:active, button.flat:hover:active:hover, button.flat:hover:active:focus, button.flat:hover:active:hover:focus, button.flat:hover:checked, button.flat:hover:checked:hover, button.flat:hover:checked:focus, button.flat:hover:checked:hover:focus {
-      border-color: rgba(169, 129, 131, 0.3); }
+      border-color: rgba(175, 130, 133, 0.3); }
     button:hover:disabled, button.flat:hover:disabled {
-      border-color: rgba(195, 167, 169, 0.3); }
+      border-color: rgba(200, 170, 172, 0.3); }
     button:hover:active:disabled, button:hover:checked:disabled, button.flat:hover:active:disabled, button.flat:hover:checked:disabled {
-      border-color: rgba(187, 154, 156, 0.3); }
+      border-color: rgba(192, 157, 159, 0.3); }
   button:focus, button.flat:focus {
     background-color: black;
     background-image: none;
-    border-color: rgba(221, 205, 206, 0.22);
+    border-color: rgba(226, 210, 211, 0.22);
     outline-color: rgba(145, 33, 39, 0.5);
     outline-width: 1px;
     outline-style: solid;
     outline-offset: -3px;
-    color: #ddcdce;
+    color: #e2d2d3;
     box-shadow: 0 1px 2px -1px rgba(36, 36, 36, 0.42); }
     button:focus:hover, button.flat:focus:hover {
       background-color: black;
       background-image: none;
-      border-color: rgba(187, 154, 156, 0.3);
+      border-color: rgba(192, 157, 159, 0.3);
       box-shadow: 0 1px 2px -1px rgba(36, 36, 36, 0.48); }
       button:focus:hover:focus, button:focus:hover:hover, button.flat:focus:hover:focus, button.flat:focus:hover:hover {
-        border-color: mix(#912127,rgba(221, 205, 206, 0.3),0.3); }
+        border-color: mix(#912127,rgba(226, 210, 211, 0.3),0.3); }
       button:focus:hover:active, button:focus:hover:active:hover, button:focus:hover:active:focus, button:focus:hover:active:hover:focus, button:focus:hover:checked, button:focus:hover:checked:hover, button:focus:hover:checked:focus, button:focus:hover:checked:hover:focus, button.flat:focus:hover:active, button.flat:focus:hover:active:hover, button.flat:focus:hover:active:focus, button.flat:focus:hover:active:hover:focus, button.flat:focus:hover:checked, button.flat:focus:hover:checked:hover, button.flat:focus:hover:checked:focus, button.flat:focus:hover:checked:hover:focus {
-        border-color: rgba(169, 129, 131, 0.3); }
+        border-color: rgba(175, 130, 133, 0.3); }
       button:focus:hover:disabled, button.flat:focus:hover:disabled {
-        border-color: rgba(195, 167, 169, 0.3); }
+        border-color: rgba(200, 170, 172, 0.3); }
       button:focus:hover:active:disabled, button:focus:hover:checked:disabled, button.flat:focus:hover:active:disabled, button.flat:focus:hover:checked:disabled {
-        border-color: rgba(187, 154, 156, 0.3); }
+        border-color: rgba(192, 157, 159, 0.3); }
   button:checked, button:active, button.flat:checked, button.flat:active {
     /*@include linear-gradient(shade($bg, .7), to top);*/
     background-color: #912127;
     background-image: none;
-    border-color: rgba(187, 154, 156, 0.22);
+    border-color: rgba(192, 157, 159, 0.22);
     color: #ffffff;
-    box-shadow: inset 1px 0 rgba(221, 205, 206, 0.06), inset 0 1px rgba(221, 205, 206, 0.07), inset -1px 0 rgba(221, 205, 206, 0.06), inset 0 -1px rgba(221, 205, 206, 0.05); }
+    box-shadow: inset 1px 0 rgba(226, 210, 211, 0.06), inset 0 1px rgba(226, 210, 211, 0.07), inset -1px 0 rgba(226, 210, 211, 0.06), inset 0 -1px rgba(226, 210, 211, 0.05); }
     button:checked:focus, button:checked:hover, button:active:focus, button:active:hover, button.flat:checked:focus, button.flat:checked:hover, button.flat:active:focus, button.flat:active:hover {
-      border-color: mix(#912127,rgba(221, 205, 206, 0.22),0.3); }
+      border-color: mix(#912127,rgba(226, 210, 211, 0.22),0.3); }
     button:checked:active, button:checked:active:hover, button:checked:active:focus, button:checked:active:hover:focus, button:checked:checked, button:checked:checked:hover, button:checked:checked:focus, button:checked:checked:hover:focus, button:active:active, button:active:active:hover, button:active:active:focus, button:active:active:hover:focus, button:active:checked, button:active:checked:hover, button:active:checked:focus, button:active:checked:hover:focus, button.flat:checked:active, button.flat:checked:active:hover, button.flat:checked:active:focus, button.flat:checked:active:hover:focus, button.flat:checked:checked, button.flat:checked:checked:hover, button.flat:checked:checked:focus, button.flat:checked:checked:hover:focus, button.flat:active:active, button.flat:active:active:hover, button.flat:active:active:focus, button.flat:active:active:hover:focus, button.flat:active:checked, button.flat:active:checked:hover, button.flat:active:checked:focus, button.flat:active:checked:hover:focus {
-      border-color: rgba(169, 129, 131, 0.22); }
+      border-color: rgba(175, 130, 133, 0.22); }
     button:checked:disabled, button:active:disabled, button.flat:checked:disabled, button.flat:active:disabled {
-      border-color: rgba(195, 167, 169, 0.22); }
+      border-color: rgba(200, 170, 172, 0.22); }
     button:checked:active:disabled, button:checked:checked:disabled, button:active:active:disabled, button:active:checked:disabled, button.flat:checked:active:disabled, button.flat:checked:checked:disabled, button.flat:active:active:disabled, button.flat:active:checked:disabled {
-      border-color: rgba(187, 154, 156, 0.22); }
+      border-color: rgba(192, 157, 159, 0.22); }
     button:checked:focus, button:checked:hover, button:active:focus, button:active:hover, button.flat:checked:focus, button.flat:checked:hover, button.flat:active:focus, button.flat:active:hover {
       /*@include linear-gradient(shade($bg, .65), to top);*/
       background-color: #982329;
       background-image: none;
       color: #ffffff; }
   button:focus, button:hover, button.flat:focus, button.flat:hover {
-    color: #ddcdce; }
+    color: #e2d2d3; }
   button:disabled:disabled, button.flat:disabled:disabled {
-    background-color: alpha(mix(#000000,#ddcdce,0.2),0.4);
+    background-color: alpha(mix(#000000,#e2d2d3,0.2),0.4);
     background-image: none;
     /*border: 1px solid alpha($bg, .2);*/
     opacity: .6;
-    color: mix(#000000,#ddcdce,0.6);
+    color: mix(#000000,#e2d2d3,0.6);
     box-shadow: none; }
     button:disabled:disabled :disabled, button.flat:disabled:disabled :disabled {
-      color: mix(#000000,#ddcdce,0.6); }
+      color: mix(#000000,#e2d2d3,0.6); }
   button:active:disabled, button:checked:disabled, button.flat:active:disabled, button.flat:checked:disabled {
     background-color: rgba(145, 33, 39, 0.6);
     background-image: none;
@@ -547,25 +547,25 @@ spinbutton:disabled {
   opacity: .6; }
 
 spinbutton button {
-  color: #ddcdce;
+  color: #e2d2d3;
   padding: 3px 5px; }
   spinbutton button:active, spinbutton button:checked, spinbutton button:hover {
     background-color: black;
     background-image: none; }
   spinbutton button:hover, spinbutton button:focus:hover {
-    border-color: rgba(187, 154, 156, 0.3); }
+    border-color: rgba(192, 157, 159, 0.3); }
     spinbutton button:hover:focus, spinbutton button:hover:hover, spinbutton button:focus:hover:focus, spinbutton button:focus:hover:hover {
-      border-color: mix(#912127,rgba(221, 205, 206, 0.3),0.3); }
+      border-color: mix(#912127,rgba(226, 210, 211, 0.3),0.3); }
     spinbutton button:hover:active, spinbutton button:hover:active:hover, spinbutton button:hover:active:focus, spinbutton button:hover:active:hover:focus, spinbutton button:hover:checked, spinbutton button:hover:checked:hover, spinbutton button:hover:checked:focus, spinbutton button:hover:checked:hover:focus, spinbutton button:focus:hover:active, spinbutton button:focus:hover:active:hover, spinbutton button:focus:hover:active:focus, spinbutton button:focus:hover:active:hover:focus, spinbutton button:focus:hover:checked, spinbutton button:focus:hover:checked:hover, spinbutton button:focus:hover:checked:focus, spinbutton button:focus:hover:checked:hover:focus {
-      border-color: rgba(169, 129, 131, 0.3); }
+      border-color: rgba(175, 130, 133, 0.3); }
     spinbutton button:hover:disabled, spinbutton button:focus:hover:disabled {
-      border-color: rgba(195, 167, 169, 0.3); }
+      border-color: rgba(200, 170, 172, 0.3); }
     spinbutton button:hover:active:disabled, spinbutton button:hover:checked:disabled, spinbutton button:focus:hover:active:disabled, spinbutton button:focus:hover:checked:disabled {
-      border-color: rgba(187, 154, 156, 0.3); }
+      border-color: rgba(192, 157, 159, 0.3); }
   spinbutton button:focus:hover {
     color: mix(#b2b2b2,mix(#912127,mix(#121212,#b2b2b2,0.18),0.3),0.3); }
   spinbutton button:disabled {
-    color: mix(#ddcdce,#121212,0.7); }
+    color: mix(#e2d2d3,#121212,0.7); }
   spinbutton button:backdrop {
     color: mix(#222222,mix(#b2b2b2,#121212,0.5),0.9); }
   spinbutton button:backdrop:disabled {
@@ -607,7 +607,7 @@ spinbutton:not(.vertical) {
     spinbutton:not(.vertical) button.up:dir(ltr), spinbutton:not(.vertical) button.down:dir(rtl) {
       border-style: solid; }
       spinbutton:not(.vertical) button.up:dir(ltr):hover, spinbutton:not(.vertical) button.up:dir(ltr):focus:hover, spinbutton:not(.vertical) button.down:dir(rtl):hover, spinbutton:not(.vertical) button.down:dir(rtl):focus:hover {
-        border-color: mix(#912127,rgba(221, 205, 206, 0.3),0.3); }
+        border-color: mix(#912127,rgba(226, 210, 211, 0.3),0.3); }
     spinbutton:not(.vertical) button.down:dir(rtl) {
       border-right-style: none;
       border-radius: 15px 0 0 15px;
@@ -617,8 +617,8 @@ spinbutton:not(.vertical) {
         border-bottom-color: mix(#912127,mix(#121212,#b2b2b2,0.18),0.3);
         border-left-color: mix(#912127,mix(#121212,#b2b2b2,0.18),0.3); }
       spinbutton:not(.vertical) button.down:dir(rtl):hover, spinbutton:not(.vertical) button.down:dir(rtl):focus:hover {
-        border-color: mix(#912127,rgba(221, 205, 206, 0.3),0.3);
-        box-shadow: inset-1px 0 0 mix(#912127,rgba(221, 205, 206, 0.3),0.3); }
+        border-color: mix(#912127,rgba(226, 210, 211, 0.3),0.3);
+        box-shadow: inset-1px 0 0 mix(#912127,rgba(226, 210, 211, 0.3),0.3); }
     spinbutton:not(.vertical) button.up:dir(ltr) {
       border-left-style: none;
       border-radius: 0 15px 15px 0;
@@ -628,8 +628,8 @@ spinbutton:not(.vertical) {
         border-bottom-color: mix(#912127,mix(#121212,#b2b2b2,0.18),0.3);
         border-right-color: mix(#912127,mix(#121212,#b2b2b2,0.18),0.3); }
       spinbutton:not(.vertical) button.up:dir(ltr):hover, spinbutton:not(.vertical) button.up:dir(ltr):focus:hover {
-        border-color: mix(#912127,rgba(221, 205, 206, 0.3),0.3);
-        box-shadow: inset 1px 0 mix(#912127,rgba(221, 205, 206, 0.3),0.3); }
+        border-color: mix(#912127,rgba(226, 210, 211, 0.3),0.3);
+        box-shadow: inset 1px 0 mix(#912127,rgba(226, 210, 211, 0.3),0.3); }
 
 spinbutton.vertical button, spinbutton.vertical entry {
   min-width: 0;
@@ -643,7 +643,7 @@ spinbutton.vertical entry {
   border-bottom-width: 0; }
 
 spinbutton.vertical button.up:focus:hover, spinbutton.vertical button.down:focus:hover {
-  border-color: mix(#912127,rgba(221, 205, 206, 0.3),0.3); }
+  border-color: mix(#912127,rgba(226, 210, 211, 0.3),0.3); }
 
 spinbutton.vertical button.up {
   border-radius: 15px 15px 0 0;
@@ -6862,7 +6862,7 @@ scale {
       background-color: transparent; }
   scale slider {
     background-color: #000000;
-    border: 1px solid rgba(221, 205, 206, 0.16);
+    border: 1px solid rgba(226, 210, 211, 0.16);
     border-radius: 100%;
     transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
     transition-property: background, border; }
@@ -6874,7 +6874,7 @@ scale {
       border-color: #912127; }
     scale slider:disabled {
       background-color: mix(#000000,#121212,0.55);
-      border-color: mix(#ddcdce,#121212,0.92); }
+      border-color: mix(#e2d2d3,#121212,0.92); }
     menuitem:hover scale slider,
     row:selected scale slider,
     infobar scale slider {

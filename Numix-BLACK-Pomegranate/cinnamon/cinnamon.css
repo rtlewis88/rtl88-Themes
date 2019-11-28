@@ -110,7 +110,7 @@
   -slider-border-width: 1px;
   -slider-border-radius: 15px;
   -slider-handle-radius: 8px;
-  -slider-handle-border-color: rgba(221, 205, 206, 0.22); }
+  -slider-handle-border-color: rgba(226, 210, 211, 0.22); }
 
 .separator, .popup-separator-menu-item {
   -gradient-height: 3px;
@@ -144,10 +144,10 @@
   transition-duration: 150; }
 
 .sound-player StButton, .keyboard-key, .notification-button, .notification-icon-button, .modal-dialog-button {
-  border: 1px solid rgba(221, 205, 206, 0.22);
+  border: 1px solid rgba(226, 210, 211, 0.22);
   border-radius: 15px;
   text-align: center;
-  color: #ddcdce;
+  color: #e2d2d3;
   transition-duration: 150; }
 
 .sound-player StButton:hover, .keyboard-key:hover, .notification-button:hover, .notification-icon-button:hover, .modal-dialog-button:hover {
@@ -740,7 +740,7 @@ StScrollView StScrollBar {
   min-width: 2em;
   min-height: 2em;
   padding: 5px;
-  color: #ddcdce;
+  color: #e2d2d3;
   border-radius: 15px; }
   .sound-player StButton:small {
     min-width: 1.5em;
@@ -1245,7 +1245,7 @@ StScrollView StScrollBar {
   border-top: 1px solid;
   border-left: 1px solid;
   border-bottom: 1px solid;
-  border-color: rgba(221, 205, 206, 0.22); }
+  border-color: rgba(226, 210, 211, 0.22); }
   .workspace-add-button:hover {
     background-image: url(assets/add-workspace-hover.png);
     border-color: #7b2024; }

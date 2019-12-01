@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Arc-Darkest-Numix
 
-Comment=Icon theme from Numix Project, amended to compliment Arc-Darkest desktop scheme.
+Comment=Icon theme from Numix Project
 
 Inherits=gnome,hicolor
 

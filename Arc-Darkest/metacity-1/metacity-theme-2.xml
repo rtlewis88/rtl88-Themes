@@ -28,15 +28,15 @@
 <constant name="C_icon_close_bg" value="#1c1f26" />
 
 <!-- minimize, maximize -->
-<constant name="C_button_bg_hover" value="#dae1ea" />
-<constant name="C_button_bg_active" value="#5294e2" />
+<constant name="C_button_bg_hover" value="#d3dae3" />
+<constant name="C_button_bg_active" value="#4b8cd8" />
 
 <constant name="C_button_border_hover" value="#1d2027" />
 
-<constant name="C_icon_bg_focused" value="#dae1ea" />
-<constant name="C_icon_bg_unfocused" value="#aab0b9" />
-<constant name="C_icon_bg_hover" value="#aab0b9" />
-<constant name="C_icon_bg_active" value="#5294e2" />
+<constant name="C_icon_bg_focused" value="#d3dae3" />
+<constant name="C_icon_bg_unfocused" value="#a5abb3" />
+<constant name="C_icon_bg_hover" value="#a5abb3" />
+<constant name="C_icon_bg_active" value="#4b8cd8" />
 
 <!-- geometries -->
 

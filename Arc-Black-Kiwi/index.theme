@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Arc-Black-Kiwi
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Black-Kiwi
+MetacityTheme=Arc-Black-Kiwi
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

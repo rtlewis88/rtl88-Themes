@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
@@ -11,13 +11,17 @@
    <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
   <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#4ccfff; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#0095cc; stop-opacity:1"/>
+   <stop offset="0%" style="stop-color:#59d2ff; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#008bbf; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
@@ -44,6 +48,5 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
  </defs>
- <path fill="#DA1636" d="M 10.465 0.533 C 15.308 0.533 16 1.224 16 6.063 L 16 9.938 C 16 14.776 15.308 15.467 10.465 15.467 L 5.535 15.467 C 0.692 15.467 0 14.776 0 9.938 L 0 6.063 C 0 1.224 0.692 0.533 5.535 0.533 L 10.465 0.533 Z"/>
- <path fill="#FFFFFF" fill-rule="evenodd" d="M 1.615 8.041 C 1.605 8.722 1.705 9.4 1.911 10.049 C 2.755 12.701 5.218 14.501 8.001 14.5 C 10.784 14.501 13.247 12.701 14.091 10.049 C 14.927 7.396 13.943 4.508 11.663 2.917 L 10.618 4.413 C 12.249 5.545 12.952 7.607 12.352 9.499 C 11.751 11.394 9.989 12.68 8.001 12.675 C 6.012 12.681 4.25 11.395 3.649 9.499 C 3.049 7.607 3.752 5.545 5.383 4.413 L 4.339 2.917 C 2.661 4.088 1.647 5.995 1.615 8.041 L 1.615 8.041 Z M 7.089 1.728 L 7.089 8.114 L 8.913 8.114 L 8.913 1.5 L 7.089 1.728 L 7.089 1.728 Z"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" fill-rule="evenodd" d="M 0.142 8.05 C 0.129 8.889 0.252 9.723 0.506 10.522 C 1.545 13.786 4.576 16.001 8.001 16 C 11.426 16.001 14.458 13.786 15.497 10.522 C 16.526 7.257 15.314 3.702 12.508 1.744 L 11.222 3.585 C 13.23 4.978 14.095 7.516 13.356 9.845 C 12.617 12.177 10.448 13.76 8.001 13.754 C 5.553 13.761 3.385 12.178 2.645 9.845 C 1.906 7.516 2.772 4.978 4.779 3.585 L 3.494 1.744 C 1.429 3.185 0.181 5.532 0.142 8.05 L 0.142 8.05 Z M 6.879 0.281 L 6.879 8.14 L 9.124 8.14 L 9.124 0 L 6.879 0.281 L 6.879 0.281 Z"/>
 </svg>

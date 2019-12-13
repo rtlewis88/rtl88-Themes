@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
-<defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+ <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
@@ -11,13 +11,17 @@
    <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
   <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#4ccfff; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#0095cc; stop-opacity:1"/>
+   <stop offset="0%" style="stop-color:#59d2ff; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#008bbf; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
@@ -44,10 +48,8 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
  </defs>
- <g transform="matrix(-0.29355554,0,0,-0.29355554,37.904973,79.793259)" style="fill:url(#oomox)" class="ColorScheme-Text">
-  <path style="fill:url(#oomox)" class="ColorScheme-Text" d="m 100.58117,230.32809 a 12.977532,12.977532 0 0 1 -25.955064,0 12.977532,12.977532 0 1 1 25.955064,0 z"/>
-  <path style="fill:url(#oomox)" class="ColorScheme-Text" d="m 129.12368,258.84626 a 12.977532,12.977532 0 0 1 -25.95506,0 12.977532,12.977532 0 1 1 25.95506,0 z"/>
-  <path style="fill:#b1b1b1" d="m 129.12368,230.29714 a 12.977532,12.977532 0 0 1 -25.95506,0 12.977532,12.977532 0 1 1 25.95506,0 z"/>
-  <path style="fill:#b1b1b1" d="m 100.57458,258.84758 a 12.977531,12.977531 0 0 1 -25.955059,0 12.977531,12.977531 0 1 1 25.955059,0 z"/>
- </g>
+ <path fill="url(#oomox)" class="ColorScheme-Text" opacity="0.6" d="m 7.6211869,3.8208121 a 3.8096267,3.8094177 0 0 1 -7.61925333,0 3.8096267,3.8094177 0 1 1 7.61925333,0 z"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" opacity="0.6" d="m 15.999999,12.19202 a 3.8096267,3.8094177 0 0 1 -7.6192518,0 3.8096267,3.8094177 0 1 1 7.6192518,0 z"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" opacity="1.0" d="m 15.999999,3.8117271 a 3.8096267,3.8094177 0 0 1 -7.6192518,0 3.8096267,3.8094177 0 1 1 7.6192518,0 z"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" opacity="1.0" d="m 7.6192524,12.192407 a 3.8096264,3.8094174 0 0 1 -7.61925189443493,0 3.8096264,3.8094174 0 1 1 7.61925189443493,0 z"/>
 </svg>

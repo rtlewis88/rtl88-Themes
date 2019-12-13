@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
@@ -11,13 +11,17 @@
    <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
   <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#4ccfff; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#0095cc; stop-opacity:1"/>
+   <stop offset="0%" style="stop-color:#59d2ff; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#008bbf; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
@@ -43,9 +47,6 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#d3dae3; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
  </defs>
- <path style="fill:url(#oomox);stroke:url(#oomox);stroke-width:0.00882877" class="ColorScheme-Text" d="m 5.4478014,12.995586 h 0.654124 l 2.183974,-4.2367504 1.7966556,4.2367504 h 0.629756 l 3.73263,-8.5880108 c 0.209242,-0.481787 0.617132,-0.771102 1.050624,-0.836608 v -0.511486 h -3.018206 v 0.511662 c 0.400474,0.08908 0.825579,0.239168 1.014606,0.661817 L 10.751158,10.554886 C 10.255687,9.5011756 9.7476794,8.3497156 9.2628034,7.2006556 9.7632624,6.1374052 10.17199,5.1498152 10.785944,4.1792742 c 0.358942,-0.571043 0.941411,-0.58446 1.241591,-0.612536 v -0.50721 H 8.8191574 v 0.50721 c 0.400297,0 1.2332916,0.03599 0.861865,0.816569 l -0.930465,1.956358 -0.985556,-2.176191 c -0.153435,-0.338861 0.144616,-0.564612 0.63117,-0.591507 l -0.0036,-0.512009 h -3.610792 v 0.507215 c 0.430208,0.01409 1.036763,0.01184 1.26066,0.376591 0.689439,1.266491 1.15039,2.582061 1.77891,3.8733614 L 6.1949124,10.858546 3.4611704,4.5743962 c -0.308051,-0.70815 0.423298,-0.936285 0.898419,-0.995444 l -0.0053,-0.519067 H 0.50441439 v 0.507211 c 0.53158001,0.175755 1.21731101,0.966569 1.40871901,1.366775 1.438119,3.0079644 2.162256,5.0246344 3.534953,8.0622648 z"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="M 5.2776623,13.658302 H 5.9753955 L 8.304971,9.1390952 10.221406,13.658302 h 0.671741 L 14.874624,4.4977444 C 15.097816,3.9838376 15.532899,3.6752345 15.995291,3.6053613 V 3.0597755 H 12.775867 V 3.605549 c 0.427173,0.095019 0.880619,0.2551129 1.082248,0.7059392 L 10.934584,11.054885 C 10.40608,9.9309256 9.8642052,8.7026999 9.3470033,7.4770343 9.8808272,6.3428989 10.316804,5.2894682 10.971689,4.254223 11.354561,3.6451096 11.975862,3.6307982 12.296054,3.6008504 V 3.0598256 H 8.8737803 v 0.5410248 c 0.426984,0 1.3155127,0.038389 0.9193239,0.8710081 L 8.8006069,6.5586432 7.7493457,4.2373697 C 7.5856815,3.8759174 7.903603,3.635116 8.4225946,3.606428 L 8.4187546,3.0602843 H 4.5672378 V 3.6013144 C 5.026127,3.6163434 5.6731199,3.6139434 5.9119437,4.003012 6.6473463,5.3539376 7.139028,6.7572142 7.8094503,8.1346032 L 6.0745818,11.378789 3.1585863,4.6756871 C 2.8299981,3.920326 3.6101048,3.6769817 4.1169012,3.6138787 L 4.1112479,3.0602064 H 0.00470884 V 3.6012322 C 0.57172825,3.7887045 1.3031758,4.6322406 1.5073446,5.0591276 3.0413403,8.2676274 3.8137541,10.418745 5.2779663,13.658889 Z"/>
 </svg>

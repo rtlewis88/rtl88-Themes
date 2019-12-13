@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="16" height="16" viewBox="0 0 16 16">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
@@ -11,13 +11,17 @@
    <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
   <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#4ccfff; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#0095cc; stop-opacity:1"/>
+   <stop offset="0%" style="stop-color:#59d2ff; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#008bbf; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
@@ -43,9 +47,6 @@
    <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
-  <clipPath id="_clipPath_Pq8gi0UFH0yVcqOiKSjNhmu1ToEQ47bH">
-   <rect width="16" height="16"/>
-  </clipPath>
  </defs>
- <path style="fill:url(#oomox)" fill-rule="evenodd" class="ColorScheme-Text" d="M0 6.62753L1.85777 4H5.41859H7.53512H9.65098H10.4868H11.7674H13.8835H15.9996L15.996 4.00687L11.6641 12.258H9.54803L12.504 6.62753H10.3879L7.43183 12.258H5.31575H3.19956H1.08348L4.03947 6.62753H0Z" clip-rule="evenodd"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" fill-rule="evenodd" d="M0 6.62753L1.85777 4H5.41859H7.53512H9.65098H10.4868H11.7674H13.8835H15.9996L15.996 4.00687L11.6641 12.258H9.54803L12.504 6.62753H10.3879L7.43183 12.258H5.31575H3.19956H1.08348L4.03947 6.62753H0Z" clip-rule="evenodd"/>
 </svg>

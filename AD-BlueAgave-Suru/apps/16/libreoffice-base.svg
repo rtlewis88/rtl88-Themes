@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="enable-background:new" width="16" height="16" version="1.1">
-<defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
@@ -11,13 +11,17 @@
    <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
   </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
   <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
    <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#4ccfff; stop-opacity:1"/>
-   <stop offset="100%" style="stop-color:#0095cc; stop-opacity:1"/>
+   <stop offset="0%" style="stop-color:#59d2ff; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#008bbf; stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
@@ -44,11 +48,6 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
  </defs>
- <g transform="translate(-112,-180)">
-  <path d="m 123.28105,180.00525 c -0.27821,0.0752 -0.37465,0.49932 -0.15625,0.68727 l 3.1875,3.18646 c 0.21982,0.23021 0.69212,0.0371 0.6875,-0.28116 l 0,-3.21769 c -0.0122,-0.20318 -0.20269,-0.37897 -0.40625,-0.37488 l -3.1875,0 c -0.0413,-0.007 -0.0837,-0.007 -0.125,0 z" style="fill:url(#oomox)" class="ColorScheme-Text"/>
-  <path d="m 113.84375,180.00525 c -0.4813,0.0874 -0.85238,0.53322 -0.84375,0.99967 v 13.99541 c 6e-5,0.52341 0.51276,0.99962 1.0625,0.99967 h 11.875 c 0.54975,-5e-5 1.06245,-0.47626 1.0625,-0.99967 V 187.5 c 0.006,-0.26397 -0.1196,-0.61972 -0.31245,-0.80945 l -6.40625,-6.40414 c -0.19927,-0.18364 -0.47275,-0.28728 -0.75,-0.28116 h -5.46875 c -0.0654,-0.006 -0.15331,-0.006 -0.21875,0 z M 114.25,181.25 h 5.25 l 6.25,6.25 v 7.25 h -11.5 z" style="fill:url(#oomox)" class="ColorScheme-Text"/>
-  <path d="m 117,188.5625 c 0,0.951 0,0 0,0.951 2.10295,1.09462 4,0 4,0 v -0.951 c 0,0 -2.05961,1.05726 -4,0 z" style="fill:url(#oomox)" class="ColorScheme-Text"/>
-  <ellipse cx="119" cy="186.845" rx="2" ry="1" style="fill:url(#oomox)" class="ColorScheme-Text"/>
-  <path d="m 117,190.5625 c 0,0.951 0,0 0,0.951 2.10295,1.09462 4,0 4,0 v -0.951 c 0,0 -2.05961,1.05726 -4,0 z" style="fill:url(#oomox)" class="ColorScheme-Text"/>
- </g>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="M 1.84375 0.005859375 C 1.36245 0.093259375 0.99137 0.53940938 1 1.0058594 L 1 15 C 1.00006 15.52341 1.51276 15.99995 2.0625 16 L 13.9375 16 C 14.48725 15.99995 14.99995 15.52341 15 15 L 15 7.5 C 15.006 7.23603 14.88035 6.8811363 14.6875 6.6914062 L 8.28125 0.28710938 C 8.08198 0.10346938 7.8085 -0.000260625 7.53125 0.005859375 L 2.0625 0.005859375 C 1.9971 -0.000140625 1.90919 -0.000140625 1.84375 0.005859375 z M 11.28125 0.005859375 C 11.00304 0.081059375 10.9066 0.50540937 11.125 0.69335938 L 14.3125 3.8789062 C 14.53232 4.1091162 15.00462 3.9159163 15 3.5976562 L 15 0.38085938 C 14.9878 0.17767937 14.79731 0.001769375 14.59375 0.005859375 L 11.40625 0.005859375 C 11.36495 -0.001140625 11.32255 -0.001140625 11.28125 0.005859375 z M 2.25 1.25 L 7.5 1.25 L 13.75 7.5 L 13.75 14.75 L 2.25 14.75 L 2.25 1.25 z"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="m 7.5749697,6.401608 a 2,1 0 0 0 -1.9355469,1 2,1 0 0 0 2,1 2,1 0 0 0 2,-1 2,1 0 0 0 -2,-1 2,1 0 0 0 -0.064453,0 z M 5.6394228,9.1184049 v 0.9511721 c 2.10295,1.09462 4,0 4,0 V 9.1184049 c 0,0 -2.05961,1.0572601 -4,0 z m 0,2.0000001 v 0.951172 c 2.10295,1.09462 4,0 4,0 v -0.951172 c 0,0 -2.05961,1.05726 -4,0 z"/>
 </svg>

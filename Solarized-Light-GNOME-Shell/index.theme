@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Solarized-Light
+Comment=Official Hues
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Solarized-Light
+MetacityTheme=Solarized-Light
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

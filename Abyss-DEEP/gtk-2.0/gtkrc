@@ -1,7 +1,7 @@
-# Abyss-DEEP (Numix Fork)
+# Abyss-DEEP GTK Theme (Numix Fork)
 
 gtk-color-scheme =
-"base_color:#000d11\nbg_color:#00080a\ntooltip_bg_color:#00080a\nselected_bg_color:#335c66\ntext_color:#c1c1c1\nfg_color:#999999\ntooltip_fg_color:#999999\nselected_fg_color:#e5faff\nmenubar_bg_color:#000000\nmenubar_fg_color:#c1c1c1\ntoolbar_bg_color:#00080a\ntoolbar_fg_color:#999999\nmenu_bg_color:#000000\nmenu_fg_color:#c1c1c1\npanel_bg_color:#00080a\npanel_fg_color:#999999\nlink_color:#888888\nbtn_bg_color:#000c0f\nbtn_fg_color:#c1c1c1\ntitlebar_bg_color:#000000\ntitlebar_fg_color:#c1c1c1\nprimary_caret_color:#c1c1c1\nsecondary_caret_color:#c1c1c1\naccent_bg_color:#77c4d8\n"
+"base_color:#000d11\nbg_color:#00080a\ntooltip_bg_color:#00080a\nselected_bg_color:#39717f\ntext_color:#c1c1c1\nfg_color:#999999\ntooltip_fg_color:#999999\nselected_fg_color:#e5faff\nmenubar_bg_color:#000000\nmenubar_fg_color:#c1c1c1\ntoolbar_bg_color:#00080a\ntoolbar_fg_color:#999999\nmenu_bg_color:#000000\nmenu_fg_color:#c1c1c1\npanel_bg_color:#00080a\npanel_fg_color:#999999\nlink_color:#888888\nbtn_bg_color:#000c0f\nbtn_fg_color:#c1c1c1\ntitlebar_bg_color:#000000\ntitlebar_fg_color:#c1c1c1\nprimary_caret_color:#c1c1c1\nsecondary_caret_color:#c1c1c1\naccent_bg_color:#77c4d8\n"
 # Default Style
 
 style "murrine-default" {

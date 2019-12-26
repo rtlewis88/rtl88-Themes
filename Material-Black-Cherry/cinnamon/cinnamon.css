@@ -41,7 +41,7 @@
 
 .notification-button:insensitive, .modal-dialog-button:insensitive {
   color: rgba(158, 158, 158, 0.5);
-  background-color: rgba(158, 158, 158, 0.04);
+  background-color: rgba(158, 158, 158, 0.08);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -90,7 +90,7 @@
 
 .notification-icon-button:insensitive, .keyboard-key:insensitive, .sound-player StButton:insensitive {
   color: rgba(158, 158, 158, 0.5);
-  background-color: rgba(158, 158, 158, 0.04);
+  background-color: rgba(158, 158, 158, 0.08);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -291,7 +291,7 @@ StScrollView StScrollBar {
   font-size: 9pt;
   font-weight: 400;
   padding: 6px 8px;
-  color: white;
+  color: #9e9e9e;
   text-align: center;
   border-radius: 2px;
   background-color: rgba(9, 9, 10, 0.9);
@@ -866,7 +866,7 @@ StScrollView StScrollBar {
 }
 
 .calendar-day-base:active {
-  color: white;
+  color: #9e9e9e;
   background-color: #b73838;
   border-color: transparent;
 }
@@ -1058,7 +1058,7 @@ StScrollView StScrollBar {
 }
 
 .switcher-arrow {
-  border-color: transparent;
+  border-color: rgba(0, 0, 0, 0);
   color: rgba(158, 158, 158, 0.7);
 }
 
@@ -1749,14 +1749,14 @@ StScrollView StScrollBar {
 }
 
 .expo-workspaces-name-entry {
-  font-size: 10.5pt;
+  font-size: 11.25pt;
   font-weight: 400;
-  background-color: rgba(255, 255, 255, 0.04);
-  color: white;
+  background-color: rgba(158, 158, 158, 0.04);
+  color: #9e9e9e;
   padding: 0 8px;
-  selection-background-color: rgba(255, 255, 255, 0.3);
-  selected-color: white;
-  caret-color: white;
+  selection-background-color: rgba(158, 158, 158, 0.3);
+  selected-color: #9e9e9e;
+  caret-color: #9e9e9e;
   text-align: center;
   height: 32px;
   border-radius: 2px 2px 0 0;
@@ -1764,17 +1764,17 @@ StScrollView StScrollBar {
 }
 
 .expo-workspaces-name-entry#selected {
-  color: white;
-  background-color: rgba(255, 255, 255, 0.04);
+  color: #9e9e9e;
+  background-color: rgba(158, 158, 158, 0.3);
 }
 
 .expo-workspaces-name-entry:focus {
-  color: white;
-  box-shadow: inset 0 -2px white;
+  color: #9e9e9e;
+  box-shadow: inset 0 -2px #9e9e9e;
 }
 
 .expo-workspaces-name-entry:hover {
-  background-color: rgba(255, 255, 255, 0.12);
+  background-color: rgba(158, 158, 158, 0.12);
 }
 
 .notification-applet-padding {

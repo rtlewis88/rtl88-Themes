@@ -5,8 +5,8 @@
 
 active_text_color=#eeeeee
 active_text_shadow_color=#eeeeee
-inactive_text_color=#ccbdbd
-inactive_text_shadow_color=#ccbdbd
+inactive_text_color=#c5b8b8
+inactive_text_shadow_color=#c5b8b8
 title_shadow_active=false
 title_shadow_inactive=false
 full_width_title=true

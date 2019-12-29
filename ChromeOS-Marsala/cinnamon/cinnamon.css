@@ -41,7 +41,7 @@
 
 .notification-button:insensitive, .modal-dialog-button:insensitive {
   color: rgba(238, 238, 238, 0.5);
-  background-color: rgba(238, 238, 238, 0.04);
+  background-color: rgba(238, 238, 238, 0.08);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -90,7 +90,7 @@
 
 .notification-icon-button:insensitive, .keyboard-key:insensitive, .sound-player StButton:insensitive {
   color: rgba(238, 238, 238, 0.5);
-  background-color: rgba(238, 238, 238, 0.04);
+  background-color: rgba(238, 238, 238, 0.08);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -291,7 +291,7 @@ StScrollView StScrollBar {
   font-size: 9pt;
   font-weight: 400;
   padding: 6px 8px;
-  color: white;
+  color: #eeeeee;
   text-align: center;
   border-radius: 4px;
   background-color: rgba(135, 60, 60, 0.9);
@@ -866,7 +866,7 @@ StScrollView StScrollBar {
 }
 
 .calendar-day-base:active {
-  color: rgba(0, 0, 0, 0.87);
+  color: #4c1818;
   background-color: #e57272;
   border-color: transparent;
 }
@@ -1058,7 +1058,7 @@ StScrollView StScrollBar {
 }
 
 .switcher-arrow {
-  border-color: transparent;
+  border-color: rgba(0, 0, 0, 0);
   color: rgba(238, 238, 238, 0.7);
 }
 
@@ -1209,7 +1209,7 @@ StScrollView StScrollBar {
   -arrow-base: 0;
   -arrow-rise: 0;
   -boxpointer-gap: 5px;
-  background-color: #662c2c;
+  background-color: #4c1818;
   border-radius: 4px;
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.24), 0 3px 3px rgba(0, 0, 0, 0.345);
 }
@@ -1751,12 +1751,12 @@ StScrollView StScrollBar {
 .expo-workspaces-name-entry {
   font-size: 11.25pt;
   font-weight: 400;
-  background-color: rgba(255, 255, 255, 0.04);
-  color: white;
+  background-color: rgba(238, 238, 238, 0.04);
+  color: #eeeeee;
   padding: 0 8px;
-  selection-background-color: rgba(255, 255, 255, 0.3);
-  selected-color: white;
-  caret-color: white;
+  selection-background-color: rgba(238, 238, 238, 0.3);
+  selected-color: #eeeeee;
+  caret-color: #eeeeee;
   text-align: center;
   height: 32px;
   border-radius: 4px 4px 0 0;
@@ -1764,17 +1764,17 @@ StScrollView StScrollBar {
 }
 
 .expo-workspaces-name-entry#selected {
-  color: white;
-  background-color: rgba(255, 255, 255, 0.04);
+  color: #eeeeee;
+  background-color: rgba(238, 238, 238, 0.3);
 }
 
 .expo-workspaces-name-entry:focus {
-  color: white;
-  box-shadow: inset 0 -2px white;
+  color: #eeeeee;
+  box-shadow: inset 0 -2px #eeeeee;
 }
 
 .expo-workspaces-name-entry:hover {
-  background-color: rgba(255, 255, 255, 0.12);
+  background-color: rgba(238, 238, 238, 0.12);
 }
 
 .notification-applet-padding {

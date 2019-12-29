@@ -5,17 +5,17 @@
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2018</date>
-  <description>ChromeOS-Marsala Metacity theme</description>
+  <description>ChromeOS-Marsala theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
 <constant name="C_titlebar_focused" value="#873c3c"/>
-<constant name="C_titlebar_unfocused" value="#4c1818"/>
+<constant name="C_titlebar_unfocused" value="#662c2c"/>
 <constant name="C_highlight" value="blend/#873c3c/#eeeeee/0.1"/>
 <constant name="C_title_focused" value="#eeeeee"/>
-<constant name="C_title_unfocused" value="blend/#4c1818/#eeeeee/0.7"/>
+<constant name="C_title_unfocused" value="blend/#662c2c/#eeeeee/0.7"/>
 
 
 <!-- geometries -->

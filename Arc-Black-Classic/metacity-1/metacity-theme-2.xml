@@ -29,14 +29,14 @@
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="#d3dae3" />
-<constant name="C_button_bg_active" value="#4b8cd8" />
+<constant name="C_button_bg_active" value="#3988e5" />
 
 <constant name="C_button_border_hover" value="#13151a" />
 
 <constant name="C_icon_bg_focused" value="#d3dae3" />
 <constant name="C_icon_bg_unfocused" value="#a2a8b0" />
 <constant name="C_icon_bg_hover" value="#a2a8b0" />
-<constant name="C_icon_bg_active" value="#4b8cd8" />
+<constant name="C_icon_bg_active" value="#3988e5" />
 
 <!-- geometries -->
 

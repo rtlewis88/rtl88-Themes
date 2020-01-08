@@ -1,4 +1,3 @@
-# rtl88-Themes
-GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon themes
+Solarized-Dark-GNOME-Shell-COLORS
 
-Please Select a Branch to Explore
+A simple theme to freshen up your shell with official Solarized hues

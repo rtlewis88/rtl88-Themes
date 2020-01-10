@@ -1194,11 +1194,11 @@
        id="linearGradient3921-5-9">
       <stop
          offset="0"
-         style="stop-color:#a987ff;stop-opacity:1;"
+         style="stop-color:#a887ff;stop-opacity:1;"
          id="stop3923-6-1" />
       <stop
          offset="1"
-         style="stop-color:#a987ff;stop-opacity:1;"
+         style="stop-color:#a887ff;stop-opacity:1;"
          id="stop3925-4-6" />
     </linearGradient>
     <linearGradient
@@ -1468,7 +1468,7 @@
     <path
        sodipodi:nodetypes="ssssssssssssssssss"
        inkscape:connector-curvature="0"
-       style="opacity:1;color:#000000;fill:#a987ff;fill-opacity:1;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:1;color:#000000;fill:#a887ff;fill-opacity:1;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 5,2 C 3.338,2 2,3.338 2,5 l 0,12 c 0,1.662 1.338,3 3,3 l 54,0 c 1.662,0 3,-1.338 3,-3 L 62,5 C 62,3.338 60.662,2 59,2 z m 0,1 54,0 c 1.117387,0 2,0.882613 2,2 l 0,12 c 0,1.117387 -0.882613,2 -2,2 L 5,19 C 3.8826128,19 3,18.117387 3,17 L 3,5 C 3,3.882613 3.8826128,3 5,3 z"
        id="rect4038" />
     <g

@@ -1,7 +1,7 @@
-# Avidity-Dusk GTK Theme (Numix Fork)
+# GTK Theme (Avidity-Dusk)
 
 gtk-color-scheme =
-"base_color:#060304\nbg_color:#171819\ntooltip_bg_color:#171819\nselected_bg_color:#774bd8\ntext_color:#ffffff\nfg_color:#dcdce2\ntooltip_fg_color:#dcdce2\nselected_fg_color:#ffffff\nmenubar_bg_color:#191718\nmenubar_fg_color:#dcdce2\ntoolbar_bg_color:#171819\ntoolbar_fg_color:#dcdce2\nmenu_bg_color:#191718\nmenu_fg_color:#dcdce2\npanel_bg_color:#171819\npanel_fg_color:#dcdce2\nlink_color:#009ace\nbtn_bg_color:#14b7ff\nbtn_fg_color:#060304\ntitlebar_bg_color:#191718\ntitlebar_fg_color:#dcdce2\nprimary_caret_color:#ffffff\nsecondary_caret_color:#14b7ff\naccent_bg_color:#14b7ff\n"
+"base_color:#060304\nbg_color:#171819\ntooltip_bg_color:#171819\nselected_bg_color:#13678c\ntext_color:#ffffff\nfg_color:#dcdce2\ntooltip_fg_color:#dcdce2\nselected_fg_color:#ffffff\nmenubar_bg_color:#191718\nmenubar_fg_color:#dcdce2\ntoolbar_bg_color:#171819\ntoolbar_fg_color:#dcdce2\nmenu_bg_color:#191718\nmenu_fg_color:#dcdce2\npanel_bg_color:#171819\npanel_fg_color:#dcdce2\nlink_color:#009ace\nbtn_bg_color:#1c8dbf\nbtn_fg_color:#ffffff\ntitlebar_bg_color:#191718\ntitlebar_fg_color:#dcdce2\nprimary_caret_color:#ffffff\nsecondary_caret_color:#14b7ff\naccent_bg_color:#26bcff\n"
 # Default Style
 
 style "murrine-default" {

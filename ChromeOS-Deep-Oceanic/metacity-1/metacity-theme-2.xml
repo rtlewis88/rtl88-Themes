@@ -5,17 +5,17 @@
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2018</date>
-  <description>oomox-ChromeOS-Deep-Oceanic Metacity theme</description>
+  <description>ChromeOS-Deep-Oceanic Metacity theme</description>
 </info>
 
 
 <!-- meaningful constants -->
 
 <constant name="C_titlebar_focused" value="#025a6c"/>
-<constant name="C_titlebar_unfocused" value="#025a6c"/>
+<constant name="C_titlebar_unfocused" value="#055f72"/>
 <constant name="C_highlight" value="blend/#025a6c/#eeeeee/0.1"/>
 <constant name="C_title_focused" value="#eeeeee"/>
-<constant name="C_title_unfocused" value="blend/#025a6c/#eeeeee/0.7"/>
+<constant name="C_title_unfocused" value="blend/#055f72/#eeeeee/0.7"/>
 
 
 <!-- geometries -->

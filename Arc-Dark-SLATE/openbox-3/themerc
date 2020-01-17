@@ -38,18 +38,18 @@ window.active.label.text.color: #e0e0e0
 window.inactive.label.text.color: #7F8388
 
 window.active.button.unpressed.image.color: #e0e0e0
-window.active.button.pressed.image.color: #496ca5
+window.active.button.pressed.image.color: #4a6ba5
 window.active.button.disabled.image.color: #2d3036
 window.active.button.hover.image.color: #e0e0e0
 window.active.button.toggled.unpressed.image.color: #e0e0e0
-window.active.button.toggled.pressed.image.color: #496ca5
+window.active.button.toggled.pressed.image.color: #4a6ba5
 window.active.button.toggled.hover.image.color: #e0e0e0
 window.inactive.button.unpressed.image.color: #1F2328
-window.inactive.button.pressed.image.color: #496ca5
+window.inactive.button.pressed.image.color: #4a6ba5
 window.inactive.button.disabled.image.color: #2d3036
 window.inactive.button.hover.image.color: #e0e0e0
 window.inactive.button.toggled.unpressed.image.color: #1F2328
-window.inactive.button.toggled.pressed.image.color: #496ca5
+window.inactive.button.toggled.pressed.image.color: #4a6ba5
 window.inactive.button.toggled.hover.image.color: #e0e0e0
 
 window.active.title.bg: flat solid
@@ -100,13 +100,13 @@ menu.separator.color: #a8adb5
 menu.title.text.color: #e0e0e0
 menu.items.text.color: #2d3036
 menu.items.disabled.text.color: #76797F
-menu.items.active.text.color: #2c4266
+menu.items.active.text.color: #2d4266
 menu.items.active.disabled.text.color: #aeb0b6
 
 menu.items.bg: flat solid
-menu.items.bg.color: #1b293f
+menu.items.bg.color: #1c293f
 menu.items.active.bg: flat solid
-menu.items.active.bg.color: #496ca5
+menu.items.active.bg.color: #4a6ba5
 menu.title.bg: flat solid
 menu.title.bg.color: #2d3036
 
@@ -127,7 +127,7 @@ osd.bg.color: #283959
 osd.label.bg: flat solid
 osd.label.bg.color: #283959
 osd.hilight.bg: flat solid
-osd.hilight.bg.color: #496ca5
+osd.hilight.bg.color: #4a6ba5
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #e0e0e0
 

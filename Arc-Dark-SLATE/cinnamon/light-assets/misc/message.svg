@@ -24,7 +24,7 @@
        id="selected_bg_color"
        osb:paint="solid">
       <stop
-         style="stop-color:#496ca5;stop-opacity:1;"
+         style="stop-color:#4a6ba5;stop-opacity:1;"
          offset="0"
          id="stop4153" />
     </linearGradient>
@@ -41,7 +41,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#2c4266"
+     pagecolor="#2d4266"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -79,7 +79,7 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <rect
-       style="display:inline;opacity:1;fill:#2e3e59;fill-opacity:1;stroke:#384966;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#283a59;fill-opacity:1;stroke:#2d4266;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4160"
        width="31"
        height="31.000017"

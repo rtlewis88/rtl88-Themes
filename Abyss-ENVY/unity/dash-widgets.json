@@ -25,7 +25,7 @@
   },
 
   "button-icon": {
-    "color"          : ["#ffffff", "#999999", "#999999", "#999999", "#999999"],
+    "color"          : ["#ffffff", "#b2b2b2", "#b2b2b2", "#b2b2b2", "#b2b2b2"],
     "opacity"        : [      1.0,       1.0,       1.0,       0.8,       0.8],
     "overlay-opacity": [     0.30,      0.48,      0.48,      0.45,      0.45],
     "overlay-mode"   : [ "normal","multiply",  "multiply",  "normal",  "normal"],
@@ -47,13 +47,13 @@
 
   "button-label": {
     "border-opacity" : [      0.8,      0.13,      0.13,      0.13,      0.13],
-    "border-color"   : ["#ffffff", "#999999", "#999999", "#999999", "#999999"],
+    "border-color"   : ["#ffffff", "#b2b2b2", "#b2b2b2", "#b2b2b2", "#b2b2b2"],
     "border-size"    : [      2.0,       1.0,       1.0,       0.5,       0.5],
     "border-radius"  : 4.0,
     "text-size"      : 1.0,
     "text-color"     : ["#ffffff", "#ffffff", "#ffffff", "#ffffff", "#ffffff"],
     "text-opacity"   : [      1.0,       1.0,       1.0,       1.0,       1.0],
-    "fill-color"     : ["#999999", "#050a00", "#050a00", "#050a00", "#050a00"],
+    "fill-color"     : ["#b2b2b2", "#000000", "#000000", "#000000", "#000000"],
     "fill-opacity"   : [      0.13,      0.0,       0.0,       0.0,       0.0],
     "overlay-opacity": [      0.1,       0.1,       0.1,       0.0,       0.0],
     "overlay-mode"   : [ "normal",  "normal",  "normal",  "normal",  "normal"],

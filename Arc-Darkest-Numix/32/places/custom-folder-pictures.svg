@@ -15,12 +15,12 @@
    <path d="m -78 1055.36 0 2 64 0 0 -2 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
    <path d="m -45 1011.36 -3 6 -30 0 0 2 31 0 3 -6 26.938 0.125 c 1.524 0 3.063 1.533 3.063 3.063 l 0 -2 c 0 -1.529 -1.539 -3.063 -3.063 -3.063 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
    <g transform="matrix(2,0,0,2,-17.15747,-1029.5912)" style="opacity:1">
-    <g transform="translate(-22.421265,1025.4767)" style="fill:#16243f;fill-opacity:1">
-     <g transform="translate(0,-1036.3622)" style="fill:#16243f;fill-rule:evenodd">
-      <path d="m 1 1046.36 4 -5 3.282 3.678 2.218 -2.178 4.5 6.5 -3 2 -9 0 z" style="fill:#16243f"/>
+    <g transform="translate(-22.421265,1025.4767)" style="fill:#13223F;fill-opacity:1">
+     <g transform="translate(0,-1036.3622)" style="fill:#13223F;fill-rule:evenodd">
+      <path d="m 1 1046.36 4 -5 3.282 3.678 2.218 -2.178 4.5 6.5 -3 2 -9 0 z" style="fill:#13223F"/>
      </g>
     </g>
-    <path d="m -19.421 1026.48 c -1.108 0 -2 0.892 -2 2 l 0 10 c 0 1.108 0.892 2 2 2 l 10 0 c 1.108 0 2 -0.892 2 -2 l 0 -10 c 0 -1.108 -0.892 -2 -2 -2 z m 0 2 10 0 0 10 -10 0 z" style="fill:#16243f;fill-opacity:1"/>
+    <path d="m -19.421 1026.48 c -1.108 0 -2 0.892 -2 2 l 0 10 c 0 1.108 0.892 2 2 2 l 10 0 c 1.108 0 2 -0.892 2 -2 l 0 -10 c 0 -1.108 -0.892 -2 -2 -2 z m 0 2 10 0 0 10 -10 0 z" style="fill:#13223F;fill-opacity:1"/>
    </g>
   </g>
  </g>

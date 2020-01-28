@@ -13,9 +13,9 @@
   <path d="m 23 1034.43 0 14.933 -22 0 0 -14 11 0 1 -2 9 0 c 0.5 0 1 0.533 1 1.067 z" style="fill:#66b9ff;fill-opacity:1;stroke:none"/>
   <path d="m 1 1048.36 0 1 22 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
   <path d="m 13 1033.36 -1 2 -11 0 0 1 12 0 1 -2 8 0 c 0.5 0 1 0.5 1 1 l 0 -1 c 0 -0.5 -0.5 -1 -1 -1 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <g transform="translate(-2.42e-5,-1)" style="fill:#202124;opacity:1;fill-opacity:1">
-   <path transform="translate(0,1030.3622)" d="m 14 8 c -1.657 0 -3 1.343 -3 3 0 1.657 1.343 3 3 3 1.657 0 3 -1.343 3 -3 0 -1.657 -1.343 -3 -3 -3 z m 0 1 c 1.105 0 2 0.895 2 2 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 z" style="fill:#202124;stroke:none"/>
-   <rect rx="0.5" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" y="728.58" x="745.55" height="6" width="2" style="fill:#202124;stroke:none"/>
+  <g transform="translate(-2.42e-5,-1)" style="fill:#202224;opacity:1;fill-opacity:1">
+   <path transform="translate(0,1030.3622)" d="m 14 8 c -1.657 0 -3 1.343 -3 3 0 1.657 1.343 3 3 3 1.657 0 3 -1.343 3 -3 0 -1.657 -1.343 -3 -3 -3 z m 0 1 c 1.105 0 2 0.895 2 2 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 z" style="fill:#202224;stroke:none"/>
+   <rect rx="0.5" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" y="728.58" x="745.55" height="6" width="2" style="fill:#202224;stroke:none"/>
   </g>
  </g>
 </svg>

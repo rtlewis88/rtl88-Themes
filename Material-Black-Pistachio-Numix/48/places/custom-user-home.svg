@@ -15,10 +15,10 @@
   <path d="m 45 1018.36 0 28 -42 0 0 -26 20 0 2 -4 18 0 c 1 0 2 1 2 2 z" style="fill:#66ffef;fill-opacity:1;stroke:none"/>
   <path d="m 3 1045.36 0 1 42 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
   <path d="m 25 12 -2 4 -20 0 0 1 21 0 2 -4 17 0 c 1 0 2 1 2 2 l 0 -1 c 0 -1 -1 -2 -2 -2 z" transform="translate(0,1004.3622)" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <g transform="translate(15.999574,1025.3622)" style="fill:#202124;opacity:1;fill-opacity:1">
-   <path d="m 2 7 0 7 c 0 1.108 0.892 2 2 2 l 2 0 0 -6 4 0 0 6 2 0 c 1.108 0 2 -0.892 2 -2 l 0 -7 z" style="fill:#202124"/>
-   <path d="m 2 6 c -2.203 2 -3 2 0 2 l 12 0 c 3 0 2.288 0 0 -2 l -5 -5 c -1 -1 -1 -1 -2 0 z" style="fill:#202124;stroke:none"/>
-   <path d="m 13 1 c 1 0 1 0.446 1 1 l 0 4 -2 0 0 -4 c 0 -0.554 0 -1 1 -1 z" style="fill:#202124;stroke:none"/>
+  <g transform="translate(15.999574,1025.3622)" style="fill:#202424;opacity:1;fill-opacity:1">
+   <path d="m 2 7 0 7 c 0 1.108 0.892 2 2 2 l 2 0 0 -6 4 0 0 6 2 0 c 1.108 0 2 -0.892 2 -2 l 0 -7 z" style="fill:#202424"/>
+   <path d="m 2 6 c -2.203 2 -3 2 0 2 l 12 0 c 3 0 2.288 0 0 -2 l -5 -5 c -1 -1 -1 -1 -2 0 z" style="fill:#202424;stroke:none"/>
+   <path d="m 13 1 c 1 0 1 0.446 1 1 l 0 4 -2 0 0 -4 c 0 -0.554 0 -1 1 -1 z" style="fill:#202424;stroke:none"/>
   </g>
  </g>
 </svg>

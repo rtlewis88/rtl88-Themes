@@ -90,8 +90,8 @@
 
 #menu-search-entry, #notification StEntry, .run-dialog-entry, #Tooltip {
   background-gradient-direction: vertical;
-  background-gradient-start: #1c293f;
-  background-gradient-end: #1c293f; }
+  background-gradient-start: #172133;
+  background-gradient-end: #172133; }
 
 .osd-window, .info-osd, .workspace-osd, .overview-empty-placeholder {
   border: 1px solid #7e899e;

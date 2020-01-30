@@ -121,7 +121,7 @@ osd.border.width: 2
 osd.hilight.bg: Solid Flat
 osd.hilight.bg.color: #4a6ba5
 osd.unhilight.bg: flat solid
-osd.unhilight.bg.color: #1c293f
+osd.unhilight.bg.color: #172133
 
 osd.button.unpressed.bg: flat border
 osd.button.unpressed.bg.color: #1c293f
@@ -133,7 +133,7 @@ osd.button.pressed.bg.color: #4a6ba5
 
 osd.button.focused.bg: flat solid border
 osd.button.focused.bg.color: #b2b2b2
-#osd.button.focused.*.border.color: #1c293f
+#osd.button.focused.*.border.color: #172133
 
 osd.button.focused.box.color: #4a6ba5
 

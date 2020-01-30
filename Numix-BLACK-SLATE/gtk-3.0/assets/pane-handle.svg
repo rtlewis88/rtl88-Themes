@@ -14,7 +14,7 @@
   <rect width="33" height="75"/>
 </clipPath>
 <g id="surface11" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:#1c293f;fill-opacity:1;" d="M 33.332031 66.667969 L 33.332031 75 L 0 75 L 0 66.667969 Z M 33.332031 66.667969 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#172133;fill-opacity:1;" d="M 33.332031 66.667969 L 33.332031 75 L 0 75 L 0 66.667969 Z M 33.332031 66.667969 "/>
 </g>
 <image id="image17" width="33" height="75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAABLCAYAAAD+i+5TAAAABmJLR0QA/wD/AP+gvaeTAAAAYUlEQVRoge3OsQmAQBBFwVMPjCzCFizHzmzAcmzBEgyMDi4wMtZkQWQmXva/lAAAAABIzdr3Y+TAXMr+GDHkPEVGnLVuTzdtZMBbIm4ibp+IyEvXHZEDc62R7wEAAAD+4wLtUAvzrnEaRAAAAABJRU5ErkJggg=="/>
 <mask id="mask1">
@@ -26,7 +26,7 @@
   <rect width="33" height="75"/>
 </clipPath>
 <g id="surface19" clip-path="url(#clip2)">
-<path style=" stroke:none;fill-rule:nonzero;fill:#1c293f;fill-opacity:1;" d="M 33.332031 33.332031 L 33.332031 41.667969 L 0 41.667969 L 0 33.332031 Z M 33.332031 33.332031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#172133;fill-opacity:1;" d="M 33.332031 33.332031 L 33.332031 41.667969 L 0 41.667969 L 0 33.332031 Z M 33.332031 33.332031 "/>
 </g>
 <image id="image25" width="33" height="75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAABLCAYAAAD+i+5TAAAABmJLR0QA/wD/AP+gvaeTAAAATUlEQVRoge3OIQ6AMBBFQUpqSTkLntPjOQsNtgK1GswaMqM3+19Zat2mRPcY59vNnBnwlYggIogI5WhtzRzYe78y/wMAAAAAAAAA8CcP/2EIET6xKgwAAAAASUVORK5CYII="/>
 <mask id="mask2">
@@ -38,7 +38,7 @@
   <rect width="33" height="75"/>
 </clipPath>
 <g id="surface27" clip-path="url(#clip3)">
-<path style=" stroke:none;fill-rule:nonzero;fill:#1c293f;fill-opacity:1;" d="M 33.332031 0 L 33.332031 8.332031 L 0 8.332031 L 0 0 Z M 33.332031 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#172133;fill-opacity:1;" d="M 33.332031 0 L 33.332031 8.332031 L 0 8.332031 L 0 0 Z M 33.332031 0 "/>
 </g>
 </defs>
 <g id="surface1">

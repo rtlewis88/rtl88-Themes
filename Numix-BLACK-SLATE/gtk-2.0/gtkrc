@@ -1,7 +1,7 @@
 # Numix-BLACK-SLATE (Numix Fork)
 
 gtk-color-scheme =
-"base_color:#172133\nbg_color:#1c293f\ntooltip_bg_color:#1c293f\nselected_bg_color:#4a6ba5\ntext_color:#d4dae5\nfg_color:#b2b2b2\ntooltip_fg_color:#b2b2b2\nselected_fg_color:#d8e6ff\nmenubar_bg_color:#172133\nmenubar_fg_color:#c2cee5\ntoolbar_bg_color:#1c293f\ntoolbar_fg_color:#b2b2b2\nmenu_bg_color:#172133\nmenu_fg_color:#c2cee5\npanel_bg_color:#1c293f\npanel_fg_color:#b2b2b2\nlink_color:#005dd1\nbtn_bg_color:#273a59\nbtn_fg_color:#c2cfe5\ntitlebar_bg_color:#172133\ntitlebar_fg_color:#c2cee5\nprimary_caret_color:#c1c1c1\nsecondary_caret_color:#c1c1c1\naccent_bg_color:#72a5ff\n"
+"base_color:#1c293f\nbg_color:#172133\ntooltip_bg_color:#172133\nselected_bg_color:#4a6ba5\ntext_color:#d4dae5\nfg_color:#b2b2b2\ntooltip_fg_color:#b2b2b2\nselected_fg_color:#d8e6ff\nmenubar_bg_color:#172133\nmenubar_fg_color:#c2cee5\ntoolbar_bg_color:#172133\ntoolbar_fg_color:#b2b2b2\nmenu_bg_color:#172133\nmenu_fg_color:#c2cee5\npanel_bg_color:#172133\npanel_fg_color:#b2b2b2\nlink_color:#005dd1\nbtn_bg_color:#273a59\nbtn_fg_color:#c2cfe5\ntitlebar_bg_color:#172133\ntitlebar_fg_color:#c2cee5\nprimary_caret_color:#c1c1c1\nsecondary_caret_color:#c1c1c1\naccent_bg_color:#72a5ff\n"
 # Default Style
 
 style "murrine-default" {

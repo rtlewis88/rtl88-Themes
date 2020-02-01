@@ -13,8 +13,8 @@
   <path d="m 64 1003.54 0 42.824 -64 0 0 -40 30 0 3 -6 27.952 0.118 c 1.524 0 3.048 1.529 3.048 3.059 z" style="fill:#e5446a;fill-opacity:1;stroke:none"/>
   <path d="m 0 1044.36 0 2 64 0 0 -2 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
   <path d="m 33 12 -3 6 -30 0 0 2 31 0 3 -6 26.938 0.125 c 1.524 0 3.063 1.533 3.063 3.063 l 0 -2 c 0 -1.529 -1.539 -3.063 -3.063 -3.063 z" transform="translate(0,988.3622)" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <polygon transform="matrix(1.791016e-4,0,0,1.560571e-4,20.54378,1019.3624)" points="44385,76894 133156,76894 110963,115341 22194,115341 " style="fill:#20242b;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
-  <polygon transform="matrix(1.770215e-4,0,0,1.8206965e-4,20.820758,1015.3621)" points="88772,76894 133156,76894 88772,0 44385,0 " style="fill:#20242b;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
-  <path d="m 27.421 1016.62 -7.821 12.612 3.662 7.331 7.616 -13.343 z" style="fill:#20242b;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
+  <polygon transform="matrix(1.791016e-4,0,0,1.560571e-4,20.54378,1019.3624)" points="44385,76894 133156,76894 110963,115341 22194,115341 " style="fill:#2b2022;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
+  <polygon transform="matrix(1.770215e-4,0,0,1.8206965e-4,20.820758,1015.3621)" points="88772,76894 133156,76894 88772,0 44385,0 " style="fill:#2b2022;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
+  <path d="m 27.421 1016.62 -7.821 12.612 3.662 7.331 7.616 -13.343 z" style="fill:#2b2022;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
  </g>
 </svg>

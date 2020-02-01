@@ -13,9 +13,9 @@
   <path d="m 22 1035.43 0 14.933 -22 0 0 -14 11 0 1 -2 9 0 c 0.5 0 1 0.533 1 1.067 z" style="fill:#e5446a;fill-opacity:1;stroke:none"/>
   <path d="m 0 1049.36 0 1 22 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
   <path d="m 12 1034.36 -1 2 -11 0 0 1 12 0 1 -2 8 0 c 0.5 0 1 0.5 1 1 l 0 -1 c 0 -0.5 -0.5 -1 -1 -1 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <g transform="translate(0,-1)" style="fill:#20242b;opacity:1;fill-opacity:1">
-   <path transform="translate(0,1030.3622)" d="m 11 9 c -2.046 0 -3.788 1.24 -4.563 3 l 2.344 0 c 0.549 -0.609 1.334 -1 2.219 -1 c 1.657 0 3 1.343 3 3 0 1.657 -1.343 3 -3 3 -0.884 0 -1.67 -0.391 -2.219 -1 l -2.344 0 c 0.774 1.76 2.517 3 4.563 3 2.761 0 5 -2.239 5 -5 0 -2.761 -2.239 -5 -5 -5 z" style="fill:#20242b;stroke:none"/>
-   <path transform="translate(0,1030.3622)" d="m 6 13 4 0 -4 -4 z" style="fill:#20242b;stroke:none"/>
+  <g transform="translate(0,-1)" style="fill:#2b2022;opacity:1;fill-opacity:1">
+   <path transform="translate(0,1030.3622)" d="m 11 9 c -2.046 0 -3.788 1.24 -4.563 3 l 2.344 0 c 0.549 -0.609 1.334 -1 2.219 -1 c 1.657 0 3 1.343 3 3 0 1.657 -1.343 3 -3 3 -0.884 0 -1.67 -0.391 -2.219 -1 l -2.344 0 c 0.774 1.76 2.517 3 4.563 3 2.761 0 5 -2.239 5 -5 0 -2.761 -2.239 -5 -5 -5 z" style="fill:#2b2022;stroke:none"/>
+   <path transform="translate(0,1030.3622)" d="m 6 13 4 0 -4 -4 z" style="fill:#2b2022;stroke:none"/>
   </g>
  </g>
 </svg>

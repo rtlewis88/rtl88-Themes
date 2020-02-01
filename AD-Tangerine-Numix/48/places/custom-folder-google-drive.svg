@@ -12,7 +12,7 @@
  <path d="m 45 14 0 28 -42 0 0 -26 20 0 2 -4 18 0 c 1 0 2 1 2 2 z" style="fill:#e26d51;fill-opacity:1;stroke:none"/>
  <path d="m 3 41 0 1 42 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
  <path d="m 25 12 -2 4 -20 0 0 1 21 0 2 -4 17 0 c 1 0 2 1 2 2 l 0 -1 c 0 -1 -1 -2 -2 -2 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
- <path transform="matrix(1.3518142e-4,0,0,1.3004916e-4,14.999784,22)" d="m 22194 115341 23578.03 -38447 87383.98 0 -22193 38447 z" style="fill:#28221e;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
- <path transform="matrix(1.3243857e-4,0,0,1.3004916e-4,15.36501,21)" d="m 88772,76894 44384,0 L 88772,0 44385,0 z" style="fill:#28221e;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
- <path transform="matrix(1.4175204e-4,0,0,1.2815554e-4,14,21.60684)" d="M 65365.495,39056.611 44385,0 0,76894 22194,115341 z" style="fill:#28221e;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
+ <path transform="matrix(1.3518142e-4,0,0,1.3004916e-4,14.999784,22)" d="m 22194 115341 23578.03 -38447 87383.98 0 -22193 38447 z" style="fill:#28201e;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
+ <path transform="matrix(1.3243857e-4,0,0,1.3004916e-4,15.36501,21)" d="m 88772,76894 44384,0 L 88772,0 44385,0 z" style="fill:#28201e;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
+ <path transform="matrix(1.4175204e-4,0,0,1.2815554e-4,14,21.60684)" d="M 65365.495,39056.611 44385,0 0,76894 22194,115341 z" style="fill:#28201e;opacity:1;fill-opacity:1;fill-rule:evenodd"/>
 </svg>

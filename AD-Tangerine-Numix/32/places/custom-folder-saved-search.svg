@@ -14,8 +14,8 @@
   <path d="m 0 1048.36 0 1 32 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
   <path d="m 16.5 1026.36 -1.5 3 -15 0 0 1 15.5 0 1.5 -3 13.469 0.062 c 0.762 0 1.531 0.767 1.531 1.531 l 0 -1 c 0 -0.765 -0.769 -1.531 -1.531 -1.531 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
   <g style="opacity:1">
-   <rect transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" rx="1" y="725.11" x="745.25" height="8" width="2" style="fill:#28221e;opacity:1;fill-opacity:1;stroke:none"/>
-   <path d="m 18 1032.36 c -2.761 0 -5 2.239 -5 5 0 2.761 2.239 5 5 5 2.761 0 5 -2.239 5 -5 0 -2.761 -2.239 -5 -5 -5 z m 0 2 c 1.657 0 3 1.343 3 3 0 1.657 -1.343 3 -3 3 -1.657 0 -3 -1.343 -3 -3 0 -1.657 1.343 -3 3 -3 z" style="fill:#28221e;opacity:1;fill-opacity:1;stroke:none"/>
+   <rect transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" rx="1" y="725.11" x="745.25" height="8" width="2" style="fill:#28201e;opacity:1;fill-opacity:1;stroke:none"/>
+   <path d="m 18 1032.36 c -2.761 0 -5 2.239 -5 5 0 2.761 2.239 5 5 5 2.761 0 5 -2.239 5 -5 0 -2.761 -2.239 -5 -5 -5 z m 0 2 c 1.657 0 3 1.343 3 3 0 1.657 -1.343 3 -3 3 -1.657 0 -3 -1.343 -3 -3 0 -1.657 1.343 -3 3 -3 z" style="fill:#28201e;opacity:1;fill-opacity:1;stroke:none"/>
   </g>
  </g>
 </svg>

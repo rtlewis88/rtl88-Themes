@@ -13,13 +13,13 @@
   <path d="m 22 1035.43 0 14.933 -22 0 0 -14 11 0 1 -2 9 0 c 0.5 0 1 0.533 1 1.067 z" style="fill:#51bbe2;fill-opacity:1;stroke:none"/>
   <path d="m 0 1049.36 0 1 22 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
   <path d="m 12 1034.36 -1 2 -11 0 0 1 12 0 1 -2 8 0 c 0.5 0 1 0.5 1 1 l 0 -1 c 0 -0.5 -0.5 -1 -1 -1 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
-  <path d="m 7 1038.36 c -0.554 0 -1 0.446 -1 1 l 0 1 2 0 0 -2 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 10 1038.36 0 2 2 0 0 -2 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 14 1038.36 0 2 2 0 0 -1 c 0 -0.554 -0.446 -1 -1 -1 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 6 1042.36 0 2 2 0 0 -2 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 14 1042.36 0 2 2 0 0 -2 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 8 1046.36 -2 0 0 1 c 0 0.554 0.446 1 1 1 l 1 0 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 14 1046.36 0 2 1 0 c 0.554 0 1 -0.446 1 -1 l 0 -1 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
-  <path d="m 10 1046.36 0 2 2 0 0 -2 z" style="fill:#20242b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 7 1038.36 c -0.554 0 -1 0.446 -1 1 l 0 1 2 0 0 -2 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 10 1038.36 0 2 2 0 0 -2 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 14 1038.36 0 2 2 0 0 -1 c 0 -0.554 -0.446 -1 -1 -1 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 6 1042.36 0 2 2 0 0 -2 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 14 1042.36 0 2 2 0 0 -2 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 8 1046.36 -2 0 0 1 c 0 0.554 0.446 1 1 1 l 1 0 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 14 1046.36 0 2 1 0 c 0.554 0 1 -0.446 1 -1 l 0 -1 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
+  <path d="m 10 1046.36 0 2 2 0 0 -2 z" style="fill:#20282b;opacity:1;fill-opacity:1;stroke:none"/>
  </g>
 </svg>

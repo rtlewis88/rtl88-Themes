@@ -1,0 +1,15 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="radialGradient3766" gradientTransform="matrix(1.18182 0 0 0.09091 -1 20.273)" r="11" cx="11" cy="19" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#000;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#000;stop-opacity:0"/>
+  </radialGradient>
+ </defs>
+ <rect width="18" rx="1" height="10" style="fill:#512da8;fill-opacity:1;stroke:none" x="3" y="0.998"/>
+ <path d="m 25 22 a 13 1 0 0 1 -26 0 13 1 0 1 1 26 0 z" style="fill:url(#radialGradient3766);opacity:0.25;fill-opacity:1;stroke:none"/>
+ <path d="m 12 2.998 l -4 4 l 2 0 l 0 10 l 4 0 l 0 -10 l 2 0 l -4 -4 z" style="fill:#fff1ed;opacity:0.6;fill-opacity:1;stroke:none"/>
+ <path d="m 23 9.07 0 12.933 -22 0 0 -12 11 0 1 -2 9 0 c 0.5 0 1 0.533 1 1.067 z" style="fill:#7e57c2;fill-opacity:1;stroke:none"/>
+ <path d="m 1 20.998 0 1 22 0 0 -1 z" style="fill:#000;opacity:0.15;fill-opacity:1;stroke:none"/>
+ <path d="m 13 7.998 -1 2 -11 0 0 1 12 0 1 -2 8 0 c 0.5 0 1 0.5 1 1 l 0 -1 c 0 -0.5 -0.5 -1 -1 -1 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
+ <path d="m 4 0.998 c -0.554 0 -1 0.446 -1 1 l 0 1 c 0 -0.554 0.446 -1 1 -1 l 16 0 c 0.554 0 1 0.446 1 1 l 0 -1 c 0 -0.554 -0.446 -1 -1 -1 l -16 0 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
+</svg>

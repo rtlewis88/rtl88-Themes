@@ -762,7 +762,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .popup-menu .popup-sub-menu {
   padding-bottom: 0;
-  background-color: rgba(204, 204, 204, 0.04);
+  background-color: rgba(119, 109, 75, 0.6);
   box-shadow: 0 0 transparent;
 }
 
@@ -2155,7 +2155,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app-running-dot {
   width: 32px;
   height: 2px;
-  background-color: white;
+  background-color: #c4b47b;
   margin-bottom: 0;
 }
 

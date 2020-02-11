@@ -218,7 +218,7 @@ StScrollBar StBin#trough {
 StScrollBar StButton#vhandle, StScrollBar StButton#hhandle {
   transition-duration: 100ms;
   border-radius: 100px;
-  background-color: rgba(253, 246, 227, 0.5);
+  background-color: rgba(203, 75, 22, 0.9);
   margin: 4px;
 }
 
@@ -762,7 +762,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .popup-menu .popup-sub-menu {
   padding-bottom: 0;
-  background-color: #CB4B16;
+  background-color: rgba(203, 75, 22, 0.9);
   box-shadow: 0 0 transparent;
 }
 
@@ -798,7 +798,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu .popup-menu-item.selected {
-  background-color: #CB4B16;
+  background-color: rgba(203, 75, 22, 0.9);
   color: #fdf6e3;
   transition-duration: 0ms;
 }
@@ -2155,7 +2155,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app-running-dot {
   width: 32px;
   height: 2px;
-  background-color: #CB4B16;
+  background-color: rgba(203, 75, 22, 0.9);
   margin-bottom: 0;
 }
 

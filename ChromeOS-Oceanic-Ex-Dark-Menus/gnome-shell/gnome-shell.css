@@ -762,7 +762,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .popup-menu .popup-sub-menu {
   padding-bottom: 0;
-  background-color: rgba(238, 238, 238, 0.04);
+  background-color: rgba(61, 179, 204, 0.4);
   box-shadow: 0 0 transparent;
 }
 
@@ -798,7 +798,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu .popup-menu-item.selected {
-  background-color: rgba(238, 238, 238, 0.08);
+  background-color: rgba(61, 179, 204, 0.4);
   color: #eeeeee;
   transition-duration: 0ms;
 }

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" width="256" height="256" viewBox="0 0 256 256">
  <g>
-  <path fill="#41b5ad" d="M 53.705 21 C 17.39 21 13.667 23.055 13.667 59.371 L 13.667 151.538 L 243.667 151.538 L 243.667 79.563 C 243.667 43.247 239.943 37.461 203.628 37.461 L 114.292 37.461 L 97.864 21 L 53.705 21 Z"/>
+  <path fill="#38aaa2" d="M 53.705 21 C 17.39 21 13.667 23.055 13.667 59.371 L 13.667 151.538 L 243.667 151.538 L 243.667 79.563 C 243.667 43.247 239.943 37.461 203.628 37.461 L 114.292 37.461 L 97.864 21 L 53.705 21 Z"/>
   <defs>
    <filter id="a9OfmFvTx7FV2RaN9AHorh6IaG2I6le6" width="400%" height="400%" x="-200%" y="-200%" color-interpolation-filters="sRGB" filterUnits="objectBoundingBox">
     <feGaussianBlur xmlns="http://www.w3.org/2000/svg" in="SourceGraphic" stdDeviation="4.294"/>

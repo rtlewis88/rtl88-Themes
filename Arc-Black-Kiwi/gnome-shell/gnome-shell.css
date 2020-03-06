@@ -1900,7 +1900,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   width: 304px;
   padding: 0 8px;
   border-radius: 3px 3px 0 0;
-  color: rgba(255, 255, 255, 0.5);
+  color:rgba(46, 153, 29, 0.9);
   selection-background-color: rgba(255, 255, 255, 0.3);
   selected-color: white;
   transition-duration: 100ms;

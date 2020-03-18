@@ -2158,7 +2158,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app-running-dot {
   width: 32px;
   height: 2px;
-  background-color: #eeeeee;
+  background-color: rgba(229, 114, 114, 1.0);
   margin-bottom: 0;
 }
 

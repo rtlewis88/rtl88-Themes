@@ -218,7 +218,7 @@ StScrollBar StBin#trough {
 StScrollBar StButton#vhandle, StScrollBar StButton#hhandle {
   transition-duration: 100ms;
   border-radius: 100px;
-  background-color: rgba(204, 204, 204, 0.5);
+  background-color: rgba(50, 163, 255, 1.0);
   margin: 4px;
 }
 

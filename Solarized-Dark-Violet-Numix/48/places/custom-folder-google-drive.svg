@@ -6,7 +6,7 @@
   </radialGradient>
  </defs>
  <path d="m 45.15 41.38 a 21.08 2.383 0 1 1 -42.15 0 21.08 2.383 0 1 1 42.15 0 z" transform="matrix(1.1387537,0,0,1.0490275,-3.4162611,-1.9120725)" style="fill:url(#radialGradient3064);opacity:0.65;fill-opacity:1;stroke:none"/>
- <path d="m 3 10 0 28 42 0 0 -14 -2 -12 -16 0 -2 -4 -20 0 c -1 0 -2 1 -2 2 z" style="fill:#b2b6ff;fill-opacity:1;stroke:none"/>
+ <path d="m 3 10 0 28 42 0 0 -14 -2 -12 -16 0 -2 -4 -20 0 c -1 0 -2 1 -2 2 z" style="fill:#A6AAFF;fill-opacity:1;stroke:none"/>
  <rect width="21" height="8" x="6" y="13" style="fill:#fffdf0;fill-opacity:1;stroke:none"/>
  <path d="m 5 8 c -1 0 -2 1 -2 2 l 0 1 c 0 -1 1 -2 2 -2 l 19 0 l 2 4 17 0 2 12 0 -1 -2 -12 -16 0 -2 -4 z" style="fill:#000;opacity:0.03;fill-opacity:1;stroke:none"/>
  <path d="m 45 14 0 28 -42 0 0 -26 20 0 2 -4 18 0 c 1 0 2 1 2 2 z" style="fill:#6C71C4;fill-opacity:1;stroke:none"/>

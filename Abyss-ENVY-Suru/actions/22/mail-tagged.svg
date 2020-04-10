@@ -24,7 +24,7 @@
    <stop offset="100%"  stop-color= "#329DB6" stop-opacity="1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%"    stop-color= "#90FF26" stop-opacity="1"/>
+   <stop offset="0%"    stop-color= "#88f224" stop-opacity="1"/>
    <stop offset="100%"  stop-color= "#508e13" stop-opacity="1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">

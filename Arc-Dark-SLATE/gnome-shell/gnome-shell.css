@@ -109,7 +109,7 @@ stage {
 }
 
 .modal-dialog-linked-button:hover, .notification-banner .notification-button:hover, .hotplug-notification-item:hover {
-  color: #618dd8;
+  color: #E3410F;
   background-color: rgba(97, 141, 216, 0.08);
   border-color: transparent;
   box-shadow: 0 0 transparent;
@@ -118,7 +118,7 @@ stage {
 }
 
 .modal-dialog-linked-button:active, .notification-banner .notification-button:active, .hotplug-notification-item:active {
-  color: #618dd8;
+  color: #71A6FF;
   background-color: rgba(97, 141, 216, 0.2);
   border-color: transparent;
   box-shadow: 0 0 transparent;
@@ -2164,7 +2164,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app.app-folder .overview-icon,
 .show-apps .overview-icon,
 .grid-search-result .overview-icon {
-  color: white;
+  color: #71A6FF;
   border-radius: 4px;
   padding: 6px;
   border: none;

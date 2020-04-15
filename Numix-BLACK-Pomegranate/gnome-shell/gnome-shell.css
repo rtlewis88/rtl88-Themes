@@ -1900,7 +1900,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   width: 304px;
   padding: 0 8px;
   border-radius: 15px 15px 0 0;
-  color: rgba(255, 255, 255, 0.5);
+  color: #CC2E37;
   selection-background-color: rgba(255, 255, 255, 0.3);
   selected-color: white;
   transition-duration: 100ms;
@@ -2057,7 +2057,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control, .app-view-control:hover, .app-view-control:active, .app-view-control:checked {
-  color: #912127;
+  color: #CC2E37;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;
@@ -2155,7 +2155,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app-running-dot {
   width: 32px;
   height: 2px;
-  background-color: rgba(145, 33, 39, 1.0);
+  background-color: #CC2E37;
   margin-bottom: 0;
 }
 

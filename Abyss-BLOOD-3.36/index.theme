@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Abyss-BLOOD
+Comment=A Material Design and Numix hybrid theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Abyss-BLOOD
+MetacityTheme=Abyss-BLOOD
+IconTheme=Abyss-BLOOD
+CursorTheme=Adwaita
+CursorSize=24

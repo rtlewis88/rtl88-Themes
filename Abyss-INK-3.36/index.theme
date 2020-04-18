@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Abyss-INK
+Comment=A Material Design and Numix hybrid theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Abyss-INK
+MetacityTheme=Abyss-INK
+IconTheme=Abyss-INK
+CursorTheme=Adwaita
+CursorSize=24

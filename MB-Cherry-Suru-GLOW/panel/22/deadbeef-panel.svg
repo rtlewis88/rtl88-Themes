@@ -20,7 +20,7 @@
    <stop offset="100%" style="stop-color:#329DB6"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%" style="stop-color:#e54444"/>
+   <stop offset="0%" style="stop-color:#F24848"/>
    <stop offset="100%" style="stop-color:#7f1313"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
@@ -48,5 +48,5 @@
    <stop offset="100%" style="stop-color:#0f83ae"/>
   </linearGradient>
  </defs>
- <path fill="url(#oomox)" class="ColorScheme-Text" fill-rule="evenodd" d="m 4.9999999,2.9999999 0,8.0000001 4.5,-2.9999999 L 14,11 l -9.0000001,6 0,2 L 17,11 11,7.0000003 4.9999999,2.9999999 Z"/>
+ <path fill="currentColor" fill-rule="evenodd" class="ColorScheme-Text" d="m 4.9999999,2.9999999 0,8.0000001 4.5,-2.9999999 L 14,11 l -9.0000001,6 0,2 L 17,11 11,7.0000003 4.9999999,2.9999999 Z"/>
 </svg>

@@ -21,7 +21,7 @@
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="gtk:custom(wm_button_close_bg,#bf4b38)" />
+<constant name="C_button_close_bg_focused" value="gtk:custom(wm_button_close_bg,#BF4B38)" />
 <constant name="C_button_close_bg_hover" value="gtk:custom(wm_button_close_hover_bg,#cf5b48)" />
 <constant name="C_button_close_bg_active" value="gtk:custom(wm_button_close_active_bg,#af3b28)" />
 
@@ -29,7 +29,7 @@
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="gtk:custom(wm_button_hover_bg,#d3dae3)" />
-<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#2e991d)" />
+<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#44bf44)" />
 
 <constant name="C_button_border_hover" value="gtk:custom(wm_button_hover_border,#d3dae3)" />
 

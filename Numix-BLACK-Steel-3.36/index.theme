@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-BLACK-Steel-3.36
+Comment=Flat and Rounded Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Numix-BLACK-Steel
+GtkTheme=Numix-BLACK-Steel
+IconTheme=Numix-BLACK-Steel
+MetacityTheme=Numix-BLACK-Steel

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-BLACK-SLATE-3.36
+Comment=A semi-flat, dark-mode Numix, with more rounded elements
+
+[X-GNOME-Metatheme]
+Name=Numix-BLACK-SLATE
+GtkTheme=Numix-BLACK-SLATE
+IconTheme=Numix-BLACK-SLATE
+MetacityTheme=Numix-BLACK-SLATE

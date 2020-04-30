@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-BLACK-Gold-3.36
+Comment=Numix-COLORS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Numix-BLACK-Gold
+GtkTheme=Numix-BLACK-Gold
+IconTheme=Numix-BLACK-Gold
+MetacityTheme=Numix-BLACK-Gold

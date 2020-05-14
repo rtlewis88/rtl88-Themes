@@ -291,7 +291,7 @@ StScrollBar StButton#hhandle {
   transition-duration: 100ms;
   margin: 4px;
   border-radius: 4px;
-  background-color: rgba(238, 238, 238, 0.5);
+  background-color: #9f72ff;
 }
 
 StScrollBar StButton#vhandle:hover,

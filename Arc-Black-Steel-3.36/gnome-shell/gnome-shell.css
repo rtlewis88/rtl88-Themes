@@ -1864,7 +1864,7 @@ StScrollBar StButton#hhandle:active {
   border-radius: 3px 3px 0 0;
   color: #656e7f;
   selection-background-color: rgba(211, 218, 227, 0.3);
-  selected-color: #d3dae3;
+  selected-color: #656e7f;
   transition-duration: 100ms;
   background-color: rgba(211, 218, 227, 0.04);
   border-color: transparent;

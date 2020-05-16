@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="8" height="19" viewBox="0 0 8 19" fill="#eeeeee">
-  <circle cx="4" cy="10" r="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="19">
+ <defs>
+  <clipPath>
+   <rect width="10" height="19" x="20" y="1033.36" opacity="0.12" fill="#286372" color="#c1c1c1"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0,-1033.3622)">
+  <rect width="4" height="8" x="2" y="1039.36" rx="0.5" fill="#e5faff"/>
+ </g>
 </svg>

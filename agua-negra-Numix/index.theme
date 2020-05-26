@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=agua-negra-Numix
+Comment=A Black & Aqua Numix Theme
+
+[X-GNOME-Metatheme]
+Name=agua-negra-Numix
+GtkTheme=agua-negra-Numix
+IconTheme=Numix
+MetacityTheme=agua-negra-Numix

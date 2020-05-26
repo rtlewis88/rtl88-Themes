@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=agua-negra-Material
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=agua-negra-Material
+MetacityTheme=agua-negra-Material
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

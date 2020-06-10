@@ -296,7 +296,7 @@ StScrollBar StButton#hhandle {
 
 StScrollBar StButton#vhandle:hover,
 StScrollBar StButton#hhandle:hover {
-  background-color: rgba(238, 238, 238, 0.7);
+  background-color: #a887ff;
 }
 
 StScrollBar StButton#vhandle:active,

@@ -429,7 +429,7 @@ StScrollBar StButton#hhandle:active {
   border-bottom: 0;
   padding-bottom: 0;
   box-shadow: none;
-  background-color: rgba(238, 238, 238, 0.04);
+  background-color: #5060B3;
 }
 
 .popup-menu-ornament {
@@ -1633,7 +1633,7 @@ StScrollBar StButton#hhandle:active {
   -natural-hpadding: 8px;
   -minimum-hpadding: 4px;
   transition-duration: 100ms;
-  color: rgba(238, 238, 238, 0.7);
+  color: #cccccc;
   text-shadow: none;
   font-weight: bold;
 }

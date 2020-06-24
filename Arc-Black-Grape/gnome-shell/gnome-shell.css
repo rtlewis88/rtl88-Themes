@@ -1900,9 +1900,9 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   width: 304px;
   padding: 0 8px;
   border-radius: 3px 3px 0 0;
-  color: rgba(126, 75, 216, 0.9);
+  color: rgba(174, 128, 255, 0.9);
   selection-background-color: rgba(255, 255, 255, 0.3);
-  selected-color: rgba(126, 75, 216, 0.9);
+  selected-color: rgba(174, 128, 255, 0.9);
   transition-duration: 100ms;
   background-color: rgba(255, 255, 255, 0.04);
   border-color: transparent;
@@ -2155,7 +2155,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app-running-dot {
   width: 32px;
   height: 2px;
-  background-color: rgba(126, 75, 216, 0.9);
+  background-color: rgba(174, 128, 255, 0.9);
   margin-bottom: 0;
 }
 
@@ -2164,7 +2164,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app.app-folder .overview-icon,
 .show-apps .overview-icon,
 .grid-search-result .overview-icon {
-  color: rgba(126, 75, 216, 1.0);
+  color: rgba(174, 128, 255, 1.0);
   border-radius: 3px;
   padding: 6px;
   border: none;
@@ -2215,7 +2215,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border: none;
   border-radius: 12px;
   background-image: none;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(174, 128, 255, 0.9);
   transition-duration: 100ms;
 }
 

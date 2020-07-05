@@ -296,12 +296,12 @@ StScrollBar StButton#hhandle {
 
 StScrollBar StButton#vhandle:hover,
 StScrollBar StButton#hhandle:hover {
-  background-color: #FF4949;
+  background-color: #D96D6D;
 }
 
 StScrollBar StButton#vhandle:active,
 StScrollBar StButton#hhandle:active {
-  background-color: #eeeeee;
+  background-color: #FF0000;
 }
 
 #overview StScrollBar StBin#trough, #unlockDialogNotifications StScrollBar StBin#trough {
@@ -1864,7 +1864,7 @@ StScrollBar StButton#hhandle:active {
   border-radius: 2px 2px 0 0;
   color: #ff4c4c;
   selection-background-color: rgba(238, 238, 238, 0.3);
-  selected-color: #eeeeee;
+  selected-color: #bf3737;
   transition-duration: 100ms;
   background-color: rgba(238, 238, 238, 0.04);
   border-color: transparent;

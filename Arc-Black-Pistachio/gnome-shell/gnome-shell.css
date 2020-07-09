@@ -223,11 +223,11 @@ StScrollBar StButton#vhandle, StScrollBar StButton#hhandle {
 }
 
 StScrollBar StButton#vhandle:hover, StScrollBar StButton#hhandle:hover {
-  background-color: rgba(211, 218, 227, 0.7);
+  background-color: #5AFFC9;
 }
 
 StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
-  background-color: #d3dae3;
+  background-color: #D83800;
 }
 
 #overview StScrollBar StBin#trough, #screenShieldNotifications StScrollBar StBin#trough {

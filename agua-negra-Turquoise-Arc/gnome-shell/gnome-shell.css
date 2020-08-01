@@ -1189,7 +1189,7 @@ StScrollBar StButton#hhandle:active {
 
 /* End Session Dialog */
 .end-session-dialog {
-  width: 43em;
+  width: 52em;
 }
 
 .end-session-dialog .end-session-dialog-battery-warning,
@@ -2123,7 +2123,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control, .app-view-control:focus, .app-view-control:hover, .app-view-control:active, .app-view-control:checked {
-  color: rgba(255, 255, 255, 0.7);
+  color: #47ACCC;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;
@@ -2676,7 +2676,7 @@ StScrollBar StButton#hhandle:active {
 /* Login Dialog */
 .login-dialog-banner-view {
   padding-top: 24px;
-  max-width: 23em;
+  max-width: 52em;
 }
 
 .login-dialog {

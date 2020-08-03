@@ -296,12 +296,12 @@ StScrollBar StButton#hhandle {
 
 StScrollBar StButton#vhandle:hover,
 StScrollBar StButton#hhandle:hover {
-  background-color: #D96D6D;
+  background-color: #FF4949;
 }
 
 StScrollBar StButton#vhandle:active,
 StScrollBar StButton#hhandle:active {
-  background-color: #FF0000;
+  background-color: #eeeeee;
 }
 
 #overview StScrollBar StBin#trough, #unlockDialogNotifications StScrollBar StBin#trough {
@@ -2094,7 +2094,7 @@ StScrollBar StButton#hhandle:active {
   width: 12px;
   height: 12px;
   border-radius: 12px;
-  background-color: #eeeeee;
+  background-color: #bf3737;
 }
 
 

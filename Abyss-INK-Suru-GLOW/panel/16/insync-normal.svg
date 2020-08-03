@@ -21,7 +21,7 @@
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color: #b2b2ff; stop-opacity: 1"/>
-   <stop offset="100%" style="stop-color: #5e5eff; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #6060ff; stop-opacity: 1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%" style="stop-color: #00F260; stop-opacity: 1"/>
@@ -55,6 +55,6 @@
  </defs>
  <rect fill="url(#oomox)" class="ColorScheme-Text" width="3" height="4" x="11" y="12"/>
  <circle fill="url(#oomox)" class="ColorScheme-Text" cx="12.5" cy="9.5" r="1.5"/>
- <path fill="none" stroke="url(#oomox)" class="ColorScheme-Text" stroke-width="2" d="M 4,11 A 10,10 0 0 1 14,1"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Text" d="M 4,11 A 10,10 0 0 1 14,1"/>
  <path style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Text" d="M 8,11 A 6,6 0 0 1 14,5"/>
 </svg>

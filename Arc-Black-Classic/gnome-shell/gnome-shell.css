@@ -2068,7 +2068,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 
 .app-view-control:hover {
   color: white;
-  background-color: rgba(255, 255, 255, 0.08) !important;
+  background-color: rgba(79, 148, 229, 0.9) !important;
 }
 
 .app-view-control:active {

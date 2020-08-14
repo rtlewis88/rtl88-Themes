@@ -1746,7 +1746,7 @@ StScrollBar StButton#hhandle:active {
 #overview {
   spacing: 24px;
   background-color: transparent;
-  color: #d3dae3;
+  color: rgba(174, 128, 255, 0.9);
 }
 
 .overview-controls {
@@ -2133,7 +2133,8 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:hover {
-  background-color: rgba(211, 218, 227, 0.08);
+  color: #ffffff;
+  background-color: rgba(174, 128, 255, 0.4);
 }
 
 .app-view-control:active {

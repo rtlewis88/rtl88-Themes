@@ -2133,6 +2133,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:hover {
+  color: #ffffff;
   background-color: #275f72;
 }
 

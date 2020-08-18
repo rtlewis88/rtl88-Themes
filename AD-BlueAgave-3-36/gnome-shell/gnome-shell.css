@@ -291,7 +291,7 @@ StScrollBar StButton#hhandle {
   transition-duration: 100ms;
   margin: 4px;
   border-radius: 4px;
-  background-color: #2f99bf;
+  background-color: rgba(199, 211, 227, 0.5);
 }
 
 StScrollBar StButton#vhandle:hover,
@@ -429,7 +429,7 @@ StScrollBar StButton#hhandle:active {
   border-bottom: 0;
   padding-bottom: 0;
   box-shadow: none;
-  background-color: #2f99bf;
+  background-color: rgba(199, 211, 227, 0.04);
 }
 
 .popup-menu-ornament {
@@ -1633,7 +1633,7 @@ StScrollBar StButton#hhandle:active {
   -natural-hpadding: 8px;
   -minimum-hpadding: 4px;
   transition-duration: 100ms;
-  color: rgba(199, 211, 227, 0.7);
+  color: #cccccc;
   text-shadow: none;
   font-weight: bold;
 }
@@ -1862,9 +1862,9 @@ StScrollBar StButton#hhandle:active {
   width: 304px;
   padding: 0 8px;
   border-radius: 3px 3px 0 0;
-  color: #2f99bf;
+  color: rgba(199, 211, 227, 0.5);
   selection-background-color: rgba(199, 211, 227, 0.3);
-  selected-color: #2f99bf;
+  selected-color: #c7d3e3;
   transition-duration: 100ms;
   background-color: rgba(199, 211, 227, 0.04);
   border-color: transparent;
@@ -2070,7 +2070,7 @@ StScrollBar StButton#hhandle:active {
   width: 32px;
   margin-bottom: 0;
   border-radius: 0;
-  background-color: #2f99bf;
+  background-color: #4cb4d8;
 }
 
 .rename-folder-popup .rename-folder-popup-item {

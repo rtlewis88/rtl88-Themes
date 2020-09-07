@@ -2123,7 +2123,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control, .app-view-control:focus, .app-view-control:hover, .app-view-control:active, .app-view-control:checked {
-  color: #656e7f;
+  color: #A2B1CC;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;
@@ -2133,10 +2133,13 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:hover {
+ color: #ffffff;
+ font-weight: bold;
   background-color: rgba(211, 218, 227, 0.08);
 }
 
 .app-view-control:active {
+  color: #656e7f;
   background-color: rgba(211, 218, 227, 0.2);
   transition-duration: 200ms;
 }
@@ -2144,7 +2147,7 @@ StScrollBar StButton#hhandle:active {
 .app-view-control:checked {
   box-shadow: inset 0 2px 0 #d3dae3;
   background-color: rgba(0, 0, 0, 0.01);
-  color: #d3dae3;
+  color: #8E9BB3;
 }
 
 .app-view-control:focus {

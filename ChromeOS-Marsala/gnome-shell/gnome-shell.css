@@ -1905,7 +1905,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   border-radius: 4px 4px 0 0;
   color: rgba(229, 114, 114, 1.0);
   selection-background-color: rgba(238, 238, 238, 0.3);
-  selected-color: #eeeeee;
+  selected-color: rgba(229, 114, 114, 1.0);
   transition-duration: 100ms;
   background-color: rgba(238, 238, 238, 0.04);
   border-color: transparent;

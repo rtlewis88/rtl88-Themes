@@ -2005,7 +2005,7 @@ StScrollBar StButton#hhandle:active {
   border: 0;
   border-radius: 3px;
   background-color: #0f1214;
-  color: #ffffff;
+  color: #59D7FF;
 }
 
 .app-folder-dialog .folder-name-container {
@@ -2070,7 +2070,7 @@ StScrollBar StButton#hhandle:active {
   width: 32px;
   margin-bottom: 0;
   border-radius: 0;
-  background-color: #47ACCC;
+  background-color: #59D7FF;
 }
 
 .rename-folder-popup .rename-folder-popup-item {
@@ -2123,7 +2123,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control, .app-view-control:focus, .app-view-control:hover, .app-view-control:active, .app-view-control:checked {
-  color: #47ACCC;
+  color: #59D7FF;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;

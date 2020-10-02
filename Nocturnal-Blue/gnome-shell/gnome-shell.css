@@ -293,7 +293,7 @@ StScrollBar StButton#hhandle {
   transition-duration: 100ms;
   margin: 4px;
   border-radius: 4px;
-  background-color: #005D8C;
+  background-color: #308FBF;
 }
 
 StScrollBar StButton#vhandle:hover,

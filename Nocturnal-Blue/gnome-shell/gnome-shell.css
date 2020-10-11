@@ -2144,7 +2144,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:checked {
-  box-shadow: inset 0 2px 0 #8cd8ff;
+  box-shadow: inset 0 2px 0 #59C7FF;
   background-color: rgba(0, 0, 0, 0.01);
   color: #8cd8ff;
 }

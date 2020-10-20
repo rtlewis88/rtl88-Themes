@@ -2155,7 +2155,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .app-well-app-running-dot {
   width: 32px;
   height: 2px;
-  background-color: rgba(38, 139, 210, 0.9);
+  background-color: #2EA9FF;
   margin-bottom: 0;
 }
 
@@ -2235,7 +2235,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .page-indicator:checked .page-indicator-icon,
 .page-indicator:checked:active .page-indicator-icon {
   background-image: none;
-  background-color: white;
+  background-color: #2EA9FF;
   transition-duration: 0ms;
 }
 

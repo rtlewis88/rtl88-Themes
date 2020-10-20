@@ -1862,9 +1862,9 @@ StScrollBar StButton#hhandle:active {
   width: 304px;
   padding: 0 8px;
   border-radius: 2px 2px 0 0;
-  color: rgba(253, 246, 227, 0.5);
+  color: #268bd2;
   selection-background-color: rgba(253, 246, 227, 0.3);
-  selected-color: #fdf6e3;
+  selected-color: #268bd2;
   transition-duration: 100ms;
   background-color: rgba(253, 246, 227, 0.04);
   border-color: transparent;
@@ -1992,6 +1992,7 @@ StScrollBar StButton#hhandle:active {
 .grid-search-result .overview-icon.overview-icon-with-label > StBoxLayout,
 .app-well-app.app-folder .overview-icon.overview-icon-with-label > StBoxLayout {
   spacing: 4px;
+  color: #2EA9FF;
 }
 
 /* App Folders */
@@ -2070,7 +2071,7 @@ StScrollBar StButton#hhandle:active {
   width: 32px;
   margin-bottom: 0;
   border-radius: 0;
-  background-color: #268bd2;
+  background-color: #2EA9FF;
 }
 
 .rename-folder-popup .rename-folder-popup-item {
@@ -2094,7 +2095,7 @@ StScrollBar StButton#hhandle:active {
   width: 12px;
   height: 12px;
   border-radius: 12px;
-  background-color: #fdf6e3;
+  background-color: #268bd2;
 }
 
 
@@ -2123,7 +2124,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control, .app-view-control:focus, .app-view-control:hover, .app-view-control:active, .app-view-control:checked {
-  color: rgba(253, 246, 227, 0.7);
+  color: #2EA9FF;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;
@@ -2142,7 +2143,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:checked {
-  box-shadow: inset 0 2px 0 #fdf6e3;
+  box-shadow: inset 0 2px 0 #2EA9FF;
   background-color: rgba(0, 0, 0, 0.01);
   color: #fdf6e3;
 }

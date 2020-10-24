@@ -13,7 +13,7 @@
   },
 
   "regular-text"     : {
-    "text-color"     : "#ffffff",
+    "text-color"     : "#0abdc6",
     "text-opacity"   : 1.0,
     "text-size"      : 13.0,
     "text-mode"      : "normal",
@@ -25,7 +25,7 @@
   },
 
   "button-icon": {
-    "color"          : ["#ffffff", "#0abdc6", "#0abdc6", "#0abdc6", "#0abdc6"],
+    "color"          : ["#0abdc6", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
     "opacity"        : [      1.0,       1.0,       1.0,       0.8,       0.8],
     "overlay-opacity": [     0.30,      0.48,      0.48,      0.45,      0.45],
     "overlay-mode"   : [ "normal","multiply",  "multiply",  "normal",  "normal"],
@@ -47,13 +47,13 @@
 
   "button-label": {
     "border-opacity" : [      0.8,      0.13,      0.13,      0.13,      0.13],
-    "border-color"   : ["#ffffff", "#0abdc6", "#0abdc6", "#0abdc6", "#0abdc6"],
+    "border-color"   : ["#0abdc6", "#FFFFFF", "#FFFFFF", "#FFFFFF", "#FFFFFF"],
     "border-size"    : [      2.0,       1.0,       1.0,       0.5,       0.5],
     "border-radius"  : 4.0,
     "text-size"      : 1.0,
-    "text-color"     : ["#ffffff", "#ffffff", "#ffffff", "#ffffff", "#ffffff"],
+    "text-color"     : ["#0abdc6", "#0abdc6", "#0abdc6", "#0abdc6", "#0abdc6"],
     "text-opacity"   : [      1.0,       1.0,       1.0,       1.0,       1.0],
-    "fill-color"     : ["#0abdc6", "#000b1e", "#000b1e", "#000b1e", "#000b1e"],
+    "fill-color"     : ["#FFFFFF", "#000000", "#000000", "#000000", "#000000"],
     "fill-opacity"   : [      0.13,      0.0,       0.0,       0.0,       0.0],
     "overlay-opacity": [      0.1,       0.1,       0.1,       0.0,       0.0],
     "overlay-mode"   : [ "normal",  "normal",  "normal",  "normal",  "normal"],
@@ -67,11 +67,11 @@
   },
 
   "row-caption" : {
-    "main-text-color"   : "#ffffff",
+    "main-text-color"   : "#0abdc6",
     "main-text-opacity" : 1.0,
     "main-text-size"    : 17.0,
     "main-text-weight"  : "regular",
-    "sub-text-color"    : "#ffffff",
+    "sub-text-color"    : "#0abdc6",
     "sub-text-opacity"  : 0.5,
     "sub-text-size"     : 13.0,
     "sub-text-weight"   : "regular",
@@ -82,12 +82,12 @@
 
   "preview-heading-small"  : {
     "main-title-size"    : 23.0,
-    "main-title-color"   : "#ffffff",
+    "main-title-color"   : "#0abdc6",
     "main-title-opacity" : 1.0,
     "main-title-mode"    : "normal",
     "main-title-weight"  : "regular",
     "sub-title-size"     : 17.0,
-    "sub-title-color"    : "#ffffff",
+    "sub-title-color"    : "#0abdc6",
     "sub-title-opacity"  : 1.0,
     "sub-title-mode"     : "normal",
     "sub-title-weight"   : "regular",
@@ -97,12 +97,12 @@
 
   "preview-heading"  : {
     "main-title-size"    : 30.0,
-    "main-title-color"   : "#ffffff",
+    "main-title-color"   : "#0abdc6",
     "main-title-opacity" : 1.0,
     "main-title-mode"    : "normal",
     "main-title-weight"  : "regular",
     "sub-title-size"     : 17.0,
-    "sub-title-color"    : "#ffffff",
+    "sub-title-color"    : "#0abdc6",
     "sub-title-opacity"  : 1.0,
     "sub-title-mode"     : "normal",
     "sub-title-weight"   : "regular",
@@ -133,7 +133,7 @@
   "filter-pane" : {
     "width"           : 330,
     "title-size"      : 17.0,
-    "title-color"     : "#ffffff",
+    "title-color"     : "#0abdc6",
     "title-opacity"   : 1.0,
     "title-mode"      : "normal",
     "title-style"     : "bold",
@@ -144,7 +144,7 @@
 
   "separator"       : {
     "size"           : 1.0,
-    "color"          : "#ffffff",
+    "color"          : "#0abdc6",
     "opacity"        : 0.15,
     "overlay-opacity": 0.47,
     "overlay-mode"   : "normal",
@@ -153,7 +153,7 @@
 
   "filter-caption"   : {
     "text-size"      : 17,
-    "text-color"     : "#ffffff",
+    "text-color"     : "#0abdc6",
     "text-opacity"   : 1.0,
     "text-mode"      : "normal",
     "text-weight"    : "bold",

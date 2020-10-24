@@ -57,5 +57,5 @@
    <stop offset="100%"  stop-color= "#0f83ae" stop-opacity="1"/>
   </linearGradient>
  </defs>
- <path fill="none" stroke="url(#oomox)" class="ColorScheme-Text" stroke-width="2" d="M 4,15 H 12 V 11 L 8,8 4,11 Z M 4,1 H 12 V 5 L 8,8 4,5 Z"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Text" d="M 4,15 H 12 V 11 L 8,8 4,11 Z M 4,1 H 12 V 5 L 8,8 4,5 Z"/>
 </svg>

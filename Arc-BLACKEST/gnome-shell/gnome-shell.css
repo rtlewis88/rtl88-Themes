@@ -1771,7 +1771,7 @@ StScrollBar StButton#hhandle:active {
   border: 0;
   border-radius: 3px;
   background-color: transparent;
-  color: inherit;
+  color: #59B0FF;
   text-align: center;
   transition-duration: 100ms;
 }
@@ -2123,7 +2123,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control, .app-view-control:focus, .app-view-control:hover, .app-view-control:active, .app-view-control:checked {
-  color: #73B3FF;
+  color: #59B0FF;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;

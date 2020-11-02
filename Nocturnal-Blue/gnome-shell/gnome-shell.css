@@ -2139,7 +2139,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:active {
-  background-color: rgba(140, 216, 255, 0.2);
+  background-color: rgba(140, 216, 255, 0.3);
   transition-duration: 200ms;
 }
 

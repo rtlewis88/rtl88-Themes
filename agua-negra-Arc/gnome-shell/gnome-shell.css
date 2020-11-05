@@ -2133,11 +2133,14 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:hover {
+  color: #80E1FF;
   background-color: rgba(0, 136, 178, 0.25);
 }
 
 .app-view-control:active {
-  background-color: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  font-weight: bold;
+  background-color: rgba(0, 136, 178, 0.35);
   transition-duration: 200ms;
 }
 

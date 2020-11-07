@@ -296,12 +296,12 @@ StScrollBar StButton#hhandle {
 
 StScrollBar StButton#vhandle:hover,
 StScrollBar StButton#hhandle:hover {
-  background-color: #2EA9FF;
+  background-color: rgba(253, 246, 227, 0.7);
 }
 
 StScrollBar StButton#vhandle:active,
 StScrollBar StButton#hhandle:active {
-  background-color: #CB4B16;
+  background-color: #fdf6e3;
 }
 
 #overview StScrollBar StBin#trough, #unlockDialogNotifications StScrollBar StBin#trough {
@@ -1633,7 +1633,7 @@ StScrollBar StButton#hhandle:active {
   -natural-hpadding: 8px;
   -minimum-hpadding: 4px;
   transition-duration: 100ms;
-  color: #cccccc;
+  color: #CCCCCC;
   text-shadow: none;
   font-weight: bold;
 }
@@ -1992,6 +1992,7 @@ StScrollBar StButton#hhandle:active {
 .grid-search-result .overview-icon.overview-icon-with-label > StBoxLayout,
 .app-well-app.app-folder .overview-icon.overview-icon-with-label > StBoxLayout {
   spacing: 4px;
+  color: #2EA9FF;
 }
 
 /* App Folders */
@@ -2070,7 +2071,7 @@ StScrollBar StButton#hhandle:active {
   width: 32px;
   margin-bottom: 0;
   border-radius: 0;
-  background-color: #268bd2;
+  background-color: #2EA9FF;
 }
 
 .rename-folder-popup .rename-folder-popup-item {
@@ -2123,7 +2124,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control, .app-view-control:focus, .app-view-control:hover, .app-view-control:active, .app-view-control:checked {
-  color: #ffffff;
+  color: #2EA9FF;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;
@@ -2134,6 +2135,7 @@ StScrollBar StButton#hhandle:active {
 
 .app-view-control:hover {
   background-color: rgba(203, 75, 22, 0.9);
+  color: #ffffff;
   font-weight: bold;
 }
 
@@ -2143,7 +2145,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:checked {
-  box-shadow: inset 0 2px 0 #fdf6e3;
+  box-shadow: inset 0 2px 0 #2EA9FF;
   background-color: rgba(0, 0, 0, 0.01);
   color: #fdf6e3;
 }

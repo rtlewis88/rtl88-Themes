@@ -2067,13 +2067,15 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:hover {
-  color: white;
-  background-color: rgba(255, 255, 255, 0.08) !important;
+  background-color: rgba(203, 75, 22, 0.9);
+  color: #ffffff;
+  font-weight: bold;
 }
 
 .app-view-control:active {
   color: white;
-  background-color: rgba(255, 255, 255, 0.2) !important;
+  font-weight: bold;
+  background-color: #406FA6;
 }
 
 .app-view-control:checked {

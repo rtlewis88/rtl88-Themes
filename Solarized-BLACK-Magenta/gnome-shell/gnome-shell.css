@@ -1788,7 +1788,7 @@ StScrollBar StButton#hhandle:active {
   border-image: none;
   background-image: none;
   background-color: rgba(253, 246, 227, 0.08);
-  color: inherit;
+  color: #ff2d92;
   transition-duration: 0ms;
 }
 

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ChromeOS-Slate-Rounded
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ChromeOS-Slate-Rounded
+MetacityTheme=ChromeOS-Slate-Rounded
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

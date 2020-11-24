@@ -24,8 +24,8 @@
    <stop offset="100%"  stop-color= "#329DB6" stop-opacity="1"/>
   </linearGradient>
   <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
-   <stop offset="0%"    stop-color= "#77d800" stop-opacity="1"/>
-   <stop offset="100%"  stop-color= "#3f7200" stop-opacity="1"/>
+   <stop offset="0%"    stop-color= "#7EE600" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#468000" stop-opacity="1"/>
   </linearGradient>
   <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
    <stop offset="0%"    stop-color= "#00F260" stop-opacity="1"/>
@@ -57,5 +57,5 @@
    <stop offset="100%"  stop-color= "#0f83ae" stop-opacity="1"/>
   </linearGradient>
  </defs>
- <path fill="none" stroke="url(#oomox)" class="ColorScheme-Text" stroke-width="2" d="M 4,15 H 12 V 11 L 8,8 4,11 Z M 4,1 H 12 V 5 L 8,8 4,5 Z"/>
+ <path style="fill:none;stroke:currentColor;stroke-width:2" class="ColorScheme-Text" d="M 4,15 H 12 V 11 L 8,8 4,11 Z M 4,1 H 12 V 5 L 8,8 4,5 Z"/>
 </svg>

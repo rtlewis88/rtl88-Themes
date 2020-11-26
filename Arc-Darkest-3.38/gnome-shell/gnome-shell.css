@@ -1633,7 +1633,7 @@ StScrollBar StButton#hhandle:active {
   -natural-hpadding: 8px;
   -minimum-hpadding: 4px;
   transition-duration: 100ms;
-  color: rgba(211, 218, 227, 0.7);
+  color: #cccccc;
   text-shadow: none;
   font-weight: bold;
 }
@@ -2137,6 +2137,8 @@ StScrollBar StButton#hhandle:active {
 }
 
 .app-view-control:active {
+  color: #ffffff;
+  font-weight: bold;
   background-color: #4b8cd8;
   transition-duration: 200ms;
 }

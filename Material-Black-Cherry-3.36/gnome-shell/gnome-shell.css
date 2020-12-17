@@ -376,7 +376,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .popup-menu-item.selected {
-  background-color: rgba(204, 204, 204, 0.08);
+  background-color: rgba(183, 56, 56, 0.3);
   transition-duration: 0ms;
 }
 

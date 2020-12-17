@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #939597; } .ColorScheme-Highlight { color: #1AD6AB; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44"/>
+   <stop offset="100%" style="stop-color:#ad6c16"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF"/>
+   <stop offset="100%" style="stop-color:#9269F4"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0" style="stop-color:#0abdc6"/>
+   <stop offset="1" style="stop-color:#ea00d9"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB"/>
+   <stop offset="100%" style="stop-color:#329DB6"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#f27979"/>
+   <stop offset="100%" style="stop-color:#9e2121"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260"/>
+   <stop offset="100%" style="stop-color:#0575E6"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#FF8501"/>
+   <stop offset="100%" style="stop-color:#FFCB01"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#b2ced6"/>
+   <stop offset="100%" style="stop-color:#6da5b7"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#df5940"/>
+   <stop offset="25%" style="stop-color:#d8d15f"/>
+   <stop offset="50%" style="stop-color:#e9882a"/>
+   <stop offset="100%" style="stop-color:#279362"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#f618c7"/>
+   <stop offset="20%" style="stop-color:#94ffab"/>
+   <stop offset="50%" style="stop-color:#fbfd54"/>
+   <stop offset="100%" style="stop-color:#0f83ae"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="m11 3a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8zm-0.11523 4.002h0.0019c1.8673 0.07063 2.9719 1.333 3.0938 3.1738 0.1373 2.0751-0.47461 2.6162-0.21289 3.0332 0.54652 0.87079-0.22644 1.098-0.74023 1.5234-0.32 0.265-0.939 0.145-1.245-0.232-0.93-0.538-0.57 0.495-2.49 0.5-0.9983-0.041-1.9153-0.761-2.1739-1.732-0.3964-1.49 0.1855-2.589 1.8047-3.108 0.4684-0.15 1.3962-0.06 1.8052-0.3592 0.385-0.2822 0.249-0.6874-0.225-0.7403-0.6798-0.0758-1.7401 0.2319-2.3673 0.1075-0.5034-0.0999-0.6566-1.0612-0.3281-1.4746 0.5376-0.6767 1.9163-0.6476 2.6954-0.6836 0.1312-0.0061 0.25638-0.012549 0.38086-0.0078zm-0.24805 4.4492c-0.43248 0-0.79102 0.32278-0.79102 0.72461 0 0.40185 0.35851 0.73242 0.79102 0.73242 0.4325 0 0.77344-0.33059 0.77344-0.73242 0-0.40181-0.34093-0.72461-0.77344-0.72461z"/>
+</svg>

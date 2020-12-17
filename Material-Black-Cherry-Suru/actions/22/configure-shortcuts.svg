@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #939597; } .ColorScheme-Highlight { color: #1AD6AB; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#dd9b44" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#ad6c16" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#09D4DF" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#9269F4" stop-opacity="1"/>
+  </linearGradient> 
+  <linearGradient id="cyberblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#07B3FF" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#007DE8" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0%"   stop-color= "#0abdc6" stop-opacity="1"/>
+    <stop offset="100%" stop-color= "#ea00d9" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#1AD6AB" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#329DB6" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#f27979" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#9e2121" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#00F260" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#0575E6" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="redcarbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#FF6D57" stop-opacity="1"/>
+   <stop offset="50%"   stop-color= "#FF5160" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#F50F22" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#FF8501" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#FFCB01" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#b2ced6" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#6da5b7" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#df5940" stop-opacity="1"/>
+   <stop offset="25%"   stop-color= "#d8d15f" stop-opacity="1"/>
+   <stop offset="50%"   stop-color= "#e9882a" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#279362" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%"    stop-color= "#f618c7" stop-opacity="1"/>
+   <stop offset="20%"   stop-color= "#94ffab" stop-opacity="1"/>
+   <stop offset="50%"   stop-color= "#fbfd54" stop-opacity="1"/>
+   <stop offset="100%"  stop-color= "#0f83ae" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="M 2 2 C 2 2 0 2 0 4 L 0 12 C 0 14 2 14 2 14 L 13 14 C 13 14 15 14 15 12 L 15 4 C 15 2 13 2 13 2 L 2 2 z M 2.25 4 L 3.75 4 C 3.8885 4 4 4.1115 4 4.25 L 4 5.75 C 4 5.8885 3.8885 6 3.75 6 L 2.25 6 C 2.1115 6 2 5.8885 2 5.75 L 2 4.25 C 2 4.1115 2.1115 4 2.25 4 z M 5.25 4 L 6.75 4 C 6.8885 4 7 4.1115 7 4.25 L 7 5.75 C 7 5.8885 6.8885 6 6.75 6 L 5.25 6 C 5.1115 6 5 5.8885 5 5.75 L 5 4.25 C 5 4.1115 5.1115 4 5.25 4 z M 8.25 4 L 9.75 4 C 9.8885 4 10 4.1115 10 4.25 L 10 5.75 C 10 5.8885 9.8885 6 9.75 6 L 8.25 6 C 8.1115 6 8 5.8885 8 5.75 L 8 4.25 C 8 4.1115 8.1115 4 8.25 4 z M 11.25 4 L 12.75 4 C 12.8885 4 13 4.1115 13 4.25 L 13 5.75 C 13 5.8885 12.8885 6 12.75 6 L 11.25 6 C 11.1115 6 11 5.8885 11 5.75 L 11 4.25 C 11 4.1115 11.1115 4 11.25 4 z M 2.25 7 L 3.75 7 C 3.8885 7 4 7.1115 4 7.25 L 4 8.75 C 4 8.8885 3.8885 9 3.75 9 L 2.25 9 C 2.1115 9 2 8.8885 2 8.75 L 2 7.25 C 2 7.1115 2.1115 7 2.25 7 z M 5.25 7 L 6.75 7 C 6.8885 7 7 7.1115 7 7.25 L 7 8.75 C 7 8.8885 6.8885 9 6.75 9 L 5.25 9 C 5.1115 9 5 8.8885 5 8.75 L 5 7.25 C 5 7.1115 5.1115 7 5.25 7 z M 8.25 7 L 9.75 7 C 9.8885 7 10 7.1115 10 7.25 L 10 8.75 C 10 8.8885 9.8885 9 9.75 9 L 8.25 9 C 8.1115 9 8 8.8885 8 8.75 L 8 7.25 C 8 7.1115 8.1115 7 8.25 7 z M 11.25 7 L 12.75 7 C 12.8885 7 13 7.1115 13 7.25 L 13 8.75 C 13 8.8885 12.8885 9 12.75 9 L 11.25 9 C 11.1115 9 11 8.8885 11 8.75 L 11 7.25 C 11 7.1115 11.1115 7 11.25 7 z M 4.25 10 L 10.75 10 C 10.8885 10 11 10.1115 11 10.25 L 11 11.75 C 11 11.8885 10.8885 12 10.75 12 L 4.25 12 C 4.1115 12 4 11.8885 4 11.75 L 4 10.25 C 4 10.1115 4.1115 10 4.25 10 z" transform="translate(3 3)"/>
+</svg>

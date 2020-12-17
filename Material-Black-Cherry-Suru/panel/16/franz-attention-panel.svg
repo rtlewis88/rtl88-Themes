@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #939597; } .ColorScheme-Highlight { color: #1AD6AB; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #dd9b44; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #ad6c16; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #09D4DF; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #9269F4; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color: #0abdc6; stop-opacity: 1"/>
+    <stop offset="1" style="stop-color: #ea00d9; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #1AD6AB; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #329DB6; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f27979; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #9e2121; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #00F260; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #0575E6; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity: 1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity: 1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity: 1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity: 1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity: 1"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#oomox)" class="ColorScheme-Text" fill-rule="evenodd" d="M 5.48825,5 C 4.9985833,5 4.4330833,6.1027 3.8345833,7.27 c -0.11175,0.217 -0.2205,0.428 -0.3255,0.625 C 3.1715833,8.601 2.7164167,9.707 2.277,10.002 1.90875,10.245 1.51025,10.404 1.193,10.404 0.97849997,10.404 0.89333333,10.326 0.87233333,10.303 0.72616667,10.137 0.55016666,10 0.41666666,10 0.22766666,10 0,10 0,10.5 0,12 2.55525,12.893 3.6881666,12.984 3.8464166,12.995 4.0081667,13 4.1731667,13 l 0.040667,0 C 5.4331667,12.975 6.53025,12.299 7.155,11.191 7.2833333,10.965 7.4675,11 7.5,11 c 0.0325,0 0.2166667,-0.035 0.345,0.191 0.625,1.108 1.7216663,1.784 2.940833,1.809 l 0.04083,0 c 0.165,0 0.326667,-0.006 0.485,-0.016 C 12.445,12.893 15,12 15,10.5 15,10 14.7725,10 14.583334,10 14.45,10 14.274167,10.137 14.1275,10.303 c -0.02083,0.023 -0.105834,0.101 -0.32,0.101 -0.3175,0 -0.715834,-0.159 -1.084166,-0.402 C 12.283333,9.707 11.828333,8.601 11.490833,7.895 11.385833,7.698 11.2775,7.487 11.165833,7.27 10.5675,6.1023 10.0025,4.9996 9.5125003,4.9996 9.165,4.9996 8.7625,5.2975 8.375,5.5855 8.0516666,5.8255 7.7183333,5.9996 7.5008333,5.9996 7.2833333,5.9996 6.95,5.8255 6.6265,5.5855 6.23875,5.2975 5.83675,4.9996 5.48875,4.9996 Z"/>
+ <circle fill="currentColor" class="ColorScheme-Highlight" cx="7.5" cy="3.5" r="1.5"/>
+</svg>

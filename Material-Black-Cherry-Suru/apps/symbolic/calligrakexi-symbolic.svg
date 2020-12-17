@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #939597; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#f27979; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9e2121; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="M 7.9999989,16 C 4.1362002,16 0.99999975,14.964561 0.99999975,13.707242 v -2.292758 c 0,-0.197227 0.10035515,-0.394453 0.25089595,-0.567026 0.777778,0.986132 3.4874554,1.725732 6.7491032,1.725732 3.2616491,0 5.9713261,-0.7396 6.7491031,-1.725732 0.150537,0.172573 0.250896,0.369799 0.250896,0.567026 v 2.292758 C 14.999998,14.964561 11.863797,16 7.9999989,16 Z m 0,-4.585516 c -3.8637987,0 -6.99999915,-1.035439 -6.99999915,-2.292758 V 6.828968 c 0,-0.123267 0.0501829,-0.246533 0.10035505,-0.345147 l 0.1505378,-0.22188 c 0.777778,0.986133 3.4874554,1.725732 6.7491033,1.725732 3.2616491,0 5.9713251,-0.739599 6.7491031,-1.725732 l 0.150537,0.22188 c 0.05018,0.123267 0.100355,0.246533 0.100355,0.345147 v 2.292758 c 0,1.281972 -3.136201,2.292758 -6.9999992,2.292758 z m 0,-4.560863 c -3.8637987,0 -6.99999915,-1.035439 -6.99999915,-2.292758 V 3.42681 2.292758 C 0.99999975,1.035439 4.1362002,0 7.9999989,0 11.863797,0 15,1.035439 15,2.292758 V 3.42681 4.560863 c 0,1.257319 -3.136203,2.292758 -7.0000011,2.292758 z m 0,-5.744222 c -2.584229,0 -4.666666,0.51772 -4.666666,1.134052 0,0.616333 2.0824371,1.134053 4.666666,1.134053 2.5842281,0 4.6666651,-0.51772 4.6666651,-1.134053 0,-0.616332 -2.082437,-1.134052 -4.6666651,-1.134052 z"/>
+</svg>

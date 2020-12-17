@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<defs>
+  <linearGradient id="carbon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #525c66; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #36424e; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color: #0abdc6; stop-opacity: 1"/>
+    <stop offset="1" style="stop-color: #ea00d9; stop-opacity: 1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #1ad6ab; stop-opacity: 1"/>
+   <stop offset="100%" style="stop-color: #329db6; stop-opacity: 1"/>
+  </linearGradient>
+</defs>
+ <circle fill="url(#carbon)" cx="8" cy="8" r="7"/>
+ <path fill="#ececec" d="m 3.2270295,8.53033 2.12132,2.12132 L 6.40901,11.71231 12.772971,5.34835 11.71231,4.2876895 6.40901,9.5909905 4.2876893,7.46967 Z"/>
+</svg>

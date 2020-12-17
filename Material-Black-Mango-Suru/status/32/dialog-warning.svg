@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #ececec; } .ColorScheme-Highlight { color: #1AD6AB; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop3" offset="0%" stop-color="#dd9b44"/>
+   <stop id="stop5" offset="100%" stop-color="#ad6c16"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop8" offset="0%" stop-color="#09D4DF"/>
+   <stop id="stop10" offset="100%" stop-color="#9269F4"/>
+  </linearGradient>
+  <linearGradient id="cyberblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop13" offset="0%" stop-color="#07B3FF"/>
+   <stop id="stop15" offset="100%" stop-color="#007DE8"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop18" offset="0%" stop-color="#0abdc6"/>
+   <stop id="stop20" offset="100%" stop-color="#ea00d9"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop23" offset="0%" stop-color="#1AD6AB"/>
+   <stop id="stop25" offset="100%" stop-color="#329DB6"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop28" offset="0%" stop-color="#efefe7"/>
+   <stop id="stop30" offset="100%" stop-color="#8f8f8b"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop33" offset="0%" stop-color="#00F260"/>
+   <stop id="stop35" offset="100%" stop-color="#0575E6"/>
+  </linearGradient>
+  <linearGradient id="redcarbon" x1="0%" x2="100%" y1="0%" y2="100%">
+   <stop id="stop38" offset="0%" stop-color="#FF6D57"/>
+   <stop id="stop40" offset="50%" stop-color="#FF5160"/>
+   <stop id="stop42" offset="100%" stop-color="#F50F22"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop45" offset="0%" stop-color="#FF8501"/>
+   <stop id="stop47" offset="100%" stop-color="#FFCB01"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop50" offset="0%" stop-color="#b2ced6"/>
+   <stop id="stop52" offset="100%" stop-color="#6da5b7"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop55" offset="0%" stop-color="#df5940"/>
+   <stop id="stop57" offset="25%" stop-color="#d8d15f"/>
+   <stop id="stop59" offset="50%" stop-color="#e9882a"/>
+   <stop id="stop61" offset="100%" stop-color="#279362"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop id="stop64" offset="0%" stop-color="#f618c7"/>
+   <stop id="stop66" offset="20%" stop-color="#94ffab"/>
+   <stop id="stop68" offset="50%" stop-color="#fbfd54"/>
+   <stop id="stop70" offset="100%" stop-color="#0f83ae"/>
+  </linearGradient>
+  <linearGradient id="pause" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(4,0,0,12,14,5.734)" gradientUnits="userSpaceOnUse">
+   <stop id="stop73" offset="0%" stop-color="#f06"/>
+   <stop id="stop75" offset="100%" stop-color="#dc1499"/>
+  </linearGradient>
+  <linearGradient id="squircle" x1="0" x2="0" y1="0" y2="1" gradientTransform="matrix(24,0,0,22.401,0,0.533)" gradientUnits="userSpaceOnUse">
+   <stop id="stop78" offset="0%" stop-color="#4c5561"/>
+   <stop id="stop80" offset="100%" stop-color="#2e3842"/>
+  </linearGradient>
+ </defs>
+ <rect fill="url(#sunrise)" opacity="1.0" width="28" height="28" x="-30" y="-30" rx="14" ry="14" transform="matrix(0,-1,-1,0,0,0)"/>
+ <path fill="#4c5561" opacity="1.0" class="error" d="m 15,6.997 h 2 v 13.0000094 h -2 z m 0,16.0004376 h 2 v 2.0000547 h -2 z"/>
+ <path fill="#efefef" opacity="0.2" d="m16 2c-7.756 0-14 6.244-14 14 0 0.169 0.0195 0.333 0.0254 0.5 0.2637-7.5206 6.3874-13.5 13.975-13.5 7.587 0 13.711 5.9794 13.975 13.5 0.005-0.167 0.025-0.331 0.025-0.5 0-7.756-6.244-14-14-14z"/>
+ <path fill="#1e1e1e" opacity="0.2" d="m2.0254 16.5c-0.0059 0.167-0.0254 0.331-0.0254 0.5 0 7.756 6.244 14 14 14s14-6.244 14-14c0-0.169-0.02-0.333-0.025-0.5-0.264 7.521-6.388 13.5-13.975 13.5-7.5872 0-13.711-5.979-13.975-13.5z"/>
+</svg>

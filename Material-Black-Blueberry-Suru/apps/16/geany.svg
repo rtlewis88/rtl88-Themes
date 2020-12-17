@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #939597; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#66b7ff; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#006acc; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="M 2.25 3.5 C 1.6969611 3.5 0.13013141 5.9951622 0.0078125 6.9101562 C 0.00293671 6.9376492 -0.000712421 6.966546 0 7 C -0.00068210532 7.033516 0.00282555 7.0628488 0.0078125 7.0898438 C 0.12933512 8.0041377 1.696802 10.5 2.25 10.5 C 2.8031985 10.5 4.3706648 8.0041377 4.4921875 7.0898438 C 4.4970675 7.0628278 4.50071 7.033302 4.5 7 C 4.5006821 6.966484 4.4971775 6.9373642 4.4921875 6.9101562 C 4.3698686 5.9951622 2.8030421 3.5 2.25 3.5 z M 13.75 3.5 C 13.196958 3.5 11.630131 5.9951622 11.507812 6.9101562 C 11.502913 6.9376492 11.4993 6.966546 11.5 7 C 11.499318 7.033516 11.503113 7.0628488 11.507812 7.0898438 C 11.629335 8.0041377 13.196799 10.5 13.75 10.5 C 14.303199 10.5 15.870665 8.0041377 15.992188 7.0898438 C 15.997087 7.0628278 16.0007 7.033302 16 7 C 16.000682 6.966484 15.997187 6.9373642 15.992188 6.9101562 C 15.86987 5.9951622 14.303039 3.5 13.75 3.5 z M 8 5.5 C 7.4469569 5.5 5.8801277 7.995161 5.7578125 8.9101562 C 5.7529325 8.9376492 5.74929 8.966545 5.75 9 C 5.7493179 9.033516 5.7528225 9.0628487 5.7578125 9.0898438 C 5.8793321 10.004138 7.4468015 12.5 8 12.5 C 8.5531973 12.5 10.120663 10.004138 10.242188 9.0898438 C 10.247087 9.0628588 10.2507 9.033302 10.25 9 C 10.250682 8.966515 10.247187 8.9373543 10.242188 8.9101562 C 10.119869 7.9951609 8.5530392 5.5 8 5.5 z"/>
+</svg>

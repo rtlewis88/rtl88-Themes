@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Black-Mango
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Black-Mango
+MetacityTheme=Material-Black-Mango
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

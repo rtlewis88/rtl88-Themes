@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Black-Cherry
+Comment=Material-Black-Cherry
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Black-Cherry
+MetacityTheme=Material-Black-Cherry
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

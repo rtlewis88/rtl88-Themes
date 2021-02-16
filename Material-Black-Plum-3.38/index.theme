@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=oomox-Material-Black-Plum-Numix-GTK3-dark-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=oomox-Material-Black-Plum-Numix-GTK3-dark-compact
+MetacityTheme=oomox-Material-Black-Plum-Numix-GTK3-dark-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
